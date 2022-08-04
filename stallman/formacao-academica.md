@@ -3,17 +3,22 @@
 Formação acadêmica
 ====
 
-Adicionando tópicos solicitados na issue
 
-```Detalhes sobre sua formação acadêmica, tais como:
 
-    1.quando e onde estudou (ensino básico, faculdade)?
-    2.quais suas matérias favoritas na escola/faculdade?
-    3.qual curso escolheu fazer e quando se formou?
-    4.quais cursos de pós-graduação fez, quando e onde?
-    5.quais foram suas principais contribuições acadêmicas?
-    6.qualquer outra informação que considere relevante sobre sua formação acadêmica
-```
+1. quando e onde estudou (ensino básico, faculdade)?
+### TODO
+2. quais suas matérias favoritas na escola/faculdade?
+### TODO
+3. qual curso escolheu fazer e quando se formou?
+### TODO
+4. quais cursos de pós-graduação fez, quando e onde?
+### TODO
+5. quais foram suas principais contribuições acadêmicas?
+### TODO
+6. qualquer outra informação que considere relevante sobre sua formação acadêmica
+### TODO
+<br>
+
 
 
 1 - 
@@ -25,9 +30,10 @@ Sua postura sempre foi de compartilhar todo seu trabalho e descobertas na área 
 No ano de 1984, Richard terminou seu projeto no MIT e se dedicou totalmente ao projeto GNU, nunca obteve o título de Ph.D., porém recebeu inúmeras homenagens de honra de diversas Universidades renomadas do mundo todo, obtendo inclusive seis títulos honoríficos de Doutor Honoris Causa.
 
 Atualmente, com 59 anos, Richard Matthew Stallman mantém sua filosofia de vida que é viver com pouco dinheiro, o que para ele significa que o dinheiro não dita o que ele deve realizar ou seguir, mas sim, suas ideias e ideais.
+<br>
+<br>
 
-
-
+3 - Curso que escolheu realizar
 
 
 

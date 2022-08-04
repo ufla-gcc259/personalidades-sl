@@ -18,7 +18,9 @@ Seus objetivos consistem em dar aos usuários de computador liberdade e controle
 - Estudar e o modificar
 
 - ## Como ele se relaciona com o Software Livre?
-todo
+O conceito de Software Livre é uma questão de liberdade, não preço; todos os usuários são legalmente livres para fazerem o que quiser com suas cópias de software livre (incluíndo lucrar com elas), não importando o quanto pagaram pelo programa. 
+
+O projeto GNU, lançado juntamente com o movimento do software livre, buscava esforço colaborativo para criar um sistema operacional que respeitava a liberdade, e reviver o espírito cooperativo que era prevalente entre hackers durante a era inicial da computação.
 
 - ## Qual o status do projeto atualmente?
 O *status* atual do projeto inclui atividades como:

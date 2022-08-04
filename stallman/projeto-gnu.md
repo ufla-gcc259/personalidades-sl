@@ -9,7 +9,7 @@ O projeto GNU
 
 - ## O que é o projeto?
 
-O *projeto GNU* é um projeto colaborativo de Software Livre anunciado em 27 de Setembro de 1983 (Trabalhos nele apenas começaram em Janeiro de 1984).[^2] A iniciativa tem a intenção de **desenvolver e publicar** (colaborativamente) software para permitir que seus usuários tenham a liberdade de **utilizar, copiar, distribuir, estudar e modificá-lo**, com o objetivo final de dar **liberdade e controle aos usuários de computadores e seus dispositivos.**
+O *projeto GNU* é um projeto colaborativo de Software Livre anunciado em 27 de Setembro de 1983 (Trabalhos nele apenas começaram em Janeiro de 1984).[^2] A iniciativa tem a intenção de **desenvolver e publicar** (colaborativamente) software para permitir que seus usuários tenham a liberdade de **utilizar, copiar, distribuir, estudar e modificá-lo**, com o objetivo final de dar **liberdade e controle aos usuários de computadores e seus dispositivos.** [^1]
 
 Dois anos depois que o sistema operacional foi anunciado, em Março de 1985, foi publicado o **Manifesto GNU**, pedindo apoio no desenvolvimento do OS GNU (Operational System GNU). [^3]
 

@@ -16,7 +16,7 @@ Dois anos depois que o sistema operacional foi anunciado, em Março de 1985, foi
 O projeto GNU é parte do *Movimento Software Livre*, uma campanha para a liberdade dos usuários de software. [^3]
 
 - ## Quais são seus objetivos?
-Seus objetivos consistem em dar aos usuários de computador liberdade e controle no uso de seus computadores e dispositivos de computação. Desenvolvendo e publicando de forma colaborativa, sendo assim, o *projeto GNU* concede os seguintes direitos em sua licença[^1]:
+Seus objetivos consistem em dar aos usuários de computador liberdade e controle no uso de seus computadores e dispositivos de computação. Desenvolvendo e publicando de forma colaborativa, sendo assim, o *projeto GNU* concede os seguintes direitos em sua licença: [^1]
 - Executar livremente o software
 - Copiar e o distribuir
 - Estudar e o modificar
@@ -29,7 +29,7 @@ O **projeto GNU**, lançado juntamente com o movimento do Software Livre, **busc
 Logo, o projeto GNU foi uma das faíscas que chamaram atenção para o movimento, especialmente após a publicação do **Manifesto GNU**.
 
 - ## Qual o status do projeto atualmente?
-O *status* atual do projeto inclui atividades como[^1]:
+O *status* atual do projeto inclui atividades como: [^1]
 - Desenvolvimento de software
 - Conscientização
 - Campanha política

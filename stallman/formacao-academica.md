@@ -18,7 +18,7 @@ Se formou em Física pela Universidade de Harvard, no ano de 1974, onde após se
 ## 4. quais cursos de pós-graduação fez, quando e onde?
 O Richard Stallman após se formar em física focou totalmente no projeto GNU e na Free Software Fundation, não realizando nenhuma pós-graduação ou P.H.D porém recebeu alguns títulos honoríficos.
 
-## 5. quais foram suas principais contribuições acadêmicas?
+## 5. quais foram suas principais contribuições acadêmicas?[^6]
 
 Em suas publicações temos alguns manuais das tecnologias em que ele criou ou ajudou na criação:
 - Stallman, Richard M. (1980). EMACS: The Extensible, Customizable, Self-Documenting Display Editor. MIT, Cambridge, Massachusetts, USA: MIT Artificial Intelligence Laboratory publication. AIM-519A.
@@ -36,8 +36,9 @@ Um aclamado programador e hacker, seus maiores feitos incluem Emacs , o GNU Comp
 
 
 ## Referencias Utilizadas
-1. [https://www.infoescola.com/biografias/richard-stallman/](https://www.infoescola.com/biografias/richard-stallman/)
-2. [https://pt.wikipedia.org/wiki/Richard_Matthew_Stallman](https://pt.wikipedia.org/wiki/Richard_Matthew_Stallman)
-3. [https://citacoes.in/autores/richard-stallman/](https://citacoes.in/autores/richard-stallman/)
-4. [https://stallman.org/](https://stallman.org/)
-5. [https://pt.frwiki.wiki/wiki/Richard_Stallman](https://pt.frwiki.wiki/wiki/Richard_Stallman)
+[^1]:[https://www.infoescola.com/biografias/richard-stallman/](https://www.infoescola.com/biografias/richard-stallman/)
+[^2]:[https://pt.wikipedia.org/wiki/Richard_Matthew_Stallman](https://pt.wikipedia.org/wiki/Richard_Matthew_Stallman)
+[^3]:[https://citacoes.in/autores/richard-stallman/](https://citacoes.in/autores/richard-stallman/)
+[^4]:[https://stallman.org/](https://stallman.org/)
+[^5]:[https://pt.frwiki.wiki/wiki/Richard_Stallman](https://pt.frwiki.wiki/wiki/Richard_Stallman)
+[^6]:[https://en.wikipedia.org/wiki/Richard_Stallman](https://en.wikipedia.org/wiki/Richard_Stallman)

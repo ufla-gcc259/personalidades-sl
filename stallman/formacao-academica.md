@@ -16,6 +16,8 @@ Richards se formou em Física na Universidade de Harvard(1971- 1974).
 Se formou em Física pela Universidade de Harvard, no ano de 1974, onde após se formar, ele estudou programação de computadores no Massachusetts Institute of Technology (MIT) onde se tornou lider da comunidade hacker.
 
 ## 4. quais cursos de pós-graduação fez, quando e onde?
+O Richard Stallman após se formar em física focou totalmente no projeto GNU e na Free Software Fundation, não realizando nenhuma pós-graduação ou P.H.D porém recebeu alguns títulos honoríficos.
+
 ## 5. quais foram suas principais contribuições acadêmicas?
 
 Em suas publicações temos alguns manuais das tecnologias em que ele criou ou ajudou na criação:

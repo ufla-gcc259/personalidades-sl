@@ -36,6 +36,6 @@ Um aclamado programador e hacker, seus maiores feitos incluem Emacs , o GNU Comp
 
 
 ## Referencias Utilizadas
-1. ["InfoEscola/RichardStallman"]("https://www.infoescola.com/biografias/richard-stallman/")
-2. [https://pt.wikipedia.org/wiki/Richard_Matthew_Stallman]("https://pt.wikipedia.org/wiki/Richard_Matthew_Stallman")
-3. [https://citacoes.in/autores/richard-stallman/]("https://citacoes.in/autores/richard-stallman/")
+1. [https://www.infoescola.com/biografias/richard-stallman/](https://www.infoescola.com/biografias/richard-stallman/)
+2. [https://pt.wikipedia.org/wiki/Richard_Matthew_Stallman](https://pt.wikipedia.org/wiki/Richard_Matthew_Stallman)
+3. [https://citacoes.in/autores/richard-stallman/](https://citacoes.in/autores/richard-stallman/)

@@ -35,13 +35,11 @@ Possui tambem uma coleção de seus ensaios sobre software livre:
 
 No ano de 1984, Richard terminou seu projeto no MIT e se dedicou totalmente ao projeto GNU, nunca obteve o título de Ph.D., porém recebeu inúmeras homenagens de honra de diversas Universidades renomadas do mundo todo, obtendo inclusive seis títulos honoríficos de Doutor Honoris Causa.
 
-
-. Um aclamado programador e hacker, seus maiores feitos incluem Emacs , o GNU Compiler Collection e o GNU Debugger. É também autor da GNU General Public License , a licença livre mais usada no mundo, que consolidou o conceito de copyleft.
-
+Um aclamado programador e hacker, seus maiores feitos incluem Emacs , o GNU Compiler Collection e o GNU Debugger. É também autor da GNU General Public License , a licença livre mais usada no mundo, que consolidou o conceito de copyleft.
 
 
 
-Fonte: https://citacoes.in/autores/richard-stallman/
+
 
 
 
@@ -50,3 +48,4 @@ Fonte: https://citacoes.in/autores/richard-stallman/
 ## Referencias Utilizadas
 1. ["InfoEscola/RichardStallman"]("https://www.infoescola.com/biografias/richard-stallman/")
 2. [https://pt.wikipedia.org/wiki/Richard_Matthew_Stallman]("https://pt.wikipedia.org/wiki/Richard_Matthew_Stallman")
+3. [https://citacoes.in/autores/richard-stallman/]("https://citacoes.in/autores/richard-stallman/")

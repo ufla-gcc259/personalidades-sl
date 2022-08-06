@@ -13,10 +13,15 @@ O *projeto GNU* é um projeto colaborativo de Software Livre anunciado em 27 de 
 
 Dois anos depois que o sistema operacional foi anunciado, em Março de 1985, foi publicado o **Manifesto GNU**, pedindo apoio no desenvolvimento do OS GNU (Operational System GNU). [^3]
 
+Richard Stallman, acredita que, se um programa o agrada, ele deve compartilhá-lo com outras partes interessadas, e que se recusa a quebrar a solidariedade com outros usuários assim como fazem os vendedores de software. [^3]
+
 O projeto GNU é parte do *Movimento Software Livre*, uma campanha para a liberdade dos usuários de software. [^3]
 
 - ## Quais são seus objetivos?
-Seus objetivos consistem em dar aos usuários de computador liberdade e controle no uso de seus computadores e dispositivos de computação. Desenvolvendo e publicando de forma colaborativa, sendo assim, o *projeto GNU* concede os seguintes direitos em sua licença: [^1]
+Richard Stallman criou o projeto GNU e junto do seu manifesto, o **Manifesto GNU**. Assim, podendo explicar suas razões e objetivos.
+No manifesto, Richard exprime a vontade de compartilhar os programas que gosta. Além disso, explica que abandonou seu trabalho no Laboratório de Inteligência Artificial do MIT, com objetivo de impedir que o MIT arrumasse alguma desculpa legal para impedí-lo de fornecer o GNU de forma livre. [^3]
+
+Em suma, seus objetivos consistem em dar aos usuários de computador liberdade e controle no uso de seus computadores e dispositivos de computação. Desenvolvendo e publicando de forma colaborativa, sendo assim, o **projeto GNU** concede os seguintes direitos em sua licença: [^1]
 - Executar livremente o software
 - Copiar e o distribuir
 - Estudar e o modificar
@@ -28,8 +33,12 @@ O **projeto GNU**, lançado juntamente com o movimento do Software Livre, **busc
 
 Logo, o projeto GNU foi uma das faíscas que chamaram atenção para o movimento, especialmente após a publicação do **Manifesto GNU**.
 
+Além disso, Richard Stallman fundou a *Free Software Foundation* em outubro de 1985, com objetivo de apoiar o movimento do Software Livre. Também, desde sua fundação até meados dos anos 90, os fundos da FSF (*Free Software Foundation*) foram principalmente utilizados para empregar funcionários para escrever software livre para o **Projeto GNU**.[^5]
+
 - ## Qual o status do projeto atualmente?
-O *status* atual do projeto inclui atividades como: [^1]
+Em setembro de 2019, Richard Stallman resignou da sua posição de presidente da *Free Software Foundation*, entretanto continuou como chefe do **Projeto GNU**. E, em 2021, retornou ao Conselho Administrativo da FSF (*Free Software Foundation*), e continua trabalhando em ambas frentes até hoje. [^6]
+
+Nesse sentido, o *status* atual do projeto inclui atividades relevantes, como: [^1]
 - Desenvolvimento de software
 - Conscientização
 - Campanha política
@@ -45,3 +54,7 @@ O *status* atual do projeto inclui atividades como: [^1]
 [^3]: [GNU Manifest](https://www.gnu.org/gnu/manifesto.html)
 
 [^4]: [Free Software](https://en.wikipedia.org/wiki/Free_software)
+
+[^5]: [Wikipedia Free Software Foundation](https://en.wikipedia.org/wiki/Free_Software_Foundation)
+
+[^6]: [Wikipedia Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman)

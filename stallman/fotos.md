@@ -4,7 +4,7 @@
 ====
 | ![Richard Stallman ao lado de Noam Chomsky posando para foto](stallman-noam-chomsky.jpg) |
 |:--:|
-| <b>Richard Stallman encontrando com Noam Chomsky pela primeira vez em 2015 no campus do MIT em Cambridge, Massachusetts. Na ocasião, dentre os assuntos discutidos, estavam presentes a pauta do *Free Software Movement* (FSM) e Gerenciamento de restrições digita. Foto disponpivel em [Agaric](https://agaric.coop/blog/noam-chomsky-and-richard-stallman-meeting-one)</b>|
+| <b>Richard Stallman encontrando com Noam Chomsky pela primeira vez em 2015 no campus do MIT em Cambridge, Massachusetts. Na ocasião, dentre os assuntos discutidos, estavam presentes a pauta do *Free Software Movement* (FSM) e Gerenciamento de restrições digital. Foto disponpivel em [Agaric](https://agaric.coop/blog/noam-chomsky-and-richard-stallman-meeting-one)</b>|
 
 | ![Richard Stallman acariciando um gnu de pelúcia](stallman-palestra.jpg) |
 |:--:|

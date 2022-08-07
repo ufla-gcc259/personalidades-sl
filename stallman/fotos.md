@@ -32,5 +32,5 @@ Stallman trabalhando em seu computador em vários lugares
 <img alt="Stallman sentado em uma escada" src="assets/trabalhando/china_wudang.jpg" width="300" /> 
 <img alt="Stallman em pé em uma ponte, com o computador apoiado no corrimão" src="assets/trabalhando/france_angers.JPG" width="300" /> |
 |:--:|
-|<b>Os lugares da esquerda pra direita: Mar del Plata-Argentina, Salta-Argentina, Tandil-Argentina, Garni-Argentina, Sevan-Armenia, Innbrusck-Áustria(duas fotos), Potosi-Bolívia, Uyuni-Bolívia, Mandalay-Burma, Angkor-Camboja, Siem Reap-Camboja Ottawa-Canadá, Atacama-Chile, Puerto Mont-Chile, Guilin-Chile, Suzhou-China, Wudang-China, Angers-França.</b>|
+|<b>Os lugares da esquerda pra direita: Mar del Plata-Argentina, Salta-Argentina, Tandil-Argentina, Garni-Argentina, Sevan-Armenia, Innbrusck-Áustria(duas fotos), Potosi-Bolívia, Uyuni-Bolívia, Mandalay-Burma, Angkor-Camboja, Siem Reap-Camboja Ottawa-Canadá, Atacama-Chile, Puerto Mont-Chile, Guilin-Chile, Suzhou-China, Wudang-China, Angers-França. Fotos disponíveis em [Stallman.org](https://www.stallman.org/photos/).</b>|
 

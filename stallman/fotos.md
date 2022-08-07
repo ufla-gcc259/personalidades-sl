@@ -34,3 +34,19 @@ Stallman trabalhando em seu computador em vários lugares
 |:--:|
 |<b>Os lugares da esquerda pra direita: Mar del Plata-Argentina, Salta-Argentina, Tandil-Argentina, Garni-Argentina, Sevan-Armenia, Innbrusck-Áustria(duas fotos), Potosi-Bolívia, Uyuni-Bolívia, Mandalay-Burma, Angkor-Camboja, Siem Reap-Camboja Ottawa-Canadá, Atacama-Chile, Puerto Mont-Chile, Guilin-Chile, Suzhou-China, Wudang-China, Angers-França. Fotos disponíveis em [Stallman.org](https://www.stallman.org/photos/).</b>|
 
+| ![Richard Stallman como IGNUcius](assets/stallman-IGNUcius-saint.jpeg) |
+|:--:|
+| <b>Richard Stallman em Oslo no ano de 2009 como Santo IGNUcius (Santo da Igreja de Emacs). Foto disponível em [Researchgate](https://www.researchgate.net/figure/Richard-Stallman-in-Oslo-in-2009-as-Saint-IGNUcius-saint-in-the-Church-of-Emacs_fig2_264918873).</b>
+
+| ![Richard Stallman em Oslo](assets/stallman-oslo.jpg) |
+|:--:|
+| <b>Richard Stallman em Oslo no ano 2009. Foto disponível em [Flickr](https://www.flickr.com/photos/chlunde/3304249239/in/photostream/).</b>
+
+| ![Richard Stallman assinando notebook](assets/stallman-assinando-notebook.jpg) |
+|:--:|
+| <b>Richard Stallman realizando um autografo em um notebook com Ubuntu. Foto disponível em  [Flickr](https://www.flickr.com/photos/jpardo/2724468268/in/photostream/).</b>
+
+
+| ![Richard Stallman abraçando notebook](assets/stallman-abracando-notebook.jpg) |
+|:--:|
+| <b>Richard Stallman abraçando um notebook. Foto disponível em  [Pinterest](https://www.pinterest.com/pin/564568503263770000/).</b>

@@ -4,11 +4,11 @@
 
 # *Formação acadêmica*
 
-Richards se formou em Física na Universidade de Harvard(1971- 1974).
+Richards se formou em Física na Universidade de Harvard(1971- 1974).[^1]
 
-Se formou em Física pela Universidade de Harvard, no ano de 1974, onde após se formar, ele estudou programação de computadores no Massachusetts Institute of Technology (MIT) onde se tornou lider da comunidade hacker.
+Se formou em Física pela Universidade de Harvard, no ano de 1974, onde após se formar, ele estudou programação de computadores no Massachusetts Institute of Technology (MIT) onde se tornou lider da comunidade hacker.[^2]
 
-O Richard Stallman após se formar em física focou totalmente no projeto GNU e na Free Software Fundation, não realizando nenhuma pós-graduação ou P.H.D porém recebeu alguns títulos honoríficos.
+O Richard Stallman após se formar em física focou totalmente no projeto GNU e na Free Software Fundation, não realizando nenhuma pós-graduação ou P.H.D porém recebeu alguns títulos honoríficos.[^3]
 
 ## Contribuições acadêmicas[^6]
 
@@ -22,13 +22,13 @@ Em suas publicações temos alguns manuais das tecnologias em que ele criou ou a
 
 Possui tambem uma coleção de seus ensaios sobre software livre:
 
-- Stallman, Richard M. (2015). Free Software, Free Society: Selected Essays of Richard M. Stallman (Third ed.). Boston, Massachusetts, USA: GNU Press. ISBN 978-0-9831592-5-4.
+- Stallman, Richard M. (2015). Free Software, Free Society: Selected Essays of Richard M. Stallman (Third ed.). Boston, Massachusetts, USA: GNU Press. ISBN 978-0-9831592-5-4.[^5]
 
   
 
 ## Informações relevantes
 
-No ano de 1984, Richard terminou seu projeto no MIT e se dedicou totalmente ao projeto GNU, nunca obteve o título de Ph.D., porém recebeu inúmeras homenagens de honra de diversas Universidades renomadas do mundo todo, obtendo inclusive seis títulos honoríficos de Doutor Honoris Causa.
+No ano de 1984, Richard terminou seu projeto no MIT e se dedicou totalmente ao projeto GNU, nunca obteve o título de Ph.D., porém recebeu inúmeras homenagens de honra de diversas Universidades renomadas do mundo todo, obtendo inclusive seis títulos honoríficos de Doutor Honoris Causa.[^4]
 
 > Um aclamado programador e hacker, seus maiores feitos incluem Emacs ,
 > o GNU Compiler Collection e o GNU Debugger. É também autor da GNU

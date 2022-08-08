@@ -22,7 +22,7 @@ Seus pais possuiam herança judia [^1]. Seu pai, Daniel Stallman, era tipógrafo
 ## Como foi sua infância/adolescência? <br>
 
 Desde criança, Stallman já se mostrava engajado em questões políticas, característica que carrega até os dias de hoje. Em sua infância passou por alguns eventos traumáticos sendo eles a separação de seus pais e a morte de seus avós [^6]. Ele nunca teve muito dinheiro, como ele mesmo diz:
-> sempre vivi com pouco dinheiro... como um estudante, basicamente. E eu gosto disso, porque significa que o dinheiro não está me dizendo o que fazer. [^7]
+> Sempre vivi com pouco dinheiro... como um estudante, basicamente. E eu gosto disso, porque significa que o dinheiro não está me dizendo o que fazer. [^7]
 
 ## Como era sua personalidade (tímido, extrovertido, etc)? <br>
 

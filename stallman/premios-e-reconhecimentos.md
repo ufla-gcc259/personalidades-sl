@@ -52,9 +52,7 @@
         Doutor honoris causa pela Universidade de Glasgow
     </summary>
 
-- Onde
-- Quando
-- Porque?
+- Glasgow, Escócia
 
 </details>
 <details>
@@ -62,9 +60,7 @@
         Doutorado Honorário da Vrije Universiteit Brussel
     </summary>
 
-- Onde
-- Quando
-- Porque?
+ - Bruxelas, Bélgica
 
 </details>
 <details>
@@ -72,9 +68,9 @@
         Hall da Fama da Internet
     </summary>
 
-- Onde
-- Quando
-- Porque?
+- Berlim, Alemanha
+- 2013
+- Foi homenageado pela criação do Projeto GNU, a GPL e suas contribuições filosóficas na fundação do Movimento do Software Livre.
 
 </details>
 <details>
@@ -82,9 +78,8 @@
         Prêmio ACM Software System
     </summary>
 
-- Onde
-- Quando
-- Porque?
+- 2015
+- Prêmio concedido a uma instituição ou pessoa ou pessoas selecionadas para o desenvolvimento de software que influenciou no longo prazo, que resultou em contribuições conceituais, contribuições comerciais ou ambos. Stallman o recebeu pelo desenvolvimento do GNU Compiler Collection, abreviado como GCC.
 
 </details>
 <details>
@@ -92,7 +87,5 @@
         Doutorado Honorário da Universidade Pierre-et-Marie-Curie
     </summary>
 
-- Onde
-- Quando
-- Porque?
+- Quartier Latin, Paris, França
 </details>

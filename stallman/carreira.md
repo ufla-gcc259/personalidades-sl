@@ -17,7 +17,7 @@ Durante o seu tempo como programador no MIT, Stallman trabalhou em projetos como
 #### Contribuições durante a graduação
 Após terminar seu ensino médio, e já empregado pelo centro científico da IBM de Nova Iorque, Richard Stallman passou seu verão escrevendo seu primeiro programa, um pré-processador para a linguagem de programação PL/I no IBM 360, que futuramente ele teve que passar para linguagem de montagem por ser grande demais para caber no computador.
 
-Stallman se formou em física em harvard em 1974, onde ele também era um programador, sendo que após dois anos da sua formação ele desenvolveu o editor de texto Emacs que foi largamente utilizado por progamadores e demais usuários, atualmente esse software está na versão 23.3.
+Stallman se formou em física em harvard em 1974, onde ele também era um programador, sendo que após dois anos da sua formação ele desenvolveu o editor de texto Emacs que foi largamente utilizado por progamadores e demais usuários, atualmente esse software está na versão 23.3[^7].
 
 #### _A criação da Lisp e o GNU_
 Em 1980, em conjunto com companheiros de laboratório, fundaram a Lisp Machines Incorporated, para vender as máquinas Lisp que haviam sido criadas por Stallman no laboratório. 
@@ -26,11 +26,11 @@ Stallman focou seus esforços em criar o projeto GNU, a partir de 1980, com o ob
 
 A partir de 1984, Richard decide focar totalmente no projeto do GNU, não conseguindo títulos na sua área como ph.d, porém obteve algumas menções como por exemplo títulos honoríficos de Doutor Honoris Causa.
 
-Grande parte do sistema GNU estava completo porém ainda faltava o núcleo, sendo assim, membros do projeto GNU começaram o desenvolvimento do núcleo GNU Hurd em 1990, porém por uma decisão de desing o Hurd se tornou difícil de ser desenvolvido, sendo assim, Stallman libera para que outras pessoas possam desenvolver software livre a partir do GNU, sendo que em 1991 um projeto independente criado por Linus foi combinado com o GNU para se formar um sistema operacional completo.
+Grande parte do sistema GNU estava completo porém ainda faltava o núcleo, sendo assim, membros do projeto GNU começaram o desenvolvimento do núcleo GNU Hurd em 1990, porém por uma decisão de desing o Hurd se tornou difícil de ser desenvolvido, sendo assim, Stallman libera para que outras pessoas possam desenvolver software livre a partir do GNU, sendo que em 1991 um projeto independente criado por Linus foi combinado com o GNU para se formar um sistema operacional completo[^8].
 
 
 #### _A popularização do copyleft_
-Ele também populariozou o copyleft, que é um mecanismo legal para proteger a modificação e constituir diretrizes de redistribuição de software livre, sendo que em 1989 a primeira licença do GPL (Licença pública geral) do GNU foi liberada.
+Ele também populariozou o copyleft, que é um mecanismo legal para proteger a modificação e constituir diretrizes de redistribuição de software livre, sendo que em 1989 a primeira licença do GPL (Licença pública geral) do GNU foi liberada[^7].
 
 
 #### Referências:

@@ -52,7 +52,8 @@
         Doutor honoris causa pela Universidade de Glasgow
     </summary>
 
-- Glasgow, Escócia
+    - 2001
+    - Glasgow, Escócia
 
 </details>
 <details>
@@ -60,6 +61,7 @@
         Doutorado Honorário da Vrije Universiteit Brussel
     </summary>
 
+ - 2003
  - Bruxelas, Bélgica
 
 </details>
@@ -87,5 +89,6 @@
         Doutorado Honorário da Universidade Pierre-et-Marie-Curie
     </summary>
 
+- 2016
 - Quartier Latin, Paris, França
 </details>

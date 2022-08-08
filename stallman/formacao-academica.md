@@ -4,13 +4,13 @@
 
 # *Formação acadêmica*
 
-Richards se formou em Física na Universidade de Harvard(1971- 1974).[^1]
+Richards se formou em Física na Universidade de Harvard (1971- 1974) [^1].
 
-Se formou em Física pela Universidade de Harvard, no ano de 1974, onde após se formar, ele estudou programação de computadores no Massachusetts Institute of Technology (MIT) onde se tornou lider da comunidade hacker.[^2]
+Se formou em Física pela Universidade de Harvard, no ano de 1974, onde após se formar, ele estudou programação de computadores no Massachusetts Institute of Technology (MIT) onde se tornou lider da comunidade hacker [^2].
 
-O Richard Stallman após se formar em física focou totalmente no projeto GNU e na Free Software Fundation, não realizando nenhuma pós-graduação ou P.H.D porém recebeu alguns títulos honoríficos.[^3]
+O Richard Stallman após se formar em física focou totalmente no projeto GNU e na Free Software Fundation, não realizando nenhuma pós-graduação ou P.H.D porém recebeu alguns títulos honoríficos [^3].
 
-## Contribuições acadêmicas[^6]
+## Contribuições acadêmicas [^6]
 
 Em suas publicações temos alguns manuais das tecnologias em que ele criou ou ajudou na criação:
 
@@ -28,7 +28,7 @@ Possui tambem uma coleção de seus ensaios sobre software livre:
 
 ## Informações relevantes
 
-No ano de 1984, Richard terminou seu projeto no MIT e se dedicou totalmente ao projeto GNU, nunca obteve o título de Ph.D., porém recebeu inúmeras homenagens de honra de diversas Universidades renomadas do mundo todo, obtendo inclusive seis títulos honoríficos de Doutor Honoris Causa.[^4]
+No ano de 1984, Richard terminou seu projeto no MIT e se dedicou totalmente ao projeto GNU, nunca obteve o título de Ph.D., porém recebeu inúmeras homenagens de honra de diversas Universidades renomadas do mundo todo, obtendo inclusive seis títulos honoríficos de Doutor Honoris Causa [^4].
 
 > Um aclamado programador e hacker, seus maiores feitos incluem Emacs ,
 > o GNU Compiler Collection e o GNU Debugger. É também autor da GNU
@@ -45,4 +45,4 @@ No ano de 1984, Richard terminou seu projeto no MIT e se dedicou totalmente ao p
 [^3]:[https://citacoes.in/autores/richard-stallman/](https://citacoes.in/autores/richard-stallman/)
 [^4]:[https://stallman.org/](https://stallman.org/)
 [^5]:[https://pt.frwiki.wiki/wiki/Richard_Stallman](https://pt.frwiki.wiki/wiki/Richard_Stallman)
-[^6]:[https://en.wikipedia.org/wiki/Richard_Stallman](https://en.wikipedia.org/wiki/Richard_Stallman)
+[^6]:[https://en.wikipedia.org/wiki/Richard_Stallman](https://en.wikipedia.org/wiki/Richard_Stallmant)

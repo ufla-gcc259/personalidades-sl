@@ -50,3 +50,7 @@ Stallman trabalhando em seu computador em vários lugares
 | <img alt="Richard Stallman abraçando notebook" src="assets/stallman-abracando-notebook.jpg" width="800"/> |
 |:--:|
 | <b>Richard Stallman abraçando um notebook. Foto disponível em  [Pinterest](https://www.pinterest.com/pin/564568503263770000/).</b>
+
+| <img alt="Richard Stallman jovem, com barba e cabelos curtos" src="assets/stallman-wizard-1984.png" width="800"/> |
+|:--:|
+| <b>Richard Stallman no documentário "Hackers - Wizards of the Electronic Age", de 1984.</b>

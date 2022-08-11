@@ -17,8 +17,17 @@ A GPL tem como objetivo garantir 4 liberdades:
 ## Como ela se relaciona com o Software Livre? [^1]
 As licenças da maioria dos softwares são elaboradas para suprimir sua liberdade de compartilhá-los e modificá-los. A Licença Pública Geral do GNU, ao contrário, visa garantir sua liberdade de compartilhar e modificar softwares livres para assegurar que o software seja livre para todos os seus usuários. Esta Licença Pública Geral é aplicável à maioria dos softwares da Free Software Foundation [Fundação do Software Livre] e a qualquer outro programa cujos autores se comprometerem a usá-la. (Em vez dela, alguns outros softwares da Free Software Foundation são cobertos pela Licença Pública Geral de Biblioteca do GNU).
 
-## Qual o status do projeto atualmente?[^3]
+## Qual a relação de Richard Stallman com a GPL?
+Richard Stallman luta contra a licença de software, ele acha que todos devem ter direito de utilizar e modificar todo e qualquer programa, pois estes são um patrimônio da Humanidade.[^2]
+
+Em 1985, Stallman popularizou o conceito de copyleft, um mecanismo legal para proteger a modificação e constituir diretrizes de redistribuição de software livre. Foi adotado primeiramente na licença do GNU Emacs, e em 1989 a primeira licença "program-independent" do GPL (Licença pública geral) do GNU foi liberada.
+
+Produzindo as ferramentas de software necessárias para escrever software, e publicando uma licença geral que poderia ser aplicada a todo o projeto do software (GPL), Stallman permitiu que outras pessoas escrevessem software livre, independentemente do projeto GNU.[^3]
+
+## Qual o status do projeto atualmente?[^4]
 Atualmente a GPL está em sua terceira versão.
 
 [^1]: https://www.hobbyholo.com/blog/o-que-e/item/8-o-que-e-a-licenca-gnu-gpl
-[^3]:https://www.gnu.org/licenses/licenses.pt-br.html
+[^2]: https://www.infoescola.com/informatica/projeto-gnu/
+[^3]: https://pt.wikipedia.org/wiki/Richard_Matthew_Stallman
+[^4]: https://www.gnu.org/licenses/licenses.pt-br.html

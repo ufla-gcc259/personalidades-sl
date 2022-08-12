@@ -9,7 +9,7 @@ O projeto GNU
 
 ## O que é o projeto?
 
-O *projeto GNU* é um projeto colaborativo de Software Livre anunciado em 27 de Setembro de 1983 (Trabalhos nele apenas começaram em Janeiro de 1984) [^2]. A iniciativa tem a intenção de *desenvolver e publicar* (colaborativamente) software para permitir que seus usuários tenham a liberdade de *utilizar, copiar, distribuir, estudar e modificá-lo*, com o objetivo final de dar **liberdade e controle aos usuários de computadores e seus dispositivos* [^1].
+O *projeto GNU* é um projeto colaborativo de Software Livre anunciado em 27 de Setembro de 1983 (Trabalhos nele apenas começaram em Janeiro de 1984) [^2]. A iniciativa tem a intenção de *desenvolver e publicar* (colaborativamente) software para permitir que seus usuários tenham a liberdade de *utilizar, copiar, distribuir, estudar e modificá-lo*, com o objetivo final de dar **liberdade e controle aos usuários de computadores e seus dispositivos** [^1].
 
 Richard Stallman criou esse projeto e seu manifesto, o *Manifesto GNU*. Para assim, poder explicar suas razões e objetivos.
 No manifesto, Richard exprime a vontade de compartilhar os programas que gosta. Além disso, explica que abandonou seu trabalho no Laboratório de Inteligência Artificial do MIT, com objetivo de impedir que o MIT arrumasse alguma desculpa legal para impedí-lo de fornecer o GNU de forma livre [^3].

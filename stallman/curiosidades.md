@@ -20,8 +20,13 @@ Em uma nota de rodapé de um artigo que ele escreveu em 1999, ele diz que "como 
 
 Em um de seus artigos, **Stallman** revela que utiliza um computador *Thinkpad T400s*, que possui um programa de inicaliação gratuito(*libreboot*) e um sistema operacional livre (*Trisquel GNU/Linux*). Ele também revela não possuir uma distribuição *GNU/Linux* preferida, porém ele recomenda todas as distribuições éticas, que são 100% software livre[^2].
 
+**Stallman** renunciou ao cargo de pesquisador convidado no Laboratório de Ciência da Computação e Inteligência Artificial (CSAIL) do MIT e da presidência da FSF(Free Software Foundation), fundação que o mesmo criou em 1985, depois de ter e-mails vazados em que descrevia uma vítima do traficante sexual Jeffrey Epstein como "totalmente disposta".
 
+Em sua publicação sobre o fato de ter renunciado aos cargos citados acima, ele disse que sofreu muita pressão do MIT devido a vários mal-entendidos. Conforme mostrado na citação abaixo:
+
+>To the MIT community, I am resigning effective immediately from my position in CSAIL at MIT. I am doing this due to pressure on MIT and me over a series of misunderstandings and mischaracterizations.[^3].
 
 <br><br> 
 [^1]: Minha referência. https://pt.wikipedia.org/wiki/Richard_Matthew_Stallman <br>
 [^2]: Blog do stallman. https://stallman.org/
+[^3]: The Daily Beast. https://www.thedailybeast.com/richard-stallman-famed-mit-computer-scientist-who-defended-jeffrey-epstein-resigns

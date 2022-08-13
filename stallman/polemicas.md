@@ -5,9 +5,8 @@ Polêmicas
 * [*Palavras de Stallmand presentes série documental sobre privacidade e vigilância*](#stallman-e-privacidade)
 ## Palavras de Stallmand presentes série documental sobre privacidade e vigilância <a name="stallman-e-privacidade"></a>
 
-Em uma série chamada *XPloit: Internet Sob Ataque* [¹], Richard Stallman faz uma série de aparições para colocar suas opiniões e 
+Em uma série chamada *XPloit: Internet Sob Ataque*[¹] que foi publicada em 01 de Novembro de 2016 e encerrada no dia 22 de Junho de 2017, Richard Stallman faz uma série de aparições para colocar suas opiniões e conhecimentos sobre privacidade e segurança computacional para alertar as pessoas sobre riscos que existem em grandes plataformas de comunicação e serviços digitais.
 
-## Referências
 [¹]: https://www.youtube.com/watch?v=A4_gJm0UmRA&list=PLXS02vxHRP014eRjSEWwLXDgOvhnZqtlp
 
 ## Como Adicionar uma nova polêmica:

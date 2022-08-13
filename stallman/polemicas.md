@@ -6,13 +6,14 @@ Polêmicas
   - [Palavras de Stallmand presentes série documental sobre privacidade e vigilância <a name="stallman-e-privacidade"></a>](#palavras-de-stallmand-presentes-série-documental-sobre-privacidade-e-vigilância-)
   - [Crítica de Stallman após a morte de Steve Jobs <a name="morte-de-steve-jobs"></a>](#crítica-de-stallman-após-a-morte-de-steve-jobs-)
   - [Linguagem ética <a name="linguagem-etica"></a>](#linguagem-ética-)
+  - [Referências](#referências)
   - [Como Adicionar uma nova polêmica:](#como-adicionar-uma-nova-polêmica)
 
-## Palavras de Stallmand presentes série documental sobre privacidade e vigilância <a name="stallman-e-privacidade"></a>
+## *Palavras de Stallman presentes em série documental sobre privacidade e vigilância <a name="stallman-e-privacidade"></a>*
 
 Em uma série chamada *XPloit: Internet Sob Ataque*[¹] que foi publicada em 01 de Novembro de 2016 e encerrada no dia 22 de Junho de 2017. Richard Stallman faz uma série de aparições para colocar suas opiniões e conhecimentos sobre privacidade e segurança computacional para alertar as pessoas sobre riscos que existem em grandes plataformas de comunicação e serviços digitais.
 
-## Crítica de Stallman após a morte de Steve Jobs <a name="morte-de-steve-jobs"></a>
+## *Crítica de Stallman após a morte de Steve Jobs <a name="morte-de-steve-jobs"></a>*
 
 Richard Stallman se posicionou após a morte de Steve Jobs em 06 de Outubro de 2011 com a seguinte crítica em seu blog pessoal[²]:
 
@@ -31,13 +32,13 @@ Tradução para português:
 
 A reação de Stallman gerou polêmica pois a mesma foi contrastante com as mensagens de outros adversários famosos de Steve Jobs como Bill Gates[³] e Mark Zukerberg[⁴].
 
-## Linguagem ética <a name="linguagem-etica"></a>
+## *Linguagem ética <a name="linguagem-etica"></a>*
 
-Dado sua filosofia, Stallman é estrito sobre como usa certos termos da linguagem. Ele mantêm atualizado um [anti-glossário](https://stallman.org/antiglossary.html) em seu [site](https://stallman.org/) listando estas palavras, justificando sua aversão e sugerindo substituições.[⁵] Isto causa alguns problemas de interpretação para quem não está ciente.
+Dado sua filosofia, Stallman é estrito sobre como usa certos termos da linguagem. Ele mantêm atualizado um anti-glossário[⁵] em seu site[⁶] listando estas palavras, justificando sua aversão e sugerindo substituições[⁵]. Isto causa alguns problemas de interpretação para quem não está ciente.
 
-Um ponto especialmente polêmico é ele se recusar a usar o termo *they/them/theirs* como um termos gênero-neutro no singular, dado que é um ponto de fala comum de transfóbicos para invalidar não-bináries. Todavia, como Leah Rowe aponta em sua publicação ["RMS is NOT transphobic"](https://stallmansupport.org/richard-stallman-is-not-transphobic-says-leah-rowe.html), ele aprecia inclusividade e trabalha corriqueiramente com diversas pessoas transgênero respeitando seus pronomes.[⁶]
+Um ponto especialmente polêmico é ele se recusar a usar o termo *they/them/theirs* como um termos gênero-neutro no singular, dado que é um ponto de fala comum de transfóbicos para invalidar não-bináries. Todavia, como Leah Rowe aponta em sua publicação *"RMS is NOT transphobic"*[⁷], ele aprecia inclusividade e trabalha corriqueiramente com diversas pessoas transgênero respeitando seus pronomes[⁶].
 
-Diferentemente da comunidade intolerante, Richard Stallman reconhece a necessidade de pronomes que não se encaixam no padrão binário da sociedade, portanto ele argumenta que utilizar *they/them/theirs* deve ser usado exclusivamente para plural, e deve-se utilizar *person/per/pers* para o singular.[⁷]
+Diferentemente da comunidade intolerante, Richard Stallman reconhece a necessidade de pronomes que não se encaixam no padrão binário da sociedade, portanto ele argumenta que utilizar *they/them/theirs* deve ser usado exclusivamente para plural, e deve-se utilizar *person/per/pers* para o singular[⁷].
 
 [¹]: https://www.youtube.com/watch?v=A4_gJm0UmRA&list=PLXS02vxHRP014eRjSEWwLXDgOvhnZqtlp
 
@@ -49,11 +50,13 @@ Diferentemente da comunidade intolerante, Richard Stallman reconhece a necessida
 
 [⁵]: https://stallman.org/antiglossary.html
 
-[⁶]: https://stallmansupport.org/richard-stallman-is-not-transphobic-says-leah-rowe.html
+[⁶]: https://stallman.org/
 
-[⁷]: https://stallman.org/articles/genderless-pronouns.html
+[⁷]: https://stallmansupport.org/richard-stallman-is-not-transphobic-says-leah-rowe.html
 
-## Como Adicionar uma nova polêmica:
+[⁸]: https://stallman.org/articles/genderless-pronouns.html
+
+## <u>Como Adicionar uma nova polêmica:</u>
 A polêmica deve estar estruturada de maneira que responda as perguntas que achamos ser informativas e que focalize no tema que é debatido na polêmica citada. E adição de informações que contextualizem a polêmica como:
 * Quando ocorreu o evento?
 * Como aconteceu o evento?

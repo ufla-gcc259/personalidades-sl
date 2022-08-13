@@ -6,7 +6,7 @@ Polêmicas
 * [*Crítica de Stallman após a morte de Steve Jobs*](#morte-de-steve-jobs)
 ## Palavras de Stallmand presentes série documental sobre privacidade e vigilância <a name="stallman-e-privacidade"></a>
 
-Em uma série chamada *XPloit: Internet Sob Ataque* [¹], Richard Stallman faz uma série de aparições para colocar suas opiniões e 
+Em uma série chamada *XPloit: Internet Sob Ataque*[¹] que foi publicada em 01 de Novembro de 2016 e encerrada no dia 22 de Junho de 2017, Richard Stallman faz uma série de aparições para colocar suas opiniões e conhecimentos sobre privacidade e segurança computacional para alertar as pessoas sobre riscos que existem em grandes plataformas de comunicação e serviços digitais.
 
 ## Crítica de Stallman após a morte de Steve Jobs <a name="morte-de-steve-jobs"></a>
 
@@ -27,7 +27,6 @@ Tradução para português:
 
 A reação de Stallman gerou polêmica pois a mesma foi contrastante com as mensagens de outros adversários famosos de Steve Jobs como [Bill Gates](https://abcnews.go.com/Technology/reaction-steve-jobs-death/story?id=14678187) e [Mark Zukerberg](https://abcnews.go.com/Technology/reaction-steve-jobs-death/story?id=14678187).
 
-## Referências
 [¹]: https://www.youtube.com/watch?v=A4_gJm0UmRA&list=PLXS02vxHRP014eRjSEWwLXDgOvhnZqtlp
 
 ## Como Adicionar uma nova polêmica:

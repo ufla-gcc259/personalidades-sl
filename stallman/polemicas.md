@@ -3,11 +3,10 @@
 Polêmicas
 ====
 - [Polêmicas](#polêmicas)
-  - [Palavras de Stallmand presentes série documental sobre privacidade e vigilância <a name="stallman-e-privacidade"></a>](#palavras-de-stallmand-presentes-série-documental-sobre-privacidade-e-vigilância-)
-  - [Crítica de Stallman após a morte de Steve Jobs <a name="morte-de-steve-jobs"></a>](#crítica-de-stallman-após-a-morte-de-steve-jobs-)
-  - [Linguagem ética <a name="linguagem-etica"></a>](#linguagem-ética-)
-  - [Referências](#referências)
-  - [Como Adicionar uma nova polêmica:](#como-adicionar-uma-nova-polêmica)
+  - [*Palavras de Stallman presentes em série documental sobre privacidade e vigilância <a name="stallman-e-privacidade"></a>*](#palavras-de-stallman-presentes-em-série-documental-sobre-privacidade-e-vigilância-)
+  - [*Crítica de Stallman após a morte de Steve Jobs <a name="morte-de-steve-jobs"></a>*](#crítica-de-stallman-após-a-morte-de-steve-jobs-)
+  - [*Linguagem ética <a name="linguagem-etica"></a>*](#linguagem-ética-)
+  - [<u>Como Adicionar uma nova polêmica:</u>](#ucomo-adicionar-uma-nova-polêmicau)
 
 ## *Palavras de Stallman presentes em série documental sobre privacidade e vigilância <a name="stallman-e-privacidade"></a>*
 
@@ -36,9 +35,9 @@ A reação de Stallman gerou polêmica pois a mesma foi contrastante com as mens
 
 Dado sua filosofia, Stallman é estrito sobre como usa certos termos da linguagem. Ele mantêm atualizado um anti-glossário[⁵] em seu site[⁶] listando estas palavras, justificando sua aversão e sugerindo substituições[⁵]. Isto causa alguns problemas de interpretação para quem não está ciente.
 
-Um ponto especialmente polêmico é ele se recusar a usar o termo *they/them/theirs* como um termos gênero-neutro no singular, dado que é um ponto de fala comum de transfóbicos para invalidar não-bináries. Todavia, como Leah Rowe aponta em sua publicação *"RMS is NOT transphobic"*[⁷], ele aprecia inclusividade e trabalha corriqueiramente com diversas pessoas transgênero respeitando seus pronomes[⁶].
+Um ponto especialmente polêmico é ele se recusar a usar o termo *they/them/theirs* como um termos gênero-neutro no singular, dado que é um ponto de fala comum de transfóbicos para invalidar não-bináries. Todavia, como Leah Rowe aponta em sua publicação *"RMS is NOT transphobic"*[⁷], ele aprecia inclusividade e trabalha corriqueiramente com diversas pessoas transgênero respeitando seus pronomes[⁷].
 
-Diferentemente da comunidade intolerante, Richard Stallman reconhece a necessidade de pronomes que não se encaixam no padrão binário da sociedade, portanto ele argumenta que utilizar *they/them/theirs* deve ser usado exclusivamente para plural, e deve-se utilizar *person/per/pers* para o singular[⁷].
+Diferentemente da comunidade intolerante, Richard Stallman reconhece a necessidade de pronomes que não se encaixam no padrão binário da sociedade, portanto ele argumenta que utilizar *they/them/theirs* deve ser usado exclusivamente para plural, e deve-se utilizar *person/per/pers* para o singular[⁸].
 
 [¹]: https://www.youtube.com/watch?v=A4_gJm0UmRA&list=PLXS02vxHRP014eRjSEWwLXDgOvhnZqtlp
 

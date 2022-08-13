@@ -6,11 +6,11 @@ Polêmicas
 * [*Crítica de Stallman após a morte de Steve Jobs*](#morte-de-steve-jobs)
 ## Palavras de Stallmand presentes série documental sobre privacidade e vigilância <a name="stallman-e-privacidade"></a>
 
-Em uma série chamada *XPloit: Internet Sob Ataque*[¹] que foi publicada em 01 de Novembro de 2016 e encerrada no dia 22 de Junho de 2017, Richard Stallman faz uma série de aparições para colocar suas opiniões e conhecimentos sobre privacidade e segurança computacional para alertar as pessoas sobre riscos que existem em grandes plataformas de comunicação e serviços digitais.
+Em uma série chamada *XPloit: Internet Sob Ataque*[¹] que foi publicada em 01 de Novembro de 2016 e encerrada no dia 22 de Junho de 2017. Richard Stallman faz uma série de aparições para colocar suas opiniões e conhecimentos sobre privacidade e segurança computacional para alertar as pessoas sobre riscos que existem em grandes plataformas de comunicação e serviços digitais.
 
 ## Crítica de Stallman após a morte de Steve Jobs <a name="morte-de-steve-jobs"></a>
 
-Richard Stallman se posicionou após a morte de Steve Jobs em 06 de Outubro de 2011 com a seguinte crítica em seu [blog pessoal](https://stallman.org/archives/2011-jul-oct.html#06_October_2011_%28Steve_Jobs%29):
+Richard Stallman se posicionou após a morte de Steve Jobs em 06 de Outubro de 2011 com a seguinte crítica em seu blog pessoal[²]:
 
 >"Steve Jobs, the pioneer of the computer as a jail made cool, designed to sever fools from their freedom, has died.
 >
@@ -25,9 +25,15 @@ Tradução para português:
 >
 >Infelizmente, essa influência continua, apesar de sua ausência. Só podemos esperar que seus sucessores, na tentativa de propagar seu legado, sejam menos eficientes”
 
-A reação de Stallman gerou polêmica pois a mesma foi contrastante com as mensagens de outros adversários famosos de Steve Jobs como [Bill Gates](https://abcnews.go.com/Technology/reaction-steve-jobs-death/story?id=14678187) e [Mark Zukerberg](https://abcnews.go.com/Technology/reaction-steve-jobs-death/story?id=14678187).
+A reação de Stallman gerou polêmica pois a mesma foi contrastante com as mensagens de outros adversários famosos de Steve Jobs como Bill Gates[³] e Mark Zukerberg[⁴].
 
 [¹]: https://www.youtube.com/watch?v=A4_gJm0UmRA&list=PLXS02vxHRP014eRjSEWwLXDgOvhnZqtlp
+
+[²]: https://stallman.org/archives/2011-jul-oct.html#06_October_2011_%28Steve_Jobs%29
+
+[³]: https://abcnews.go.com/Technology/reaction-steve-jobs-death/story?id=14678187
+
+[⁴]: https://abcnews.go.com/Technology/reaction-steve-jobs-death/story?id=14678187
 
 ## Como Adicionar uma nova polêmica:
 A polêmica deve estar estruturada de maneira que responda as perguntas que achamos ser informativas e que focalize no tema que é debatido na polêmica citada. E adição de informações que contextualizem a polêmica como:

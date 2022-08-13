@@ -35,9 +35,9 @@ A reação de Stallman gerou polêmica pois a mesma foi contrastante com as mens
 
 Dado sua filosofia, Stallman é estrito sobre como usa certos termos da linguagem. Ele mantêm atualizado um anti-glossário[⁵] em seu site[⁶] listando estas palavras, justificando sua aversão e sugerindo substituições[⁵]. Isto causa alguns problemas de interpretação para quem não está ciente.
 
-Um ponto especialmente polêmico é ele se recusar a usar o termo *they/them/theirs* como um termos gênero-neutro no singular, dado que é um ponto de fala comum de transfóbicos para invalidar não-bináries. Todavia, como Leah Rowe aponta em sua publicação *"RMS is NOT transphobic"*[⁷], ele aprecia inclusividade e trabalha corriqueiramente com diversas pessoas transgênero respeitando seus pronomes[⁷].
+Um ponto especialmente polêmico é ele se recusar a usar o termo *they/them/theirs* como um termos gênero-neutro no singular, dado que é um ponto de fala comum de transfóbicos para invalidar não-bináries. Entre outros motivos, isso causou que uma carta aberta de parte da comunidade de software livre advogasse pela remoção de Stallman da *Free Software Foundation*[⁷] dia 23 de março de 2021. Uma semana depois Leah Rowe respondeu em sua publicação *"RMS is NOT transphobic"*[⁸] que ele aprecia inclusividade e trabalha corriqueiramente com diversas pessoas transgênero respeitando seus pronomes[⁸].
 
-Diferentemente da comunidade intolerante, Richard Stallman reconhece a necessidade de pronomes que não se encaixam no padrão binário da sociedade, portanto ele argumenta que utilizar *they/them/theirs* deve ser usado exclusivamente para plural, e deve-se utilizar *person/per/pers* para o singular[⁸].
+Diferentemente da comunidade intolerante, Richard Stallman reconhece a necessidade de pronomes que não se encaixam no padrão binário da sociedade, portanto ele argumenta que utilizar *they/them/theirs* deve ser usado exclusivamente para plural, e deve-se utilizar *person/per/pers* para o singular[⁹].
 
 [¹]: https://www.youtube.com/watch?v=A4_gJm0UmRA&list=PLXS02vxHRP014eRjSEWwLXDgOvhnZqtlp
 
@@ -51,9 +51,11 @@ Diferentemente da comunidade intolerante, Richard Stallman reconhece a necessida
 
 [⁶]: https://stallman.org/
 
-[⁷]: https://stallmansupport.org/richard-stallman-is-not-transphobic-says-leah-rowe.html
+[⁷]: https://rms-open-letter.github.io/
 
-[⁸]: https://stallman.org/articles/genderless-pronouns.html
+[⁸]: https://stallmansupport.org/richard-stallman-is-not-transphobic-says-leah-rowe.html
+
+[⁹]: https://stallman.org/articles/genderless-pronouns.html
 
 ## <u>Como Adicionar uma nova polêmica:</u>
 A polêmica deve estar estruturada de maneira que responda as perguntas que achamos ser informativas e que focalize no tema que é debatido na polêmica citada. E adição de informações que contextualizem a polêmica como:

@@ -6,7 +6,6 @@ Polêmicas
   - [Palavras de Stallmand presentes série documental sobre privacidade e vigilância <a name="stallman-e-privacidade"></a>](#palavras-de-stallmand-presentes-série-documental-sobre-privacidade-e-vigilância-)
   - [Crítica de Stallman após a morte de Steve Jobs <a name="morte-de-steve-jobs"></a>](#crítica-de-stallman-após-a-morte-de-steve-jobs-)
   - [Linguagem ética <a name="linguagem-etica"></a>](#linguagem-ética-)
-  - [Referências](#referências)
   - [Como Adicionar uma nova polêmica:](#como-adicionar-uma-nova-polêmica)
 
 ## Palavras de Stallmand presentes série documental sobre privacidade e vigilância <a name="stallman-e-privacidade"></a>
@@ -39,8 +38,6 @@ Dado sua filosofia, Stallman é estrito sobre como usa certos termos da linguage
 Um ponto especialmente polêmico é ele se recusar a usar o termo *they/them/theirs* como um termos gênero-neutro no singular, dado que é um ponto de fala comum de transfóbicos para invalidar não-bináries. Todavia, como Leah Rowe aponta em sua publicação ["RMS is NOT transphobic"](https://stallmansupport.org/richard-stallman-is-not-transphobic-says-leah-rowe.html), ele aprecia inclusividade e trabalha corriqueiramente com diversas pessoas transgênero respeitando seus pronomes.[⁶]
 
 Diferentemente da comunidade intolerante, Richard Stallman reconhece a necessidade de pronomes que não se encaixam no padrão binário da sociedade, portanto ele argumenta que utilizar *they/them/theirs* deve ser usado exclusivamente para plural, e deve-se utilizar *person/per/pers* para o singular.[⁷]
-
-## Referências
 
 [¹]: https://www.youtube.com/watch?v=A4_gJm0UmRA&list=PLXS02vxHRP014eRjSEWwLXDgOvhnZqtlp
 

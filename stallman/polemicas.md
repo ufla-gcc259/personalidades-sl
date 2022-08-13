@@ -3,9 +3,29 @@
 Polêmicas
 ====
 * [*Palavras de Stallmand presentes série documental sobre privacidade e vigilância*](#stallman-e-privacidade)
+* [*Crítica de Stallman após a morte de Steve Jobs*](#morte-de-steve-jobs)
 ## Palavras de Stallmand presentes série documental sobre privacidade e vigilância <a name="stallman-e-privacidade"></a>
 
 Em uma série chamada *XPloit: Internet Sob Ataque* [¹], Richard Stallman faz uma série de aparições para colocar suas opiniões e 
+
+## Crítica de Stallman após a morte de Steve Jobs <a name="morte-de-steve-jobs"></a>
+
+Richard Stallman se posicionou após a morte de Steve Jobs em 06 de Outubro de 2011 com a seguinte crítica em seu [blog pessoal](https://stallman.org/archives/2011-jul-oct.html#06_October_2011_%28Steve_Jobs%29):
+
+>"Steve Jobs, the pioneer of the computer as a jail made cool, designed to sever fools from their freedom, has died.
+>
+>As Chicago Mayor Harold Washington said of the corrupt former Mayor Daley, "I'm not glad he's dead, but I'm glad he's gone." Nobody deserves to have to die - not Jobs, not Mr. Bill, not even people guilty of bigger evils than theirs. But we all deserve the end of Jobs' malign influence on people's computing.
+>
+>Unfortunately, that influence continues despite his absence. We can only hope his successors, as they attempt to carry on his legacy, will be less effective."
+
+Tradução para português:
+>“Steve Jobs, o pioneiro em fazer computadores-prisões parecerem legais, desenvolvidos para separar os tolos de sua liberdade, morreu.
+>
+>Como o prefeito de Chicago, Harold Washington, falou sobre seu antecessor  corrupto, o prefeito Daley, ‘Não estou feliz que ele está morto, mas me alegra saber que ele se foi’. Ninguém merece morrer – nem Jobs, nem o senhor Bill, nem mesmo pessoas responsáveis por males maiores. Mas todos merecem o fim da influência maligna de Jobs sobre a computação pessoal.
+>
+>Infelizmente, essa influência continua, apesar de sua ausência. Só podemos esperar que seus sucessores, na tentativa de propagar seu legado, sejam menos eficientes”
+
+A reação de Stallman gerou polêmica pois a mesma foi contrastante com as mensagens de outros adversários famosos de Steve Jobs como [Bill Gates](https://abcnews.go.com/Technology/reaction-steve-jobs-death/story?id=14678187) e [Mark Zukerberg](https://abcnews.go.com/Technology/reaction-steve-jobs-death/story?id=14678187).
 
 ## Referências
 [¹]: https://www.youtube.com/watch?v=A4_gJm0UmRA&list=PLXS02vxHRP014eRjSEWwLXDgOvhnZqtlp

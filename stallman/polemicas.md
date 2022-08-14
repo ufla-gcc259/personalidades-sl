@@ -9,13 +9,13 @@ Polêmicas
   - [*Linguagem ética <a name="linguagem-etica"></a>*](#linguagem-ética-)
 
 ## Como adicionar uma nova polêmica <a name="como-adicionar-uma-nova-polêmica"></a>
-A polêmica deve estar estruturada de maneira que responda as perguntas que achamos ser informativas e que focalize no tema que é debatido na polêmica citada. E adição de informações que contextualizem a polêmica como:
+A polêmica deve ser informativa, logo, o seu conteúdo deve se basear nas perguntas abaixo:
 * Quando ocorreu o evento?
 * Como aconteceu o evento?
 * Quem estava envolvido no evento?
 * Como ocorreu o evento?
 
-A polêmica pode ser escrita por tópicos que respondem as perguntas quanto curtos parágrafos.
+Pode ser em tópicos ou curtos parágrafos, além de conter as fontes.
 
 ## *Palavras de Stallman presentes em série documental sobre privacidade e vigilância <a name="stallman-e-privacidade"></a>*
 

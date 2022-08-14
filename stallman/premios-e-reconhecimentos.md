@@ -49,7 +49,7 @@
 </details>
 <details>
     <summary markdown="span">
-        Doutor honoris causa pela Universidade de Glasgow
+        Doutorado Honorário da Universidade de Glasgow
     </summary>
 
     - 2001

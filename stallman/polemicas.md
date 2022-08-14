@@ -2,20 +2,20 @@
 
 Polêmicas
 ====
-- [Como adicionar uma nova polêmica](#como-adicionar-uma-nova-polêmica)
+- [Nota sobre novas polêmicas a serem adicionadas](#nota-sobre-novas-polemicas)
 - [Polêmicas](#polêmicas)
   - [*Palavras de Stallman presentes em série documental sobre privacidade e vigilância <a name="stallman-e-privacidade"></a>*](#palavras-de-stallman-presentes-em-série-documental-sobre-privacidade-e-vigilância-)
   - [*Crítica de Stallman após a morte de Steve Jobs <a name="morte-de-steve-jobs"></a>*](#crítica-de-stallman-após-a-morte-de-steve-jobs-)
   - [*Linguagem ética <a name="linguagem-etica"></a>*](#linguagem-ética-)
 
-## Como adicionar uma nova polêmica <a name="como-adicionar-uma-nova-polêmica"></a>
-A polêmica deve ser informativa, logo, o seu conteúdo deve se basear nas perguntas abaixo:
+## Nota sobre novas polêmicas a serem adicionadas <a name="nota-sobre-novas-polemicas"></a>
+Se você puder colaborar com uma polêmica relacionada ao Richard Matthew Stallman (RMS), certifique-se de que ela seja informativa, logo, o seu conteúdo deve se basear nas perguntas abaixo:
 * Quando ocorreu o evento?
 * Como aconteceu o evento?
 * Quem estava envolvido no evento?
 * Como ocorreu o evento?
 
-Pode ser em tópicos ou curtos parágrafos, além de conter as fontes.
+A polêmica pode ser estruturada em tópicos ou curtos parágrafos e conter suas fontes.
 
 ## *Palavras de Stallman presentes em série documental sobre privacidade e vigilância <a name="stallman-e-privacidade"></a>*
 

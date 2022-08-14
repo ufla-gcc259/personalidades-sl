@@ -51,7 +51,7 @@ Diferentemente da comunidade intolerante, Richard Stallman reconhece a necessida
 
 ## *Discussão sobre "piada de aborto" no manual da glibc deixa RMS irritado <a name="glibc-piada-aborto"></a>*
 
-Em abril de 2018, o colaborador de código aberto Raymond Nicholson propos uma alteração no manual da **glibc**, a implementação GNU da biblioteca padrão da linguagem de programação C, para remover a "piada de aborto" do tópico da função[¹⁰] **`abort()`**. No dia 30 do mesmo mês, a alteração foi aprovada.
+Em abril de 2018, o colaborador de código aberto Raymond Nicholson propos uma alteração no manual da **glibc**, a implementação GNU da biblioteca padrão da linguagem de programação C, para remover a "piada de aborto" do tópico da função **`abort()`**[¹⁰]. No dia 30 do mesmo mês, a alteração foi aprovada.
 
 Segundo Nicholson, a piada não promove nenhuma informação útil sobre a função, então removê-la não afetará o uso da **glibc**.
 
@@ -69,7 +69,12 @@ Tradução para o português:
 >
 > **Aviso de mudança futura:** Os regulamentos de censura federal propostos podem nos proibir de fornecer informações sobre a possibilidade de chamar essa função. Seríamos obrigados a dizer que esta não é uma maneira aceitável de encerrar um programa.
 
-A remoção desse texto irritou
+A remoção desse texto irritou Stallman, autor dessa piada, que argumentou que isso é uma ação de censura. RMS defendeu a piada em seu site[¹¹] (traduzido para português):
+> O objetivo dessa piada é ainda mais importante agora do que quando a escrevi. Por favor, não remova-o.
+>
+> GNU não é um projeto puramente técnico, então o fato de que isso não é estritamente técnico não é uma razão para removê-lo.
+
+Stallman insiste que a piada deve permanecer, pois ela é tão engraçada quanto apropriada no atual contexto[¹²].
 
 [¹]: https://www.youtube.com/watch?v=A4_gJm0UmRA&list=PLXS02vxHRP014eRjSEWwLXDgOvhnZqtlp
 
@@ -91,3 +96,6 @@ A remoção desse texto irritou
 
 [¹⁰]: https://www.gnu.org/software/libc/manual/html_node/Aborting-a-Program.html
 
+[¹¹]: https://sourceware.org/legacy-ml/libc-alpha/2018-05/msg00001.html
+
+[¹²]: https://sourceware.org/legacy-ml/libc-alpha/2018-05/msg00085.html

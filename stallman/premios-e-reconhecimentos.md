@@ -10,12 +10,15 @@
 - **Motivo da premiação:** "Anualmente 20 a 30 americanos são reconhecidos por serem inteligentes, criativos, motivados e realizando um trabalho importante"
 
 </details>
+
 <details>
     <summary markdown="span">
         Doutorado Honorário da Universidade Nacional de Córdoba
     </summary>
 
-- **Local da entrega:** Córdoba, Argentina [^1]
+- **Ano da Entrega:** 2011
+- **Local da entrega:** Córdoba, Argentina [^4].
+- **Motivo da premiação:** "Título conquistado"
 
 </details>
 <details>
@@ -96,3 +99,4 @@
 [^1]: https://pt.frwiki.wiki/wiki/Richard_Stallman
 [^2]: https://pt.wikipedia.org/wiki/Internet_Hall_of_Fame
 [^3]: https://pt.frwiki.wiki/wiki/Prix_ACM_Software_System
+[^4]: https://en.wikipedia.org/wiki/Richard_Stallman

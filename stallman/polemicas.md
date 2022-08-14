@@ -51,7 +51,7 @@ Diferentemente da comunidade intolerante, Richard Stallman reconhece a necessida
 
 ## *Discussão sobre "piada de aborto" no manual da glibc deixa RMS irritado <a name="glibc-piada-aborto"></a>*
 
-Em abril de 2018, o colaborador de código aberto Raymond Nicholson propos uma alteração no manual da **glibc**, a implementação GNU da biblioteca padrão da linguagem de programação C, para remover a "piada de aborto" do tópico da função[^1^0] **`abort()`**. No dia 30 do mesmo mês, a alteração foi aprovada.
+Em abril de 2018, o colaborador de código aberto Raymond Nicholson propos uma alteração no manual da **glibc**, a implementação GNU da biblioteca padrão da linguagem de programação C, para remover a "piada de aborto" do tópico da função[¹⁰] **`abort()`**. No dia 30 do mesmo mês, a alteração foi aprovada.
 
 Segundo Nicholson, a piada não promove nenhuma informação útil sobre a função, então removê-la não afetará o uso da **glibc**.
 
@@ -89,5 +89,5 @@ A remoção desse texto irritou
 
 [⁹]: https://stallman.org/articles/genderless-pronouns.html
 
-[^1^0]: https://www.gnu.org/software/libc/manual/html_node/Aborting-a-Program.html
+[¹⁰]: https://www.gnu.org/software/libc/manual/html_node/Aborting-a-Program.html
 

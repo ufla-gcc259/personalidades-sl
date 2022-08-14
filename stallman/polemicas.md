@@ -2,11 +2,20 @@
 
 Polêmicas
 ====
+- [Como adicionar uma nova polêmica](#como-adicionar-uma-nova-polêmica)
 - [Polêmicas](#polêmicas)
   - [*Palavras de Stallman presentes em série documental sobre privacidade e vigilância <a name="stallman-e-privacidade"></a>*](#palavras-de-stallman-presentes-em-série-documental-sobre-privacidade-e-vigilância-)
   - [*Crítica de Stallman após a morte de Steve Jobs <a name="morte-de-steve-jobs"></a>*](#crítica-de-stallman-após-a-morte-de-steve-jobs-)
   - [*Linguagem ética <a name="linguagem-etica"></a>*](#linguagem-ética-)
-  - [<u>Como Adicionar uma nova polêmica:</u>](#ucomo-adicionar-uma-nova-polêmicau)
+
+## Como adicionar uma nova polêmica <a name="como-adicionar-uma-nova-polêmica"></a>
+A polêmica deve estar estruturada de maneira que responda as perguntas que achamos ser informativas e que focalize no tema que é debatido na polêmica citada. E adição de informações que contextualizem a polêmica como:
+* Quando ocorreu o evento?
+* Como aconteceu o evento?
+* Quem estava envolvido no evento?
+* Como ocorreu o evento?
+
+A polêmica pode ser escrita por tópicos que respondem as perguntas quanto curtos parágrafos.
 
 ## *Palavras de Stallman presentes em série documental sobre privacidade e vigilância <a name="stallman-e-privacidade"></a>*
 
@@ -57,11 +66,3 @@ Diferentemente da comunidade intolerante, Richard Stallman reconhece a necessida
 
 [⁹]: https://stallman.org/articles/genderless-pronouns.html
 
-## <u>Como Adicionar uma nova polêmica:</u>
-A polêmica deve estar estruturada de maneira que responda as perguntas que achamos ser informativas e que focalize no tema que é debatido na polêmica citada. E adição de informações que contextualizem a polêmica como:
-* Quando ocorreu o evento?
-* Como aconteceu o evento?
-* Quem estava envolvido no evento?
-* Como ocorreu o evento?
-
-A polêmica pode ser escrita por tópicos que respondem as perguntas quanto curtos parágrafos.

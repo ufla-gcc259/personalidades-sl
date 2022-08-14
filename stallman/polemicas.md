@@ -7,6 +7,7 @@ Polêmicas
   - [*Palavras de Stallman presentes em série documental sobre privacidade e vigilância <a name="stallman-e-privacidade"></a>*](#palavras-de-stallman-presentes-em-série-documental-sobre-privacidade-e-vigilância-)
   - [*Crítica de Stallman após a morte de Steve Jobs <a name="morte-de-steve-jobs"></a>*](#crítica-de-stallman-após-a-morte-de-steve-jobs-)
   - [*Linguagem ética <a name="linguagem-etica"></a>*](#linguagem-ética-)
+  - [*Discussão sobre "piada de aborto" no manual da glibc deixa RMS irritado <a name="glibc-piada-aborto"></a>*](#glibc-piada-aborto)
 
 ## Nota sobre novas polêmicas a serem adicionadas <a name="nota-sobre-novas-polemicas"></a>
 Se você puder colaborar com uma polêmica relacionada ao Richard Matthew Stallman (RMS), certifique-se de que ela seja informativa, logo, o seu conteúdo deve se basear nas perguntas abaixo:
@@ -48,6 +49,28 @@ Um ponto especialmente polêmico é ele se recusar a usar o termo *they/them/the
 
 Diferentemente da comunidade intolerante, Richard Stallman reconhece a necessidade de pronomes que não se encaixam no padrão binário da sociedade, portanto ele argumenta que utilizar *they/them/theirs* deve ser usado exclusivamente para plural, e deve-se utilizar *person/per/pers* para o singular[⁹].
 
+## *Discussão sobre "piada de aborto" no manual da glibc deixa RMS irritado <a name="glibc-piada-aborto"></a>*
+
+Em abril de 2018, o colaborador de código aberto Raymond Nicholson propos uma alteração no manual da **glibc**, a implementação GNU da biblioteca padrão da linguagem de programação C, para remover a "piada de aborto" do tópico da função[^1^0] **`abort()`**. No dia 30 do mesmo mês, a alteração foi aprovada.
+
+Segundo Nicholson, a piada não promove nenhuma informação útil sobre a função, então removê-la não afetará o uso da **glibc**.
+
+A piada em questão está no manual desde a década de 90 e é referida como uma piada de censura por aqueles que a favor do aborto. Segue o texto:
+> **25.7.4 Aborting a Program**
+>
+> ...
+>
+> **Future Change Warning:** Proposed Federal censorship regulations may prohibit us from giving you information about the possibility of calling this function. We would be required to say that this is not an acceptable way of terminating a program.
+
+Tradução para o português:
+> **25.7.4 Abortando um Programa**
+>
+> ...
+>
+> **Aviso de mudança futura:** Os regulamentos de censura federal propostos podem nos proibir de fornecer informações sobre a possibilidade de chamar essa função. Seríamos obrigados a dizer que esta não é uma maneira aceitável de encerrar um programa.
+
+A remoção desse texto irritou
+
 [¹]: https://www.youtube.com/watch?v=A4_gJm0UmRA&list=PLXS02vxHRP014eRjSEWwLXDgOvhnZqtlp
 
 [²]: https://stallman.org/archives/2011-jul-oct.html#06_October_2011_%28Steve_Jobs%29
@@ -65,4 +88,6 @@ Diferentemente da comunidade intolerante, Richard Stallman reconhece a necessida
 [⁸]: https://stallmansupport.org/richard-stallman-is-not-transphobic-says-leah-rowe.html
 
 [⁹]: https://stallman.org/articles/genderless-pronouns.html
+
+[^1^0]: https://www.gnu.org/software/libc/manual/html_node/Aborting-a-Program.html
 

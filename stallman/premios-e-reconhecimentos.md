@@ -27,7 +27,7 @@
     </summary>
 
 - **Ano da entrega:** 1990 [^1]
-- Por seu trabalho inovador no desenvolvimento do editor extensível Emacs
+- **Motivo da premiação:** Por seu trabalho inovador no desenvolvimento do editor extensível Emacs
 
 </details>
 <details>

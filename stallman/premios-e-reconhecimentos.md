@@ -52,7 +52,7 @@
         Doutorado Honorário da Universidade de Glasgow
     </summary>
 
-- **Ano da entrega:** 2001
+- **Ano da entrega:** 2001[^note_ano]
 - **Local da entrega:** Glasgow, Escócia
 
 </details>
@@ -61,7 +61,7 @@
         Doutorado Honorário da Vrije Universiteit Brussel
     </summary>
 
- - **Ano da entrega:** 2003
+ - **Ano da entrega:** 2003[^note_ano]
  - **Local da entrega:** Bruxelas, Bélgica
 
 </details>
@@ -70,7 +70,7 @@
         Hall da Fama da Internet
     </summary>
 
-- **Ano da entrega:** 2013
+- **Ano da entrega:** 2013[^note_fame]
 - **Local da entrega:** Berlim, Alemanha
 - **Motivo da premiação:** Foi homenageado como inovador devido a criação do Projeto GNU, a GPL e suas contribuições filosóficas na fundação do Movimento do Software Livre.
 
@@ -80,7 +80,7 @@
         Prêmio ACM Software System
     </summary>
 
-- **Ano da entrega:** 2015
+- **Ano da entrega:** 2015[^note_acm]
 - **Motivo da premiação:** Prêmio concedido a uma instituição ou pessoa ou pessoas selecionadas para o desenvolvimento de software que influenciou no longo prazo, que resultou em contribuições conceituais, contribuições comerciais ou ambos. Stallman o recebeu pelo desenvolvimento do GNU Compiler Collection, abreviado como GCC.
 
 </details>
@@ -89,6 +89,10 @@
         Doutorado Honorário da Universidade Pierre-et-Marie-Curie
     </summary>
 
-- **Ano da entrega:** 2016
+- **Ano da entrega:** 2016[^note_ano]
 - **Local da entrega:** Quartier Latin, Paris, França
 </details>
+
+[^note_ano]: [https://pt.frwiki.wiki/wiki/Richard_Stallman](https://pt.frwiki.wiki/wiki/Richard_Stallman)
+[^note_fame]: [https://pt.wikipedia.org/wiki/Internet_Hall_of_Fame](https://pt.wikipedia.org/wiki/Internet_Hall_of_Fame)
+[^note_acm]: [https://pt.frwiki.wiki/wiki/Prix_ACM_Software_System](https://pt.frwiki.wiki/wiki/Prix_ACM_Software_System)

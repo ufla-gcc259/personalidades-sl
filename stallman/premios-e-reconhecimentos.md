@@ -5,7 +5,7 @@
         Prêmios MacArthur Takeda ( prêmio de gênio )
     </summary>
 
-- **Ano da entrega:** 1990[^1]
+- **Ano da entrega:** 1990[¹]
 - **Local da entrega:** Fundação MacArthur
 - **Descrição:** "Anualmente 20 a 30 americanos são reconhecidos por serem inteligentes, criativos, motivados e realizando um trabalho importante"
 
@@ -15,7 +15,7 @@
         Doutorado Honorário da Universidade Nacional de Córdoba
     </summary>
 
-- **Local da entrega:** Córdoba, Argentina[^1]
+- **Local da entrega:** Córdoba, Argentina[¹]
 
 </details>
 <details>
@@ -23,7 +23,7 @@
         Prêmio Grace Murray Hopper
     </summary>
 
-- **Ano da entrega:** 1990
+- **Ano da entrega:** 1990[¹]
 - Por seu trabalho inovador no desenvolvimento do editor extensível Emacs
 
 </details>
@@ -32,7 +32,7 @@
         Prêmio Pioneiro EFF
     </summary>
 
-- **Ano da entrega:** 1998[^1]
+- **Ano da entrega:** 1998[¹]
 - **Local da entrega:** Washington, Estados Unidos
 - **Descrição:** "É uma distinção anual para pessoas que contribuíram significativamente para a capacitação de indivíduos por meio da TI"
 
@@ -42,7 +42,7 @@
         Prêmio Memorial Yuri Rubinsky
     </summary>
 
-- **Ano da entrega:** 1999[^1]
+- **Ano da entrega:** 1999[¹]
 - **Local da entrega:** The Web Conference
 - **Descrição:** De acordo com a fundação, é dado "a um indivíduo que contribuiu, através de uma vida inteira de esforços, para cuidar e alimentar a infraestrutura global de informação"
 
@@ -52,7 +52,7 @@
         Doutorado Honorário da Universidade de Glasgow
     </summary>
 
-- **Ano da entrega:** 2001[^1]
+- **Ano da entrega:** 2001[¹]
 - **Local da entrega:** Glasgow, Escócia
 
 </details>
@@ -61,7 +61,7 @@
         Doutorado Honorário da Vrije Universiteit Brussel
     </summary>
 
- - **Ano da entrega:** 2003[^1]
+ - **Ano da entrega:** 2003[¹]
  - **Local da entrega:** Bruxelas, Bélgica
 
 </details>
@@ -70,7 +70,7 @@
         Hall da Fama da Internet
     </summary>
 
-- **Ano da entrega:** 2013[^2]
+- **Ano da entrega:** 2013[²]
 - **Local da entrega:** Berlim, Alemanha
 - **Motivo da premiação:** Foi homenageado como inovador devido a criação do Projeto GNU, a GPL e suas contribuições filosóficas na fundação do Movimento do Software Livre.
 
@@ -80,7 +80,7 @@
         Prêmio ACM Software System
     </summary>
 
-- **Ano da entrega:** 2015[^3]
+- **Ano da entrega:** 2015[³]
 - **Motivo da premiação:** Prêmio concedido a uma instituição ou pessoa ou pessoas selecionadas para o desenvolvimento de software que influenciou no longo prazo, que resultou em contribuições conceituais, contribuições comerciais ou ambos. Stallman o recebeu pelo desenvolvimento do GNU Compiler Collection, abreviado como GCC.
 
 </details>
@@ -89,10 +89,10 @@
         Doutorado Honorário da Universidade Pierre-et-Marie-Curie
     </summary>
 
-- **Ano da entrega:** 2016[^1]
+- **Ano da entrega:** 2016[¹]
 - **Local da entrega:** Quartier Latin, Paris, França
 </details>
 
-[^1]: [https://pt.frwiki.wiki/wiki/Richard_Stallman](https://pt.frwiki.wiki/wiki/Richard_Stallman)
-[^2]: [https://pt.wikipedia.org/wiki/Internet_Hall_of_Fame](https://pt.wikipedia.org/wiki/Internet_Hall_of_Fame)
-[^3]: [https://pt.frwiki.wiki/wiki/Prix_ACM_Software_System](https://pt.frwiki.wiki/wiki/Prix_ACM_Software_System)
+[¹]: https://pt.frwiki.wiki/wiki/Richard_Stallman
+[²]: https://pt.wikipedia.org/wiki/Internet_Hall_of_Fame
+[³]: https://pt.frwiki.wiki/wiki/Prix_ACM_Software_System

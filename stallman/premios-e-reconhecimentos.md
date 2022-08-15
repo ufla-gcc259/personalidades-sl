@@ -1,10 +1,7 @@
 # Premios Concedidos a Richard Stallman
 
-### Lista dos prêmios recebidos por Richard Stallman ao longo de sua vida.
+## Lista dos prêmios recebidos por Richard Stallman ao longo de sua vida.
 
-
-![comunidades GNU faces-gnu](https://github.com/ThomazSIUFLA/personalidades-sl/blob/main/stallman/img_comunidades_GNU_faces-gnu_20170602.jpg?raw=true)
-**Fonte** *[Unicamp.br](https://www.unicamp.br/unicamp/noticias/2017/06/02/richard-stallman-lota-auditorio-no-cb-para-falar-sobre-software-livre)*
 
 <details> 
     <summary markdown="span">
@@ -139,7 +136,7 @@
 
 <details>
     <summary markdown="span">
-        [  200 ] - Primeiro Prêmio Internacional Extremadura al Conocimiento Libre
+        [ 2007 ] - Primeiro Prêmio Internacional Extremadura al Conocimiento Libre
     </summary>
 
  - **Ano da entrega:** 2007 [^4]
@@ -279,7 +276,7 @@
 
 </details>
 
-details>
+<details>
     <summary markdown="span">
         [ 2016 ] - Prêmio de Medicina Social, do GNU Solidario 
     </summary>
@@ -290,7 +287,21 @@ details>
 
 </details>
 
+------
+
+![comunidades GNU faces-gnu](https://github.com/ThomazSIUFLA/personalidades-sl/blob/main/stallman/img_comunidades_GNU_faces-gnu_20170602.jpg?raw=true)
+
+**Imagem** *[Unicamp.br](https://www.unicamp.br/unicamp/noticias/2017/06/02/richard-stallman-lota-auditorio-no-cb-para-falar-sobre-software-livre)*
+
+---
 [^1]: https://pt.frwiki.wiki/wiki/Richard_Stallman
 [^2]: https://pt.wikipedia.org/wiki/Internet_Hall_of_Fame
 [^3]: https://pt.frwiki.wiki/wiki/Prix_ACM_Software_System
 [^4]: https://en.wikipedia.org/wiki/Richard_Stallman
+
+### Referências: 
+1. https://pt.frwiki.wiki/wiki/Richard_Stallman
+2. https://pt.wikipedia.org/wiki/Internet_Hall_of_Fame
+3. https://pt.frwiki.wiki/wiki/Prix_ACM_Software_System
+4. https://en.wikipedia.org/wiki/Richard_Stallman
+

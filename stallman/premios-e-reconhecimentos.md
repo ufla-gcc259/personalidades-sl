@@ -299,9 +299,4 @@
 [^3]: https://pt.frwiki.wiki/wiki/Prix_ACM_Software_System
 [^4]: https://en.wikipedia.org/wiki/Richard_Stallman
 
-### Referências: 
-1. https://pt.frwiki.wiki/wiki/Richard_Stallman
-2. https://pt.wikipedia.org/wiki/Internet_Hall_of_Fame
-3. https://pt.frwiki.wiki/wiki/Prix_ACM_Software_System
-4. https://en.wikipedia.org/wiki/Richard_Stallman
 

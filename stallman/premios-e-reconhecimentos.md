@@ -2,11 +2,13 @@
 
 ### Lista dos prêmios recebidos por Richard Stallman ao longo de sua vida.
 
-![](https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2007/02/08/558579a.jpg)
+
+![comunidades GNU faces-gnu](https://github.com/ThomazSIUFLA/personalidades-sl/blob/main/stallman/img_comunidades_GNU_faces-gnu_20170602.jpg?raw=true)
+**Fonte** *[Unicamp.br](https://www.unicamp.br/unicamp/noticias/2017/06/02/richard-stallman-lota-auditorio-no-cb-para-falar-sobre-software-livre)*
 
 <details> 
     <summary markdown="span">
-        Membro honorário vitalício da Chalmers University of Technology Computer Society
+        [ 1986 ] - Membro honorário vitalício da Chalmers University of Technology Computer Society
     </summary>
 
 - **Ano da entrega:** 1986 [^4]
@@ -17,7 +19,7 @@
 
 <details> 
     <summary markdown="span">
-        Prêmios MacArthur Takeda ( prêmio de gênio )
+        [ 1990 ] - Prêmios MacArthur Takeda ( prêmio de gênio )
     </summary>
 
 - **Ano da entrega:** 1990 [^1]
@@ -28,7 +30,7 @@
 
 <details>
     <summary markdown="span">
-        Prêmio Grace Murray Hopper
+        [ 1990 ] - Prêmio Grace Murray Hopper
     </summary>
 
 - **Ano da entrega:** 1990 [^1]
@@ -39,7 +41,7 @@
 
 <details>
     <summary markdown="span">
-        doutorado honorário do Instituto Real de Tecnologia da Suécia 
+        [ 1990 ] - doutorado honorário do Instituto Real de Tecnologia da Suécia 
     </summary>
 
 - **Ano da entrega:** 1990 [^1]
@@ -49,7 +51,7 @@
 
 <details>
     <summary markdown="span">
-        Prêmio Pioneiro EFF
+        [ 1998 ] - Prêmio Pioneiro EFF
     </summary>
 
 - **Ano da entrega:** 1998 [^1]
@@ -60,7 +62,7 @@
 
 <details>
     <summary markdown="span">
-        Prêmio Memorial Yuri Rubinsky
+        [ 1999 ] - Prêmio Memorial Yuri Rubinsky
     </summary>
 
 - **Ano da entrega:** 1999 [^1]
@@ -71,7 +73,7 @@
 
 <details>
     <summary markdown="span">
-        Prêmio Takeda Techno-Empreendedorismo para Bem-Estar Social/Econômico
+        [ 2001 ] - Prêmio Takeda Techno-Empreendedorismo para Bem-Estar Social/Econômico
     </summary>
 
 - **Ano da entrega:** 2001 [^4]
@@ -82,7 +84,7 @@
 
 <details>
     <summary markdown="span">
-        Doutorado Honorário da Universidade de Glasgow
+        [ 2001 ] - Doutorado Honorário da Universidade de Glasgow
     </summary>
 
 - **Ano da entrega:** 2001 [^1]
@@ -93,7 +95,7 @@
 
 <details>
     <summary markdown="span">
-        Associação da Academia Nacional de Engenharia dos EUA 
+        [ 2002 ] - Associação da Academia Nacional de Engenharia dos EUA 
     </summary>
 
 - **Ano da entrega:** 2002 [^1]
@@ -104,7 +106,7 @@
 
 <details>
     <summary markdown="span">
-        Doutorado Honorário da Vrije Universiteit Brussel
+        [ 2003 ] - Doutorado Honorário da Vrije Universiteit Brussel
     </summary>
 
 - **Ano da entrega:** 2003 [^1]
@@ -115,7 +117,7 @@
 
 <details>
     <summary markdown="span">
-        Doutorado honorário, da Universidad Nacional de Salta 
+        [ 2004 ] - Doutorado honorário, da Universidad Nacional de Salta 
     </summary>
 
 - **Ano da entrega:** 2004 [^4]
@@ -126,7 +128,7 @@
 
 <details>
     <summary markdown="span">
-        cátedra honorária, da Universidad Inca Garcilaso de la Vega
+        [ 2007 ] - cátedra honorária, da Universidad Inca Garcilaso de la Vega
     </summary>
 
 - **Ano da entrega:** 2007 [^4]
@@ -137,7 +139,7 @@
 
 <details>
     <summary markdown="span">
-        Primeiro Prêmio Internacional Extremadura al Conocimiento Libre
+        [  200 ] - Primeiro Prêmio Internacional Extremadura al Conocimiento Libre
     </summary>
 
  - **Ano da entrega:** 2007 [^4]
@@ -148,7 +150,7 @@
 
 <details>
     <summary markdown="span">
-        Doutorado honorário, da Universidad de Los Angeles de Chimbote 
+        [ 2007 ] - Doutorado honorário, da Universidad de Los Angeles de Chimbote 
     </summary>
 
 - **Ano da Entrega:** 2007
@@ -159,7 +161,7 @@
 
 <details>
     <summary markdown="span">
-        Doutorado honorário, da Universidade de Pavia
+        [ 2007 ] - Doutorado honorário, da Universidade de Pavia
     </summary>
 
 - **Ano da Entrega:** 2007
@@ -170,7 +172,7 @@
 
 <details>
     <summary markdown="span">
-        Doutorado honorário da Universidad Nacional de Trujillo
+        [ 2008 ] - Doutorado honorário da Universidad Nacional de Trujillo
     </summary>
 
 - **Ano da Entrega:** 2008
@@ -181,7 +183,7 @@
 
 <details>
     <summary markdown="span">
-        doutorado honorário, da Lakehead University
+        [ 2009 ] - doutorado honorário, da Lakehead University
     </summary>
 
 - **Ano da Entrega:** 2009
@@ -192,7 +194,7 @@
 
 <details>
     <summary markdown="span">
-        Doutorado Honorário da Universidade Nacional de Córdoba
+        [ 2011 ] - Doutorado Honorário da Universidade Nacional de Córdoba
     </summary>
 
 - **Ano da Entrega:** 2011
@@ -203,7 +205,7 @@
 
 <details>
     <summary markdown="span">
-        cátedra honorária, da Universidad César Vallejo de Trujillo
+        [ 2012 ] - cátedra honorária, da Universidad César Vallejo de Trujillo
     </summary>
 
 - **Ano da Entrega:** 2012
@@ -214,7 +216,7 @@
 
 <details>
     <summary markdown="span">
-        Doutorado honorário, da Universidad Latinoamericana Cima de Tacna
+        [ 2012 ] - Doutorado honorário, da Universidad Latinoamericana Cima de Tacna
     </summary>
 
 - **Ano da Entrega:** 2012
@@ -225,7 +227,7 @@
 
 <details>
     <summary markdown="span">
-        Doutorado honorário, da Universidad José Faustino Sánchez Carrión 
+        [ 2012 ] - Doutorado honorário, da Universidad José Faustino Sánchez Carrión 
     </summary>
 
 - **Ano da Entrega:** 2012
@@ -236,7 +238,7 @@
 
 <details>
     <summary markdown="span">
-        Hall da Fama da Internet
+        [ 2013 ] - Hall da Fama da Internet
     </summary>
 
 - **Ano da entrega:** 2013 [^2]
@@ -247,7 +249,7 @@
 
 <details>
     <summary markdown="span">
-        Doutorado honorário, pela Concordia University 
+        [ 2014 ] - Doutorado honorário, pela Concordia University 
     </summary>
 
 - **Ano da Entrega:** 2014
@@ -258,7 +260,7 @@
 
 <details>
     <summary markdown="span">
-        Prêmio ACM Software System
+        [ 2015 ] - Prêmio ACM Software System
     </summary>
 
 - **Ano da entrega:** 2015 [^3]
@@ -268,7 +270,7 @@
 
 <details>
     <summary markdown="span">
-        Doutorado Honorário da Universidade Pierre-et-Marie-Curie
+        [ 2016 ] - Doutorado Honorário da Universidade Pierre-et-Marie-Curie
     </summary>
 
 - **Ano da entrega:** 2016 [^1]
@@ -279,7 +281,7 @@
 
 details>
     <summary markdown="span">
-        Prêmio de Medicina Social, do GNU Solidario 
+        [ 2016 ] - Prêmio de Medicina Social, do GNU Solidario 
     </summary>
 
 - **Ano da entrega:** 2016 [^4]

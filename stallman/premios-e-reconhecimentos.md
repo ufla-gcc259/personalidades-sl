@@ -1,4 +1,6 @@
-# Premios Concedidos a Richard Stallman
+[Voltar](intro.md)
+
+# Prêmios e reconhecimentos
 
 <details> 
     <summary markdown="span">

@@ -36,8 +36,6 @@ Ainda que Stallman mencione não conseguir escrever poesia de verdade, ele produ
 
 Stallman afirma evitar ao máximo tudo aquilo que apresente um problema a sua privacidade. Ele usa cartões de crédito apenas quando necessário, não tem um celular e toma precauções extremas até mesmo ao usar a internet. Por exemplo, ele não faz nenhum pagamento online e se nega a conectar a sites em seu computador pessoal, usando somente aqueles que ele pessoalmente confia.
 
-## Referências <br>
-
 [^2]: https://www.unixmen.com/richard-matthew-stallman-father-free-software-foundation/
 [^3]: https://ia803403.us.archive.org/28/items/The_Basement_Interviews/Richard_Stallman_Interview.pdf
 [^4]: Free as in Freedom: Richard Stallman's Crusade for Free Software

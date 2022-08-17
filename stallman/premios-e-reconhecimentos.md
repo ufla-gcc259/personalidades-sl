@@ -1,8 +1,5 @@
 # Premios Concedidos a Richard Stallman
 
-## Lista dos prêmios recebidos por Richard Stallman ao longo de sua vida.
-
-
 <details> 
     <summary markdown="span">
         [ 1986 ] - Membro honorário vitalício da Chalmers University of Technology Computer Society
@@ -287,13 +284,10 @@
 
 </details>
 
-------
-
 ![comunidades GNU faces-gnu](https://github.com/ThomazSIUFLA/personalidades-sl/blob/main/stallman/img_comunidades_GNU_faces-gnu_20170602.jpg?raw=true)
 
 **Imagem** *[Unicamp.br](https://www.unicamp.br/unicamp/noticias/2017/06/02/richard-stallman-lota-auditorio-no-cb-para-falar-sobre-software-livre)*
 
----
 [^1]: https://pt.frwiki.wiki/wiki/Richard_Stallman
 [^2]: https://pt.wikipedia.org/wiki/Internet_Hall_of_Fame
 [^3]: https://pt.frwiki.wiki/wiki/Prix_ACM_Software_System

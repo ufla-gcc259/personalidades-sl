@@ -37,7 +37,6 @@ Em sua publicação sobre o fato de ter renunciado aos cargos citados acima, ele
 
 >To the MIT community, I am resigning effective immediately from my position in CSAIL at MIT. I am doing this due to pressure on MIT and me over a series of misunderstandings and mischaracterizations. [^3].
 
-<br><br> 
 [^1]: Richard Matthew Stallman. https://pt.wikipedia.org/wiki/Richard_Matthew_Stallman <br>
 [^2]: Blog do stallman. https://stallman.org/ <br>
 [^3]: The Daily Beast. https://www.thedailybeast.com/richard-stallman-famed-mit-computer-scientist-who-defended-jeffrey-epstein-resigns

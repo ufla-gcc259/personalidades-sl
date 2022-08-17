@@ -11,7 +11,7 @@ O projeto GNU
 
 O *projeto GNU* é um projeto colaborativo de Software Livre anunciado em 27 de Setembro de 1983 (Trabalhos nele apenas começaram em Janeiro de 1984) [^2]. A iniciativa tem a intenção de *desenvolver e publicar* (colaborativamente) software para permitir que seus usuários tenham a liberdade de *utilizar, copiar, distribuir, estudar e modificá-lo*, com o objetivo final de dar **liberdade e controle aos usuários de computadores e seus dispositivos** [^1].
 
-Richard Stallman criou esse projeto e seu manifesto, o *Manifesto GNU*. Para assim, poder explicar suas razões e objetivos.
+Richard Stallman criou esse projeto e seu manifesto, o *Manifesto GNU*, para assim poder explicar suas razões e objetivos.
 No manifesto, Richard exprime a vontade de compartilhar os programas que gosta. Além disso, explica que abandonou seu trabalho no Laboratório de Inteligência Artificial do MIT, com objetivo de impedir que o MIT arrumasse alguma desculpa legal para impedí-lo de fornecer o GNU de forma livre [^3].
 
 Dois anos depois que o sistema operacional foi anunciado, em Março de 1985, foi publicado o *Manifesto GNU*, pedindo apoio no desenvolvimento do *OS GNU* (*Operational System GNU*) [^3].
@@ -28,6 +28,7 @@ Em suma, seus objetivos consistem em dar aos usuários de computador liberdade e
 - Estudar e o modificar
 
 ## Como ele se relaciona com o Software Livre?
+
 O conceito de Software Livre é uma questão de *liberdade, não preço*; todos os usuários são legalmente livres para fazerem o que quiserem com suas cópias de Software Livre (incluíndo lucrar com elas), não importando o quanto pagaram pelo programa [^4].
 
 O *projeto GNU*, lançado juntamente com o *Movimento Software Livre*, buscava esforço colaborativo para criar um sistema operacional que respeitava a liberdade, e reviver o espírito cooperativo que era prevalente entre hackers durante a era inicial da computação.
@@ -44,9 +45,6 @@ Nesse sentido, o status atual do projeto inclui atividades relevantes, como [^1]
 - Conscientização
 - Campanha política
 - Compartilhamento do novo material.
-
-----------------------------------------
-### Fontes
 
 [^1]: [Wikipedia GNU Project](https://en.wikipedia.org/wiki/GNU_Project)
 

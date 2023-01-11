@@ -8,6 +8,7 @@ Ele é desenvolvido e mantido pelas turmas da disciplina *Desenvolvimento de Sof
 Abaixo, encontra-se a lista de personalidades já tratadas, juntamente os _links_ correspondentes às suas páginas.
 
 * [Richard Matthew Stallman](stallman/intro.md) (Turma 2022/1)
+* [Linus Benedict Torvalds](linus/intro.md) (Turma 2022/2)
 
 ---
 

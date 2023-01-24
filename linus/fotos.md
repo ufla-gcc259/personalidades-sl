@@ -30,7 +30,7 @@
 |:--:|
 | <b>Linus com o Linux</b>|
 
-| <img alt="Linus fazendo gesto ofensivo" src="assets/linus-fuck.png" width="600"/> |
+| <img alt="Linus fazendo gesto ofensivo" src="assets/linus-fuck.webp" width="600"/> |
 |:--:|
 | <b>Linus fazendo gesto ofensivo</b>|
 

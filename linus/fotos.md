@@ -35,3 +35,11 @@
 | <img alt="Linus em seu ambiente de trabalho" src="assets/linus-battlestation.png" width="600"/> |
 |:--:|
 | <b>Linus em seu ambiente de trabalho</b>|
+
+| <img alt="Linus em uma conferência TED nos dias atuais" src="assets/linus-conference.jpg" width="600"/> |
+|:--:|
+| <b>Linus em uma conferência TED nos dias atuais</b>|
+
+| <img alt="Linus em debate sobre a superioridade da AMD sobre a Intel" src="assets/linus-amd.jpg" width="600"/> |
+|:--:|
+| <b>Linus em debate sobre a superioridade da AMD sobre a Intel</b>|

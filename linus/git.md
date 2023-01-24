@@ -16,7 +16,7 @@ O Git oferece várias vantagens em relação ao seus concorrentes como:
 - Flexibilidade: o Git é flexível, suporta a vários tipos de fluxos de trabalho de desenvolvimento não lineares, além de compatibilidade com muitos sistemas e protocolos existentes. Um exemplo de fluxo de trabalho sugerido é o GitFlow apresentado abaixo, 
 
 
-![image](https://user-images.githubusercontent.com/56547429/214272903-6f55b7d7-2a8f-4ab4-a35d-b9b24ee66cf7.png)
+![Exemplo de GitFlow utilizando o GIT](https://user-images.githubusercontent.com/56547429/214272903-6f55b7d7-2a8f-4ab4-a35d-b9b24ee66cf7.png)
 
 
 Alguns conceitos importantes de GIT são: 

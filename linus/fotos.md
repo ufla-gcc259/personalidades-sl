@@ -30,6 +30,14 @@
 |:--:|
 | <b>Linus com o Linux</b>|
 
+| <img alt="Linus fazendo gesto ofensivo" src="assets/linus-fuck.png" width="600"/> |
+|:--:|
+| <b>Linus fazendo gesto ofensivo</b>|
+
+| <img alt="Linus com a mascara do mascote do Linux" src="assets/linus-arte.png" width="600"/> |
+|:--:|
+| <b>Linus com a mascara do mascote do Linux</b>|
+
 ## Hoje em dia
 
 | <img alt="Linus em seu ambiente de trabalho" src="assets/linus-battlestation.png" width="600"/> |

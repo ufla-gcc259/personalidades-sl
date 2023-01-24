@@ -10,6 +10,8 @@ Anne Trovalds traduzia notícias para jornais finlandeses.[^1] <br>
 Nils Trovalds, um comunista, membro do partido comunista Filandes de 1969 à 1982, estudou economia em Moscow, e foi editor da revista Taistoist Arbetartidningen Enhet. [^2] <br>
 
 ## Como foi sua infância/adolescência? <br>
+Torvalds teve uma infância bastante convencional e feliz, apesar de seus pais terem se divorciado enquanto era criança. Linus morava com a mãe e também com os avós. Foi o seu avô materno, Leo Toerngvist, professor de estatística da Universidade de Helsínquia, que teve uma grande influência sobre o jovem Linus. [^4] <br>
+Aos dez anos, Torvalds, começou a interessar-se por programação no Commodore VIC-20 de seu avô. Linus, quando era um estudante de ciência da computação na universidade de Helsínquia, usou as suas economias para comprar o seu primeiro computador, um Sinclair QL. Porém, ele logo ficou insatisfeito com o computador porque o sistema operacional UNIX não poderia ser reprogramado por estar instalado em uma ROM. Essas insatisfações com os sistemas UNIX e com o Sinclair QL, levaram Torvalds a desenvolver o seu próprio sistema operacional, o Linux. [^4] <br>
 
 ## Personalidade de Linus Torvalds
 

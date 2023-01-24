@@ -15,6 +15,7 @@ Hoje em dia, O kernel Linux é o principal componente de um sistema operacional 
 O kernel é o grande responsável por fazer a ligação entre o hardware e o software do computador. Sendo assim, o objetivo principal é gerenciar a máquina e fazer com que os aplicativos possam ser executados através dos recursos existentes no computador. Além disso, o kernel tem como responsabilidade garantir que a memória RAM seja utilizada do melhor modo possível para que assim não ofereça qualquer risco para o computador.
 
 ## Como ele se relaciona com o Software Livre?
+O desenvolvimento do Linux é um dos mais proeminentes exemplos de software livre (open source), desenvolvido a partir do conceito de colaboração que pode ser utilizado por qualquer pessoa sob licenças como a GNU General Public License.
 
 ## Qual o status do projeto atualmente?
 
@@ -25,3 +26,5 @@ O kernel é o grande responsável por fazer a ligação entre o hardware e o sof
 [Linux](https://www.redhat.com/pt-br/topics/linux/what-is-the-linux-kernel)
 <br>
 [O que é Kernel?](https://www.oficinadanet.com.br/post/13858-o-que-e-kernel)
+<br>
+[Linux e Software Livre](https://efagundes.com/artigos/linux-e-software-livre/#:~:text=O%20desenvolvimento%20do%20Linux%20%C3%A9,a%20GNU%20General%20Public%20License.)

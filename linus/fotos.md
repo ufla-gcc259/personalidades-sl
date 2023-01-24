@@ -6,7 +6,9 @@
 |:--:|
 | <b>Linus recentemente após completar 50 anos.</b>|
 
-<img alt="Linus Torvalds com a esposa Tove Torvalds" src="assets/Linus_torvalds-wife.png" width="600"/> |
+| <img alt="Linus Torvalds com a esposa Tove Torvalds" src="assets/Linus_torvalds-wife.png" width="600"/> |
+|:--:|
+| <b>Linus Torvalds com a esposa Tove Torvalds</b>|
 
 ## Juventude e Faculdade
 
@@ -14,7 +16,9 @@
 |:--:|
 | <img alt="Linus, sem camisa, bebendo cerveja" src="assets/linus-college-3.png" width="300" /> |
 
-<img alt="Um jovem Linus Torvalds com sua irmã jornalista Sara Torvalds" src="assets/Linus_and_sara_Torvalds.png" width="300" /> |
+| <img alt="Um jovem Linus Torvalds com sua irmã jornalista Sara Torvalds" src="assets/Linus_and_sara_Torvalds.png" width="300" /> |
+|:--:|
+| <b>Um jovem Linus Torvalds com sua irmã jornalista Sara Torvalds</b> |
 
 ## Linux
 

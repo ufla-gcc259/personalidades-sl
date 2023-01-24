@@ -2,14 +2,14 @@
 
 # Polêmicas
 
-## Personalidade e Nvidia 
+## Personalidade e NVIDIA
 
   Apesar de Linus Torvalds ser uma pessoa de grande importância onde tem um reconhecimento e também com vários prêmios, ele já entrou em várias polêmicas ao longo de sua jornada, onde ele mesmo se intitula como desagradavel e uma pessoa complicada.
    Já participou de uma palestra onde ele mesmo já ele disse sobre seus defeitos [^1]
 
->Sou uma pessoa muito desagradável. Algumas pessoas pensam que eu sou legal e algumas pessoas ficam chocadas quando aprendem diferente. Eu não sou uma pessoa legal e não me importo com você.
+>Sou uma pessoa muito desagradável. Algumas pessoas pensam que eu sou legal e algumas pessoas ficam chocadas quando descobrem o contrário. Eu não sou uma pessoa legal e não me importo com vocês.
    
-   Além disso, em certas palestras já expôs certos conflitos com outras empresas onde uma delas é a NVIDIA pois não oferece nenhum suporte em hardware e drivers dos seus produtos para o Linux, e também a NVIDIA recusa divulgar os drivers open-source. E por isso na entrevista ele disso
+   Além disso, em certa palestra que ocorreu em 2012, expôs certos conflitos com outras empresas onde uma delas é a NVIDIA pois não oferece nenhum suporte em hardware e drivers dos seus produtos para o Linux, e também a NVIDIA recusa divulgar os drivers open-source. E por isso na entrevista ele disso
 “Tem sido a única pior empresa na qual Linux já lidou”, além do mais mostrou dedo do meio e disse "NVIDIA, vá se f#d@r”. [^2]
 
 ## Linus se abstém do Linux

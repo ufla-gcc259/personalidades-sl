@@ -12,7 +12,10 @@ Hoje em dia, O kernel Linux é o principal componente de um sistema operacional 
 "Kernel" em inglês significa "núcleo" ou "grão" e é seguindo essa analogia que ele existe no sistema operacional: o kernel controla todas as principais funções do hardware, seja este um smartphone, um laptop, um servidor ou qualquer outro tipo de computador.
 
 ## Qual é ou quais são seus objetivos?
+<br>
 O kernel é o grande responsável por fazer a ligação entre o hardware e o software do computador. Sendo assim, o objetivo principal é gerenciar a máquina e fazer com que os aplicativos possam ser executados através dos recursos existentes no computador. Além disso, o kernel tem como responsabilidade garantir que a memória RAM seja utilizada do melhor modo possível para que assim não ofereça qualquer risco para o computador.
+<br>
+Com o objetivo de ser livre e gratuito, o código-fonte do Linux é aberto, permitindo que pessoas, empresas e organizações possam customizar conforme a necessidade, tornando-o adaptável para qualquer tipo de uso, desde desktop e servidores, até chips de carros e sistemas de automação industrial. A principal diferença entre o Linux e outros SO é que o sistema operacional Linux não é produzido por uma empresa, mas sim por diversas organizações e indivíduos que trabalham em diferentes partes do software. 
 
 ## Como ele se relaciona com o Software Livre?
 O desenvolvimento do Linux é um dos mais proeminentes exemplos de software livre (open source), desenvolvido a partir do conceito de colaboração que pode ser utilizado por qualquer pessoa sob licenças como a GNU General Public License.
@@ -20,7 +23,19 @@ O desenvolvimento do Linux é um dos mais proeminentes exemplos de software livr
 ## Qual o status do projeto atualmente?
 Hoje existem mais de 300 distribuições Linux ativas. A maioria delas é originada do Debian. Mais de 13500 desenvolvedores contribuem para o Linux atualmente. O kernel Linux, atualmente conta com 22 milhões de linhas de código.
 
-## Rerefências
+
+## Distribuições Linux
+Sendo o linux um kernel disponível de maneira gratuita e com código-fonte aberto, qualquer pessoa ou organização pode juntá-lo a um conjunto de softwares para criar um sistema operacional customizado.
+Logo existem diversas distribuições linux uitas inclusive fazem parte de negócios rentáveis em que a empresa fornece, por exemplo, o sistema operacional de graça, mas obtém receita a partir de serviços de suporte. A mais famosa dentre elas sendo o Ubuntu da empresa Canonical.
+
+Outros exemplos de distibuições populares são:
+* Fedora (ligada à Red Hat);
+* Debian;
+* Arch Linux;
+* Linux Mint;
+* CentOS (com foco em servidores);
+
+## Referências
 
 [Desenvolvimento Kernel linux](https://embarcados.com.br/desenvolvimento-kernel-linux/)
 <br>

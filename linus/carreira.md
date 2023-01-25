@@ -8,7 +8,7 @@ De acordo com os registros profissionais, Linus Torvalds trabalhou, por mais de 
 
 Após isso, Linus passou para o Open Source Development Labs (OSDL), a partir de julho de 2003, em que concentrou esforços para o desenvolvimento do Linux. A OSDL, como mostra o portal Internet Hall of Fame [^3], foi um consórcio formado por empresas de alta tecnologia, como IBM, Hewlett-Packard, Intel, AMD, RedHat, Novell e muitas outras. O objetivo do consórcio era promover o desenvolvimento do Linux.
 
-Após 3 anos e 6 meses, em janeiro de 2007, A OSDL se fundiu com o The Free Standards Group para se tornar a The Linux Foundation (https://linuxfoundation.eu/), uma organização sem fins lucrativos voltada para o desenvolvimento, apoio e fornecimento de projetos de código aberto [^4]. 
+Após 3 anos e 6 meses, em janeiro de 2007, A OSDL se fundiu com o The Free Standards Group para se tornar a [The Linux Foundation](https://linuxfoundation.eu/), uma organização sem fins lucrativos voltada para o desenvolvimento, apoio e fornecimento de projetos de código aberto [^4]. 
 
 [^1]:https://www.linkedin.com/in/linustorvalds/ 
 [^2]:https://www.bloomberg.com/profile/company/TMTA:US#xj4y7vzkg

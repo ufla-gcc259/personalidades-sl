@@ -19,18 +19,18 @@ Linus é bastante conhecido pela sua personalidade orgulhosa, crítica e arrogan
 
 ## O que mais gostava de fazer? <br>
 
-Linus tem interesse por mergulho esportivo, chegando a ter diversas certificações na área e criar o projeto Subsurface, um aplicativo que auxilia mergulhadores durante suas explorações [^8].
+Linus tem interesse por mergulho esportivo, chegando a ter diversas certificações na área e criar o projeto Subsurface, um aplicativo que auxilia mergulhadores durante suas explorações [^8].  
 Torvalds gota de ouvir música e seu gênero favorito é rock clássico (anos 60 e Beatles)[^9].
 
 
 ## Outras informações relevantes sobre sua vida social. <br>
 
-Seu nome completo é Linus Benedict Torvalds[^1].
-Linus Torvalds se casou com sua atual esposa Tove Monni em 1997, também é finlandesa e seis vezes campeã nacional de caratê. Ele tem três filhas com ela[^1].
-Torvalds se tornou cidadão americano oficialmente em 2010[^1].
-Linus é do signo de Capricórnio[^1].
-É estimado que tenha uma fortuna de aproximadamente 50 milhões de dólares.[^1]
-Ele se considera um ateu a-religioso e é especialmente receoso de religiões organizadas[^9].
+-Seu nome completo é Linus Benedict Torvalds[^1].
+-Linus Torvalds se casou com sua atual esposa Tove Monni em 1997, também é finlandesa e seis vezes campeã nacional de caratê. Ele tem três filhas com ela[^1].
+-Torvalds se tornou cidadão americano oficialmente em 2010[^1].
+-Linus é do signo de Capricórnio[^1].
+-É estimado que tenha uma fortuna de aproximadamente 50 milhões de dólares.[^1]
+-Ele se considera um ateu a-religioso e é especialmente receoso de religiões organizadas[^9].
 
 
 [^1]: https://history-computer.com/linus-torvalds-complete-biography/

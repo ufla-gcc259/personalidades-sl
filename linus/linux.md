@@ -18,6 +18,7 @@ O kernel é o grande responsável por fazer a ligação entre o hardware e o sof
 O desenvolvimento do Linux é um dos mais proeminentes exemplos de software livre (open source), desenvolvido a partir do conceito de colaboração que pode ser utilizado por qualquer pessoa sob licenças como a GNU General Public License.
 
 ## Qual o status do projeto atualmente?
+Hoje existem mais de 300 distribuições Linux ativas. A maioria delas é originada do Debian. Mais de 13500 desenvolvedores contribuem para o Linux atualmente. O kernel Linux, atualmente conta com 22 milhões de linhas de código.
 
 ## Rerefências
 
@@ -28,3 +29,5 @@ O desenvolvimento do Linux é um dos mais proeminentes exemplos de software livr
 [O que é Kernel?](https://www.oficinadanet.com.br/post/13858-o-que-e-kernel)
 <br>
 [Linux e Software Livre](https://efagundes.com/artigos/linux-e-software-livre/#:~:text=O%20desenvolvimento%20do%20Linux%20%C3%A9,a%20GNU%20General%20Public%20License.)
+<br>
+[Linux atualmente](http://ninjadolinux.com.br/linux/#:~:text=Hoje%20existem%20mais%20de%20300,milh%C3%B5es%20de%20linhas%20de%20c%C3%B3digo.)

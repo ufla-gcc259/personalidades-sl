@@ -4,7 +4,6 @@
 
 ## O que é o projeto [^1]? 
 
-
 O Git é um Sistema de Controle de Versões Distribuído (DVCS - Distributed Version Control System), esse sistema registra todas as alterações realizadas em um determinado código, dessa forma é possível visualizar todo o histórico detalhado de alterações de um projeto e, caso seja necessário, regredir a versões anteriores de forma simplificada e rápida. Foi criado por Linus Torvalds em 2005 é um sistema usado por muitos projetos de software atuais, tanto comerciais quanto Open-sources. 
 
 O Git possui uma arquitetura distribuído, dessa froma, a cópia de trabalho de todo desenvolvedor do código é também um repositório que pode conter o histórico de todas as alterações. 
@@ -44,7 +43,6 @@ Para adentrar um pouco sobre seus objetivos é importante entender um pouco a ra
 No site próprio site do Git (https://git-scm.com/community) no item ‘Contributing to Git’ ou ‘Contribuindo para o Git’ é possível entrar informações detalhadas dos passos para contribuir no projeto.
 
 Em 2005, durante o desenvolvimento do kernel do Linux, a equipe que o desenvolvia e a empresa responsável pelo BitKeeper entraram em conflito quando a ferramenta passou a ser paga, dessa forma, Linus Torvalds decidiu desenvolver sua própria ferramenta, baseado no que aprendeu utilizando o BitKeeper e sendo uma plataforma open-source. 
-
 
 
 ## Qual o status do projeto atualmente [^4]?

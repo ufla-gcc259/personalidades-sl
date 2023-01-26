@@ -15,6 +15,14 @@ O Git oferece várias vantagens em relação ao seus concorrentes como:
 - Segurança: tendo a integridade do código-fonte como prioridade, o Git foi desenhado para que os conteúdos dos arquivos, seus relacionamentos, diretórios, tags, commits, entre outros, são protegidos com um algoritmo de hash de criptografia SHA1. 
 - Flexibilidade: o Git é flexível, suporta a vários tipos de fluxos de trabalho de desenvolvimento não lineares, além de compatibilidade com muitos sistemas e protocolos existentes. Um exemplo de fluxo de trabalho sugerido é o GitFlow apresentado abaixo, 
 
+<<<<<<< HEAD
+=======
+
+![Exemplo de GitFlow utilizando o GIT](https://user-images.githubusercontent.com/56547429/214272903-6f55b7d7-2a8f-4ab4-a35d-b9b24ee66cf7.png)
+> *Exemplo de GitFlow utilizando o GIT*
+
+
+>>>>>>> 15957895a3dfb0542f0f9c30e7db3044e037d7d6
 Alguns conceitos importantes de GIT são: 
 
 - Repositórios: ambientes criados para armazenar os códigos;
@@ -62,5 +70,9 @@ São lançadas novas versões e atualizações constantemente com finalidade de 
   https://about.gitlab.com/blog/2020/11/19/move-to-distributed-vcs/#:~:text=Unlike%20a%20centralized%20version%20control,workstations%2C%20creating%20multiple%20backup%20copies.
 [^3]: https://www.ictea.com/cs/index.php?rp=%2Fknowledgebase%2F3484%2FiQue-es-el-software-de-control-de-versiones-GIT.html&language=portuguese-pt
   https://git-scm.com/community
+<<<<<<< HEAD
   https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Uma-Breve-Hist%C3%B3ria-do-Git
 [^4]: https://git-scm.com/downloads
+=======
+[^4]: https://git-scm.com/downloads
+>>>>>>> 15957895a3dfb0542f0f9c30e7db3044e037d7d6

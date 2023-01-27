@@ -33,7 +33,6 @@ O projeto surgiu durante o nascimento do kernel do Linux, onde todas as alteraç
 - Ser capaz de lidar com grandes volumes de dados com eficácia e eficiência;
 - Manter um rastreio para as alterações.
 
-
 Para adentrar um pouco sobre seus objetivos é importante entender um pouco a razão de terem sido escolhidos e a fundamentação deles. Ser rápido e simples é uma necessidade básica uma vez que visa o desenvolvimento mais ágil, como o kernel do Linux já tinha uma quantidade considerável de linhas de código então o sistema deveria ser capaz de lidar com grandes volumes de arquivos e dados, para isso foi usada uma linguagem mais próxima do baixo nível, o C, o suporte não linear é combinado com a flexibilidade para os programadores, uma vez que dessa forma é possível trabalhar isoladamente em determinados requisitos ou erros sem interferir no serviço de outra pessoa, ainda assim mantendo também o histórico de alterações para que fosse possível resgatar alterações e ficar mais fácil de reverte-las. Por fim, o sistema ser distribuido garantiu que não tivesse o problema de único ponto de falha, assim cada contribuidor poderia manter para si uma cópia do código, assim também disseminando a ideia de software Open Source.
 
 
@@ -44,6 +43,9 @@ No site próprio site do Git (https://git-scm.com/community) no item ‘Contribu
 
 Em 2005, durante o desenvolvimento do kernel do Linux, a equipe que o desenvolvia e a empresa responsável pelo BitKeeper entraram em conflito quando a ferramenta passou a ser paga, dessa forma, Linus Torvalds decidiu desenvolver sua própria ferramenta, baseado no que aprendeu utilizando o BitKeeper e sendo uma plataforma open-source. 
 
+Linus Torvalds continua a desenvolver e manter o Git, e é frequentemente visto contribuindo para o código-fonte do projeto e respondendo perguntas na comunidade de usuários do Git. Ele também é creditado com a introdução de algumas das principais características do Git, como o uso de hashs SHA-1 para identificar versões do código e o uso de ramos e tags para organizar o código.
+
+Em resumo, Linus Torvalds é o criador e principal desenvolvedor do Git, uma ferramenta de controle de versão amplamente utilizada na comunidade de desenvolvimento de software e usada para gerenciar o código-fonte do próprio Linux.
 
 ## Qual o status do projeto atualmente [^4]?
 

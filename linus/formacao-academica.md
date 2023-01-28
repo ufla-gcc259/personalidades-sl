@@ -21,8 +21,8 @@
 
 -   Na escola primária, Linus tinha facilidade com matemática e física, com isso era conhecido como o "_Cara da Matemática_" e "_Gênio da Matemática_" [^2]
 -   Não detinha interesse por assuntos que envolviam memorização, como as datas de acontecimentos históricos [^2]
--   Não era tão bom em atividades esportivas, e isso se refletia em suas notas em Educação Física, disciplina na qual matava aula para jogar futebol ou hóquei [^2]
--   Gostava da disciplina de Latim e adorava contar piadas no idioma [^2]
+-   Não era tão bom em atividades esportivas, e isso se refletia em suas notas em Educação Física, disciplina da qual até gostava de participar quando se tratava de Ginástica mas matava as aulas de Futebol e Hóquei [^2]
+-   Gostava da disciplina de Latim e considerava estudar Latim mais interessante que inglês ou o próprio finlandês. Gostaria que não fosse mais uma língua morta para que pudesse contar piadas ou até discutir estratégias de design de Sistemas Operacionais em latim [^2]
 -   Não era muito bom em carpintaria e ainda tem lascas alojadas nos dedos dos tempos em que fazia a matéria [^2]
 -   As vezes dava aula de matemática para alguns colegas [^2]
 -   Era melhor na escola que sua irmã, Sara, sendo ela mais sociável do que ele. [^2]

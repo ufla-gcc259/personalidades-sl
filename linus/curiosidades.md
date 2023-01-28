@@ -17,7 +17,10 @@ Linus Torvalds, criador do sistema operacional Linux, expressou sua desaprovaç�
 # Linus recusou-se a trabalhar com Jobs
 Linus Torvalds recusou a oferta de emprego do Steve Jobs. Em 2000, Steve Jobs ofereceu a ele um trabalho para trabalhar no macOS da Apple, que ele recusou e continuou a trabalhar no núcleo Linux. Imagine se ele tivesse se juntado à Apple. Com apenas mais de 2% de participação de mercado de sistemas operacionais, o Linux ainda tem um longo caminho a percorrer, mas a velocidade com que o sistema operacional progrediu indica que ele ficará mais popular ao longo do tempo. Além disso, prevê-se que a participação de mercado do Linux aumentará em 19,2% até o final de 2027.
 
+
 # O começo de sua carreira
 Linus começou a escrever programas em BASIC com 10 anos de idade, usando o Commodore Vic 20 de seu avô materno. Foi nesse momento que ele descobriu o seu amor por computadores e programação. Isso foi um marco importante na sua vida, pois foi quando ele começou a se interessar por tecnologia e iniciou seu desenvolvimento de habilidades e conhecimentos relacionados a computadores. A partir desse momento, ele passou a dedicar mais tempo para aprender sobre computadores e programação. Ele também começou a desenvolver seus próprios programas, o que o ajudou a aperfeiçoar suas habilidades e a desenvolver seu interesse pela tecnologia. Isso provou ser um passo importante em sua carreira, já que ele acabaria criando o sistema operacional Linux, que se tornaria um dos sistemas operacionais de código aberto mais populares e amplamente utilizados no mundo.
 
+Referências gerais:
+https://fossbytes.com/10-facts-about-linus-torvalds/
 https://itsfoss.com/linus-torvalds-facts/#:~:text=Linus%20Benedict%20Torvalds%20was%20born,winner%20in%20Chemistry%20and%20Peace.

@@ -22,7 +22,7 @@ Portanto definir a personalidade de uma pessoa é bastante complicada, em funç�
 ## O que mais gostava de fazer? <br>
 
 Linus tem interesse por mergulho esportivo, chegando a ter diversas certificações na área e criar o projeto Subsurface, um aplicativo que auxilia mergulhadores durante suas explorações [^8].  
-Torvalds gota de ouvir música e seu gênero favorito é rock clássico (anos 60 e Beatles)[^9].
+Torvalds gosta de ouvir música e seu gênero favorito é rock clássico (anos 60 e Beatles)[^9].
 
 
 ## Outras informações relevantes sobre sua vida social. <br>

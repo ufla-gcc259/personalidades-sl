@@ -38,14 +38,11 @@ Para adentrar um pouco sobre seus objetivos é importante entender um pouco a ra
 
 ## Como ele se relaciona com o Software Livre [^3]?
 
-É um sistema de código aberto, distribuído sobre os termos da versão 2 da GNU General Public License (GPL).  
-No site próprio site do Git (https://git-scm.com/community) no item ‘Contributing to Git’ ou ‘Contribuindo para o Git’ é possível entrar informações detalhadas dos passos para contribuir no projeto.
+O projeto Git surgiu em 2005 durante o desenvolvimento do kernel do Linux, visto que a equipe que o desenvolvia e a empresa responsável pelo BitKeeper entraram em conflito quando a ferramenta passou a ser paga, dessa forma, Linus Torvalds decidiu desenvolver sua própria ferramenta, baseado no que aprendeu utilizando o BitKeeper e sendo uma plataforma open-source. 
 
-Em 2005, durante o desenvolvimento do kernel do Linux, a equipe que o desenvolvia e a empresa responsável pelo BitKeeper entraram em conflito quando a ferramenta passou a ser paga, dessa forma, Linus Torvalds decidiu desenvolver sua própria ferramenta, baseado no que aprendeu utilizando o BitKeeper e sendo uma plataforma open-source. 
+O controle de versão mais utilizado no mundo, o Git, é um sistema de código aberto, distribuído sobre os termos da versão 2 da GNU General Public License (GPL), ou seja, é um sistema gratuito, de código aberto, em que qualquer pessoa pode modificar, alterar e distribuir sobre a mesma licença. No site do Git (https://git-scm.com/community) no item ‘Contributing to Git’ ou ‘Contribuindo para o Git’ é possível encontrar informações detalhadas dos passos para realizar contribuições no projeto.  
 
-Linus Torvalds continua a desenvolver e manter o Git, e é frequentemente visto contribuindo para o código-fonte do projeto e respondendo perguntas na comunidade de usuários do Git. Ele também é creditado com a introdução de algumas das principais características do Git, como o uso de hashs SHA-1 para identificar versões do código e o uso de ramos e tags para organizar o código.
-
-Em resumo, Linus Torvalds é o criador e principal desenvolvedor do Git, uma ferramenta de controle de versão amplamente utilizada na comunidade de desenvolvimento de software e usada para gerenciar o código-fonte do próprio Linux.
+Pelo grande número de contribuições o projeto continua cada vez mais eficiente, extremamente rápido e reconhecido pela comunidade. Atualmente, o projeto conta como seu principal mantenedor o Engenheiro de Software Junio C Hamano, desde julho de 2005. 
 
 ## Qual o status do projeto atualmente [^4]?
 
@@ -63,4 +60,6 @@ São lançadas novas versões e atualizações constantemente com finalidade de 
 [^3]: https://www.ictea.com/cs/index.php?rp=%2Fknowledgebase%2F3484%2FiQue-es-el-software-de-control-de-versiones-GIT.html&language=portuguese-pt
   https://git-scm.com/community
   https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Uma-Breve-Hist%C3%B3ria-do-Git
+  https://medium.com/@dyhalmeida/breve-hist%C3%B3ria-do-git-o-controle-de-vers%C3%A3o-mais-adotado-pelos-desenvolvedores-do-mundo-inteiro-c82466b50c02
+  https://pt.wikipedia.org/wiki/Junio_Hamano
 [^4]: https://git-scm.com/downloads

@@ -25,4 +25,4 @@ Referências gerais: [^note]   [^note2]
 [^1]: https://www.internethalloffame.org/
 [^2]: https://tech.slashdot.org/story/19/04/03/1829244/linus-torvalds-on-social-media-its-a-disease-it-seems-to-encourage-bad-behavior
 [^note]: https://fossbytes.com/10-facts-about-linus-torvalds/ 
-[^note2]https://itsfoss.com/linus-torvalds-facts/#:~:text=Linus%20Benedict%20Torvalds%20was%20born,winner%20in%20Chemistry%20and%20Peace.
+[^note2]:https://itsfoss.com/linus-torvalds-facts/#:~:text=Linus%20Benedict%20Torvalds%20was%20born,winner%20in%20Chemistry%20and%20Peace.

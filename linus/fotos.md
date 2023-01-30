@@ -50,7 +50,7 @@
 
 | <img alt="Linus em uma conferência TED nos dias atuais" src="assets/linus-conference.jpg" width="600"/> |
 |:--:|
-| <b>Linus em uma conferência TED em 2016. Foto disponível em [Gizmodo](https://gizmodo.uol.com.br/linus-torvalds-amd/).</b>|
+| <b>Linus em uma conferência TED em 2016. Foto disponível em [Gizmodo](https://gizmodo.uol.com.br/linus-torvalds-amd/). Vídeo disponível em [TED](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux).</b>|
 
 | <img alt="Linus em debate sobre a superioridade da AMD sobre a Intel" src="assets/linus-amd.jpg" width="600"/> |
 |:--:|

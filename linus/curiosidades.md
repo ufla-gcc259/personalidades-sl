@@ -21,8 +21,9 @@ Linus Torvalds recusou a oferta de emprego do Steve Jobs. Em 2000, Steve Jobs of
 # O começo de sua carreira
 Linus começou a escrever programas em BASIC com 10 anos de idade, usando o Commodore Vic 20 de seu avô materno. Foi nesse momento que ele descobriu o seu amor por computadores e programação. Isso foi um marco importante na sua vida, pois foi quando ele começou a se interessar por tecnologia e iniciou seu desenvolvimento de habilidades e conhecimentos relacionados a computadores. A partir desse momento, ele passou a dedicar mais tempo para aprender sobre computadores e programação. Ele também começou a desenvolver seus próprios programas, o que o ajudou a aperfeiçoar suas habilidades e a desenvolver seu interesse pela tecnologia. Isso provou ser um passo importante em sua carreira, já que ele acabaria criando o sistema operacional Linux, que se tornaria um dos sistemas operacionais de código aberto mais populares e amplamente utilizados no mundo.
 
-Referências gerais:
+Referências gerais: [^note]
 [^1]: https://www.internethalloffame.org/
 [^2]: https://tech.slashdot.org/story/19/04/03/1829244/linus-torvalds-on-social-media-its-a-disease-it-seems-to-encourage-bad-behavior
-[^note]: https://fossbytes.com/10-facts-about-linus-torvalds/
-         https://itsfoss.com/linus-torvalds-facts/#:~:text=Linus%20Benedict%20Torvalds%20was%20born,winner%20in%20Chemistry%20and%20Peace.
+[^note]: 
+  https://fossbytes.com/10-facts-about-linus-torvalds/
+  https://itsfoss.com/linus-torvalds-facts/#:~:text=Linus%20Benedict%20Torvalds%20was%20born,winner%20in%20Chemistry%20and%20Peace.

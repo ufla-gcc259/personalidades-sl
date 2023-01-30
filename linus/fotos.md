@@ -54,4 +54,4 @@
 
 | <img alt="Linus em debate sobre a superioridade da AMD sobre a Intel" src="assets/linus-amd.jpg" width="600"/> |
 |:--:|
-| <b>Linus em debate sobre a superioridade da AMD sobre a Intel. Foto disponível em [Hardware](https://www.hardware.com.br/noticias/2021-01/linus-torvalds-criador-do-linux-critica-intel-e-elogia-amd.html). Entrevista disponível em [TFiR](https://www.youtube.com/watch?v=P1wzIqgT6uY).</b>|
+| <b>Linus em debate sobre a superioridade da AMD sobre a Intel. Foto disponível em [Hardware](https://www.hardware.com.br/noticias/2021-01/linus-torvalds-criador-do-linux-critica-intel-e-elogia-amd.html). Entrevista disponível em [YouTube](https://www.youtube.com/watch?v=P1wzIqgT6uY).</b>|

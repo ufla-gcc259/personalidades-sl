@@ -36,7 +36,7 @@
 
 | <img alt="Linus Torvalds em 2012, mostrando o dedo do meio para a Nvidia" src="assets/linus-fuck.webp" width="600"/> |
 |:--:|
-| <b>Linus Torvalds em 2012, mostrando o dedo do meio para a Nvidia. Fotos disponível em [Tecnoblog](https://tecnoblog.net/noticias/2018/09/17/linus-torvalds-folga-pede-desculpas/).</b>|
+| <b>Linus Torvalds em 2012, mostrando o dedo do meio para a Nvidia, após alegar que a empresa não se certifica de que seu hardware funcione corretamente em ambientes Linux. Fotos disponível em [Tecnoblog](https://tecnoblog.net/noticias/2018/09/17/linus-torvalds-folga-pede-desculpas/).</b>|
 
 | <img alt="Linus com a mascara do mascote do Linux" src="assets/linus-arte.png" width="600"/> |
 |:--:|

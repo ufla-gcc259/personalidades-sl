@@ -4,7 +4,7 @@
 
 | <img alt="Linus aos 50 anos" src="assets/linus-50.png" width="600"/> |
 |:--:|
-| <b>Linus recentemente após completar 50 anos.</b>|
+| <b>Linus, em 2019, após completar 50 anos [Reddit](https://www.reddit.com/r/linux/comments/egkvpc/linus_torvalds_turns_50_today_wish_him_best_for/).</b>|
 
 | <img alt="Linus Torvalds com a esposa Tove Torvalds" src="assets/Linus_torvalds-wife.png" width="600"/> |
 |:--:|

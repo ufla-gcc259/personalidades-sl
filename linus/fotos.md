@@ -40,7 +40,7 @@
 
 | <img alt="Linus com a mascara do mascote do Linux" src="assets/linus-arte.png" width="600"/> |
 |:--:|
-| <b>Linus com a mascara do mascote do Linux. Foto disponível em [Adrenaline](https://adrenaline.com.br/noticias/v/64216/linus-torvalds-troca-para-amd-apos-15-anos-usando-sistemas-intel).</b>|
+| <b>Linus com a mascara do mascote do Linux. Foto disponível em [LFNews](https://lfnews.com.br/como-o-linux-dominou-o-mundo-e-ninguem-percebeu/).</b>|
 
 ## Hoje em dia
 
@@ -50,7 +50,7 @@
 
 | <img alt="Linus em uma conferência TED nos dias atuais" src="assets/linus-conference.jpg" width="600"/> |
 |:--:|
-| <b>Linus em uma conferência TED em 2016. Foto disponível em [Linux Descomplicado](https://www.linuxdescomplicado.com.br/2016/04/linus-torvalds-a-mente-por-tras-do-linux-ted2016.html).</b>|
+| <b>Linus em uma conferência TED em 2016. Foto disponível em [Gizmodo](https://gizmodo.uol.com.br/linus-torvalds-amd/).</b>|
 
 | <img alt="Linus em debate sobre a superioridade da AMD sobre a Intel" src="assets/linus-amd.jpg" width="600"/> |
 |:--:|

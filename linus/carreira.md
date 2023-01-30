@@ -33,7 +33,7 @@ O Subsurface pode planejar e rastrear mergulhos com dados que incluem coordenada
 
 ## Informações relevantes sobre sua vida profissional
 
-Em entrevista à Embedded Linux Conference, Torvalds afirmou: "O Desktop realmente não abraçou completamente o mundo Linux ainda para usuários finais, mas hoje vemos muito mais empresas aderindo ao Linux para esta finalidade. Hoje vejo o desktop Linux tão desenvolvido quanto nunca. Em 25 anos, eu e meus colegas e todos os colaboradores conseguimos colocar o Linux em quase que literalmente todos os lugares, tenho pelo menos mais 25 anos para conquistar o Desktop e eu vou fazê-lo!". [^8]
+Em entrevista à Embedded Linux Conference, Torvalds afirmou: "O Desktop realmente não abraçou completamente o mundo Linux ainda para usuários finais, mas hoje vemos muito mais empresas aderindo ao Linux para esta finalidade. Hoje vejo o desktop Linux tão desenvolvido quanto nunca. Em 25 anos, eu e meus colegas e todos os colaboradores conseguimos colocar o Linux em quase que literalmente todos os lugares, tenho pelo menos mais 25 anos para conquistar o Desktop e eu vou fazê-lo!" [^8].
 
 Vale destacar que Linus desenvolveu o projeto inicial do Linux com apenas 21 anos de idade, enquanto discente da Universidade de Helsinque na Finlândia. Além disso, ele ganhou diversos prêmios por sua criação, entre eles o prêmio Millennium Technology Prize.
 

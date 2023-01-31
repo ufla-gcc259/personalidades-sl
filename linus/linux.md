@@ -32,7 +32,7 @@ O Linux é um dos sistemas operacionais mais utilizados em todo o mundo, especia
 ## Distribuições Linux
 
 Sendo o linux um kernel disponível de maneira gratuita e com código-fonte aberto, qualquer pessoa ou organização pode juntá-lo a um conjunto de softwares para criar um sistema operacional customizado.
-Logo existem diversas distribuições linux uitas inclusive fazem parte de negócios rentáveis em que a empresa fornece, por exemplo, o sistema operacional de graça, mas obtém receita a partir de serviços de suporte. A mais famosa dentre elas sendo o Ubuntu da empresa Canonical [^6].
+Logo existem diversas distribuições linux, muitas inclusive fazem parte de negócios rentáveis em que a empresa fornece, por exemplo, o sistema operacional de graça, mas obtém receita a partir de serviços de suporte. A mais famosa dentre elas sendo o Ubuntu da empresa Canonical [^6].
 
 Outros exemplos de distibuições populares são:
 

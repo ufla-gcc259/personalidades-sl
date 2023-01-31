@@ -32,7 +32,7 @@
 
 | <img alt="Linus com o Linux" src="assets/linus-linux.png" width="600"/> |
 |:--:|
-| <b>Linus com o Linux. Foto disponível em [TechTudo](https://www.techtudo.com.br/noticias/2011/11/conheca-linus-torvalds-o-criador-do-linux.ghtml).</b>|
+| <b>Linus segurando um laptop com a primeira Linux a 32 anos atrás. Foto disponível em [TechTudo](https://www.techtudo.com.br/noticias/2011/11/conheca-linus-torvalds-o-criador-do-linux.ghtml).</b>|
 
 | <img alt="Linus Torvalds em 2012, mostrando o dedo do meio para a Nvidia" src="assets/linus-fuck.webp" width="600"/> |
 |:--:|

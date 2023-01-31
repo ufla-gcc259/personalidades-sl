@@ -6,7 +6,7 @@
 
 O projeto se iniciou quando o Finlândes Linus Torvalds,um estudante com 21 anos de idade na Universidade de Helsinki, estava trabalhando em sua ideia de desenvolver um sistema operacional como projeto pessoal, baseado no sistema operacional Minix.
 
-Ele mandou uma mensagem em um grupo de discussão do MINIX e a partir dai foram várias as contribuições para o desenvolvimento do Kernel Linux feitas por parte da comunidade.
+Ele mandou uma mensagem em um grupo de discussão do MINIX e a partir dai foram várias as contribuições para o desenvolvimento do Kernel Linux feitas por parte da comunidade[^1].
 
 Hoje em dia, O kernel Linux é o principal componente de um sistema operacional Linux e é a interface central, ou núcleo, entre o hardware de um computador e seus processos. Ele estabelece a comunicação entre ambos, gerenciando recursos com a maior eficiência possível.
 
@@ -44,7 +44,7 @@ Outros exemplos de distibuições populares são:
 
 ## Referências
 
-[Desenvolvimento Kernel linux](https://embarcados.com.br/desenvolvimento-kernel-linux/)
+[^1] [Desenvolvimento Kernel linux](https://embarcados.com.br/desenvolvimento-kernel-linux/)
 
 [Linux](https://www.redhat.com/pt-br/topics/linux/what-is-the-linux-kernel)
 

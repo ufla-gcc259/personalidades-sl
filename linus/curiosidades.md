@@ -11,6 +11,9 @@ Linus Torvalds foi incluído na Internet Hall of Fame em 2012, em reconhecimento
 
 Outros indivíduos que foram incluídos na Internet Hall of Fame incluem Vint Cerf, Bob Kahn, Tim Berners-Lee e Marc Andreessen.
 
+# Outros reconhecimentos:
+A revista Time o reconheceu diversas vezes: Em 2000, ele foi ranqueado como 17.º na Time 100: The Most Important People of the Century. Em 2004, nomeado como uma das mais influentes pessoas do mundo. Em 2006, a versão europeia o nomeou como um dos heróis revolucionários dos últimos sessenta anos.
+
 # Opiniões sobre redes sociais
 Linus Torvalds, criador do sistema operacional Linux, expressou sua desaprovação com as redes sociais modernas, como Twitter, Facebook e Instagram. Ele afirma que elas incentivam o mau comportamento e que o modelo de "curtir" e "compartilhar" é ruim, pois não há esforço ou controle de qualidade. Ele também menciona que a anonimidade é prejudicial e que as pessoas devem se identificar. Ele não tem conselhos para jovens programadores, pois ele foi auto-ensinado e seguiu seus próprios interesses[^2].
 

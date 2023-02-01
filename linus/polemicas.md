@@ -27,7 +27,7 @@ Em inglês:
 
 Em português:
 
-> NVIDIA tem sido a pior empresa na qual nós já lidamos. Então, NVIDIA, vá se fuder. [^4] [^5]
+> NVIDIA tem sido a pior empresa na qual nós já lidamos. Então, NVIDIA, vá se ***. [^4] [^5]
 
 Então mostrou o dedo do meio para a câmera.
 
@@ -45,7 +45,7 @@ Em português:
 
 > Por favor, se mate agora. O mundo vai ser um lugar melhor.
 
-> Gente, essa não é uma competição de chupar rola.
+> Gente, essa não é uma competição de ***.
 
 Linus disse que esse não era um adeus e que procuraria ajuda para entender melhor as pessoas. [^6] Ele voltaria ao projeto no mês seguinte e traria consigo um código de conduta revisado.
 

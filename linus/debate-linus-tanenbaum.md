@@ -1,0 +1,57 @@
+[Voltar](intro.md)
+
+# Debate Linus vs. Tanenbaum [^1]
+
+## Introdução
+
+  O Debate entre Tanenbaum e Torvalds foi uma discussão entre Andrew S. Tanenbaum e Linus Torvalds, em relação à arquitetura do núcleo Linux e dos núcleos dos sistemas operacionais em geral. Tanenbaum começou o debate em 1992 no grupo de discussão da Usenet, argumentando que os micronúcleos são superiores aos núcleos monolíticos e que, portanto, o Linux era, já em 1992, obsoleto. Outros hackers notáveis como David S. Miller e Theodore Ts'o somaram-se ao debate.
+
+## Início
+  
+  A primeira ocorrência deste debate remete ao dia 29 de janeiro de 1992, quando Tanenbaum primeiramente postou suas críticas ao núcleo Linux no comp.os.minix, notando como o desenho do núcleo monolítico agia em detrimento de suas habilidades, em um post intitulado **"LINUX is obsolete"**.
+  
+## O debate
+  
+  Embora ele não tenha inicialmente entrado em grandes detalhes técnicos para explicar o motivo pelo qual ele pensava que o micronúcleo era melhor, ele sugeriu que isso estivesse relacionado principalmente à portabilidade, argumentando que o núcleo Linux estava tão intimamente atado à linha de processadores x86 que não poderia ter qualquer uso no futuro, uma vez que essa arquitetura seria, então, suplantada. Para colocar as coisas em perspectiva, ele mencionou como escrever um núcleo monolítico em 1991 era "um gigantesco passo atrás em direção aos anos 1970".
+  
+  Uma vez que as críticas foram publicadas em um [grupo de notícias público](https://groups.google.com/g/comp.os.minix/c/wlhw16QWltI?pli=1), Torvalds pôde respondê-las de maneira direta no dia seguinte, argumentando que o MINIX possuía algumas falhas inerentes de desenho (indicando a incapacidade da realização de multitarefa como exemplo específico), ao passo que reconhecia que acreditava que o desenho de um micronúcleo era superior de um ponto de vista "teórico e estético". Ele também declarou que uma vez que ele estava desenvolvendo o núcleo Linux em seu tempo livre e distribuindo-o gratuitamente (o MINIX de Tanenbaum não era gratuito naquela época), Tanenbaum não deveria se opor a seus esforços. Além disso, ele mencionou como havia desenvolvido o Linux especificamente para os computadores Intel 80386 porque era em parte um exercício de aprendizagem para ele próprio; ao passo que reconheceu que isso fazia com que o núcleo em si tivesse menos portabilidade que o MINIX, ele sustentou que isso era um princípio de desenho aceitável, já que fez com que a interface de programação de aplicativos fosse mais simples e tivesse mais portabilidade. Por essa razão, ele declarou, 
+  
+  > Linux é mais portátil que o minix.
+  
+  Após a resposta de Linus, Tanenbaum argumentou que as limitações do MINIX estavam relacionadas ao fato de ele ser um professor universitário, declarando que os requisitos para que o sistema funcionassem não deveriam ser superiores aos limitados hardwares do estudante comum, que ele notou que eram computadores do tipo Intel 8088, às vezes sem nem mesmo um disco rígido. Naqueles anos, o Linux havia sido elaborado especificamente para os computadores Intel 80386, que possuíam um processador significativamente mais poderoso (e mais caro). Tanenbaum também disse especificamente que 
+  
+  > [...] cerca de um ano atrás, havia duas versões [of MINIX], uma para os PCs (disquetes de 360K) e uma para os 286/386 (1.2M). A versão para PC vendia mais que a versão para 286/386 à razão de 2 por 1. 
+  
+  Ele notou que ainda que o Linux fosse grátis, não seria uma escolha viável para seus estudantes, uma vez que eles não seriam capazes de adquirir o hardware exigido para seu funcionamento, e que o MINIX poderia ser usada em “um PC comum de 4.77 MHz PC sem disco rígido.” A isso, Kevin Brown, outro usuário do grupo Usenet, replicou que Tanenbaum não deveria queixar-se sobre o Linux estar preso à arquitetura dos computadores 386, já que isso era o resultado de uma escolha consciente e não a falta de conhecimento sobre o desenho dos sistemas operativos, apontando que 
+  
+  > [...] um objetivo explícito de desenho do Linux foi para tirar vantagem dos atributos especiais da arquitetura dos computadores 386. Assim, qual é exatamente o seu ponto? Objetivos de desenho diferentes levam à desenhos diferentes.
+  
+  Ele também destacou que conceber um sistema especificamente para hardwares baratos poderia acarretar problemas de portabilidade no futuro. Apesar do fato de que o MINIX não era inteiramente suportada por hardware mais novo, Tanenbaum argumentou que uma vez que a arquitetura x86 seria superada por outras concepções de arquitetura no futuro, ele não precisava tratar dessa questão, notando que 
+  
+  > É claro que daqui a cinco anos será diferente, mas daqui a cinco anos todo mundo estará usando o GNU grátis em seus MIPS 200, 64M SPARCstation-5.
+  
+  Ele assinalou que o núcleo Linux eventualmente seria deixado de lado com o avanço no desenvolvimento de hardware, devido ao fato de estar tão intimamente relacionado à arquitetura 386.
+
+  Torvalds tentou encerrar a discussão nesse ponto, declarando que ele sentia que não deveria ter exagerado em sua reação às considerações iniciais de Tanenbaum, e que estava escrevendo um e-mail pessoal para desculpar-se com ele. Contudo, ele continuaria o debate posteriormente.
+  
+## Previsões equivocadas
+ 
+  Quando a questão e o debate inicial completo foram publicados no livro *Open Sources: Voices from the Open Source Revolution* da O'Reilly Media em 1999, foi dito que o debate exemplificava “a maneira que o mundo estava pensando a concepção dos sistemas operacionais naquela época”.
+  
+  O processador 386 era então, de longe, o chip mais difundido, de acordo com Kevin Brown, com o 486 usado em computadores de alta performance, e o 286 quase obsoleto, e a World Wide Web não era amplamente usada. Um dos argumentos de Tanenbaum contra o Linux era que era demasiadamente vinculado à linha de processadores x86, o qual ele havia declarado não ser “o caminho a se seguir”. Contudo, até 2011, o x86 e suas extensões retroativas compatíveis x86-64 continuam a dominar totalmente a arquitetura dos computadores pessoais. O Linux foi "portado" para muitas outras arquiteturas de processador, includindo x86-64, ARM, AVR32, Alpha, IA-64, 680x0, MIPS, POWER/PowerPC, e SPARC.
+
+  Outro tópico recorrente no debate versa sobre as alternativas ao Linux e ao MINIX, como o GNU e o 4.4BSD. Tanenbaum sugeriu o GNU em seu primeiro post, assinalando que ao contrário do Linux, era um sistema "moderno”. Em seu segundo post, ele mencionou que 
+  
+  > [...] daqui a 5 anos, todo mundo estará usando o GNU grátis em seus 200 MIPS, 64M SPARCstation-5.
+  
+  Vários debatedores discordaram que o GNU fosse uma alternativa adequada. Kevin Brown o chamou de vaporware, e destacou que o Linux provavelmente se beneficiaria da arquitetura x86 que continuaria a ser comum e se tornaria mais acessível ao público em geral. Theodore Ts'o, um pioneiro contribuidor do Linux, disse que ainda que o micronúcleo tivesse vantagens, 
+  
+  > [...] o Linux está aqui, e o GNU não — e as pessoas trabalharam no Hurd muito mais tempo que o Linus no Linux. 
+  
+  Torvalds, sabendo dos esforços do GNU para criar um núcleo, apontou que 
+  
+  > Se o núcleo GNU estivesse pronto na primavera passada, eu não teria me incomodado nem mesmo em começar meu projeto: o fato é que não estava e que ainda não está.
+
+  4.4BSD-Lite não estaria disponível até dois anos mais tarde devido à demanda judicial conhecida como USL v. BSDi, apresentada pela subsidiária da AT&T, Unix System Laboratories, contra a Berkeley Software Design, a qual pertencia a propriedade intelectual relativa ao UNIX. A demanda atrasou o desenvolvimento de descendentes free software do BSD por quase dois anos já que seu status legal estava em questão. Como o Linux não tinha essa ambiguidade legal, os sistemas baseados nele ganharam um apoio maior. Um acordo foi alcançado em janeiro de 1994, e o 4.4BSD foi lançado em junho. (Embora o lançamento final tenha sido em 1995, muitas versões gratuitas baseadas nessa versão foram mantidas desde então, includindo o FreeBSD, o OpenBSD e o NetBSD.)
+
+[^1] https://pt.wikipedia.org/wiki/Debate_entre_Tanenbaum_e_Torvalds

@@ -14,6 +14,7 @@ Abaixo, estão os principais assuntos sobre a vida e as contribuições desta im
     - [O Linux](linux.md)
     - [O Git](git.md)      
 - [Polêmicas](polemicas.md)
+- [Debate Linus vs. Tanenbaum](debate-linus-tanenbaum.md)
 - [Curiosidades](curiosidades.md)
 - [Prêmios e reconhecimentos](premios-e-reconhecimentos.md)
 - [Álbum de fotos](fotos.md)

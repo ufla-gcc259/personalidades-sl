@@ -36,11 +36,11 @@ Logo existem diversas distribuições linux, muitas inclusive fazem parte de neg
 
 Outros exemplos de distibuições populares são:
 
-* Fedora (ligada à Red Hat);
-* Debian;
-* Arch Linux;
-* Linux Mint;
-* CentOS (com foco em servidores);
+* Fedora (ligada à Red Hat) https://getfedora.org/pt_BR/; 
+* Debian https://www.debian.org/download;
+* Arch Linux https://archlinux.org/download/;
+* Linux Mint https://linuxmint.com/download.php;
+* CentOS (com foco em servidores) https://www.centos.org/download/;
 
 [^1]: https://embarcados.com.br/desenvolvimento-kernel-linux/
 

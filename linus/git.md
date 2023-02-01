@@ -4,7 +4,7 @@
 
 ## O que é o projeto [^1]? 
 
-O Git é um Sistema de Controle de Versões Distribuído (DVCS - Distributed Version Control System), esse sistema registra todas as alterações realizadas em um determinado código, dessa forma é possível visualizar todo o histórico detalhado de alterações de um projeto e, caso seja necessário, regredir a versões anteriores de forma simplificada e rápida. Foi criado por Linus Torvalds em 2005 é um sistema usado por muitos projetos de software atuais, tanto comerciais quanto Open-sources. 
+O Git é um Sistema de Controle de Versões Distribuído (DVCS - *Distributed Version Control System*), esse sistema registra todas as alterações realizadas em um determinado código, dessa forma é possível visualizar todo o histórico detalhado de alterações de um projeto e, caso seja necessário, regredir a versões anteriores de forma simplificada e rápida. Foi criado por Linus Torvalds em 2005 é um sistema usado por muitos projetos de software atuais, tanto comerciais quanto Open-sources. 
 
 O Git possui uma arquitetura distribuído, dessa froma, a cópia de trabalho de todo desenvolvedor do código é também um repositório que pode conter o histórico de todas as alterações. 
 
@@ -40,13 +40,13 @@ Para adentrar um pouco sobre seus objetivos é importante entender um pouco a ra
 
 O projeto Git surgiu em 2005 durante o desenvolvimento do kernel do Linux, visto que a equipe que o desenvolvia e a empresa responsável pelo BitKeeper entraram em conflito quando a ferramenta passou a ser paga, dessa forma, Linus Torvalds decidiu desenvolver sua própria ferramenta, baseado no que aprendeu utilizando o BitKeeper e sendo uma plataforma open-source. 
 
-O controle de versão mais utilizado no mundo, o Git, é um sistema de código aberto, distribuído sobre os termos da versão 2 da GNU General Public License (GPL), ou seja, é um sistema gratuito, de código aberto, em que qualquer pessoa pode modificar, alterar e distribuir sobre a mesma licença. No site do Git (https://git-scm.com/community) no item ‘Contributing to Git’ ou ‘Contribuindo para o Git’ é possível encontrar informações detalhadas dos passos para realizar contribuições no projeto.  
+O controle de versão mais utilizado no mundo, o Git, é um sistema de código aberto, distribuído sobre os termos da versão 2 da GNU General Public License (GPL), ou seja, é um sistema gratuito, de código aberto, em que qualquer pessoa pode modificar, alterar e distribuir sobre a mesma licença. No site do [Git](https://git-scm.com/community) no item ‘Contributing to Git’ ou ‘Contribuindo para o Git’ é possível encontrar informações detalhadas dos passos para realizar contribuições no projeto.  
 
 Pelo grande número de contribuições o projeto continua cada vez mais eficiente, extremamente rápido e reconhecido pela comunidade. Atualmente, o projeto conta como seu principal mantenedor o Engenheiro de Software Junio C Hamano, desde julho de 2005. 
 
 ## Qual o status do projeto atualmente [^4]?
 
-O projeto atualmente é uma ferramenta de código aberto amplamente utilizada e em constante desenvolvimento pela comunidade de desenvolvedores por todo o mundo, contando com 1.586 colaboradores, em sua própria página (https://git-scm.com/community) possui uma sessão destinada explicar como fazer parte da comunidade, seja enviando perguntas ou comentários, relatando algum bug, erro, problema de segurança ou até mesmo enviando uma contribuição e se tornando um colaborador do projeto. Há também uma sessão destinada a um guia sobre documentação do projeto contando com referências, livro, vídeos e links externos para auxiliar na aprendizagem da ferramenta
+O projeto atualmente é uma ferramenta de código aberto amplamente utilizada e em constante desenvolvimento pela comunidade de desenvolvedores por todo o mundo, contando com 1.586 colaboradores, em sua própria [página](https://git-scm.com/community) possui uma sessão destinada explicar como fazer parte da comunidade, seja enviando perguntas ou comentários, relatando algum bug, erro, problema de segurança ou até mesmo enviando uma contribuição e se tornando um colaborador do projeto. Há também uma sessão destinada a um guia sobre documentação do projeto contando com referências, livro, vídeos e links externos para auxiliar na aprendizagem da ferramenta
 
 São lançadas novas versões e atualizações constantemente com finalidade de corrigir bugs ou atribuir novas funcionalidades ao projeto. Sua última versão oficial é Git 2.39.1, arquitetura 64 bits para Windows, lançado no dia 17/01/2023. Atualmente, o projeto também conta com ferramentas gráficas integradas, mas também pode ser obter várias ferramentas por terceiros que auxiliam na visualização do desenvolvimento de seus projetos, podendo visualizar as ramificações existentes, bem como também conteúdos como patches, árvores de arquivos, históricos de registros e revisões. Essas ferramentas gráficas podem ser instaladas tanto em computadores como também em smartphones.
 

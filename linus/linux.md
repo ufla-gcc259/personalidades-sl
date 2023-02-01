@@ -22,17 +22,17 @@ Com o objetivo de ser livre e gratuito, o código-fonte do Linux é aberto, perm
 
 O desenvolvimento do Linux é um dos mais proeminentes exemplos de software livre (open source), desenvolvido a partir do conceito de colaboração que pode ser utilizado por qualquer pessoa sob licenças como a GNU General Public License [^4].
 
-Além do próprio Linux, muitos de seus aplicativos também são de código aberto, como o LibreOffice, Firefox, GIMP, entre outros. O Linux é uma plataforma popular para esses softwares, pois muitas distribuições incluem-os como aplicativos padrão, o que os torna facilmente acessíveis e disponíveis para os usuários. Isso também dá visibilidade a esses aplicativos.
+Além do próprio Linux, muitos de seus aplicativos também são de código aberto, como o LibreOffice, Firefox, GIMP, entre outros [^5]. O Linux é uma plataforma popular para esses softwares, pois muitas distribuições incluem-os como aplicativos padrão, o que os torna facilmente acessíveis e disponíveis para os usuários. Isso também dá visibilidade a esses aplicativos.
 
 ## Qual o status do projeto atualmente?
 
-Hoje existem mais de 300 distribuições Linux ativas. A maioria delas é originada do Debian. Mais de 13500 desenvolvedores contribuem para o Linux atualmente. O kernel Linux, atualmente conta com 22 milhões de linhas de código [^5].
+Hoje existem mais de 300 distribuições Linux ativas. A maioria delas é originada do Debian. Mais de 13500 desenvolvedores contribuem para o Linux atualmente. O kernel Linux, atualmente conta com 22 milhões de linhas de código [^6].
 O Linux é um dos sistemas operacionais mais utilizados em todo o mundo, especialmente em ambientes empresariais e de servidor. Ele é amplamente utilizado em sistemas embarcados, dispositivos móveis, estações de trabalho e servidores, e é a base para muitos sistemas operacionais de nuvem e dispositivos IoT.
 
 ## Distribuições Linux
 
 Sendo o linux um kernel disponível de maneira gratuita e com código-fonte aberto, qualquer pessoa ou organização pode juntá-lo a um conjunto de softwares para criar um sistema operacional customizado.
-Logo existem diversas distribuições linux, muitas inclusive fazem parte de negócios rentáveis em que a empresa fornece, por exemplo, o sistema operacional de graça, mas obtém receita a partir de serviços de suporte. A mais famosa dentre elas sendo o Ubuntu da empresa Canonical [^6].
+Logo existem diversas distribuições linux, muitas inclusive fazem parte de negócios rentáveis em que a empresa fornece, por exemplo, o sistema operacional de graça, mas obtém receita a partir de serviços de suporte. A mais famosa dentre elas sendo o Ubuntu da empresa Canonical [^7].
 
 Outros exemplos de distibuições populares são:
 
@@ -50,6 +50,8 @@ Outros exemplos de distibuições populares são:
 
 [^4]: https://efagundes.com/artigos/linux-e-software-livre/#:~:text=O%20desenvolvimento%20do%20Linux%20%C3%A9,a%20GNU%20General%20Public%20License.
 
-[^5]: http://ninjadolinux.com.br/linux/#:~:text=Hoje%20existem%20mais%20de%20300,milh%C3%B5es%20de%20linhas%20de%20c%C3%B3digo.
+[^5]: https://e-tinet.com/linux/41-softwares-linux-alternativa/
 
-[^6]: https://www.infowester.com/historia_linux.php
+[^6]: http://ninjadolinux.com.br/linux/#:~:text=Hoje%20existem%20mais%20de%20300,milh%C3%B5es%20de%20linhas%20de%20c%C3%B3digo.
+
+[^7]: https://www.infowester.com/historia_linux.php

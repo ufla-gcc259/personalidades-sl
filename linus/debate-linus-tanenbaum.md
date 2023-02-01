@@ -54,4 +54,4 @@
 
   4.4BSD-Lite não estaria disponível até dois anos mais tarde devido à demanda judicial conhecida como USL v. BSDi, apresentada pela subsidiária da AT&T, Unix System Laboratories, contra a Berkeley Software Design, a qual pertencia a propriedade intelectual relativa ao UNIX. A demanda atrasou o desenvolvimento de descendentes free software do BSD por quase dois anos já que seu status legal estava em questão. Como o Linux não tinha essa ambiguidade legal, os sistemas baseados nele ganharam um apoio maior. Um acordo foi alcançado em janeiro de 1994, e o 4.4BSD foi lançado em junho. (Embora o lançamento final tenha sido em 1995, muitas versões gratuitas baseadas nessa versão foram mantidas desde então, includindo o FreeBSD, o OpenBSD e o NetBSD.)
 
-[^1] https://pt.wikipedia.org/wiki/Debate_entre_Tanenbaum_e_Torvalds
+ [^1]: https://pt.wikipedia.org/wiki/Debate_entre_Tanenbaum_e_Torvalds

@@ -1,7 +1,7 @@
 Personalidades do Software Livre
 ====
 
-Este repositório tem como intuito apresentar detalhes sobre a vida e as contribuições de algumas personalidades do mundo do Software Livre.
+Este repositório tem como intuito apresentar detalhes sobre a história de algumas personalidades (pessoas físicas ou jurídicas) do mundo do Software Livre.
 
 Ele é desenvolvido e mantido pelas turmas da disciplina *Desenvolvimento de Software Livre*, do Departamento de Ciência da Computação da Universidade Federal de Lavras ([DCC/UFLA](http://www.dcc.ufla.br)). Cada turma é responsável pela pesquisa, redação e manutenção da história sobre uma personalidade. 
 
@@ -9,6 +9,7 @@ Abaixo, encontra-se a lista de personalidades já tratadas, juntamente os _links
 
 * [Richard Matthew Stallman](stallman/intro.md) (Turma 2022/1)
 * [Linus Benedict Torvalds](linus/intro.md) (Turma 2022/2)
+* [Apache Software Foundation](apache/intro.md) (Turma 2023/2)
 
 ---
 
@@ -36,11 +37,7 @@ Descrição: apresente uma descrição sucinta (aprox. 2 ou 3 linhas) do trabalh
 
 <LINHA EM BRANCO>
 
-Fluxo de trabalho e equipe: descreva como foi conduzido o trabalho em equipe. Quem fez o que? Quem centralizou tudo e abriu o PR? Quem checou se o texto estava adequado? Etc.
-
-<LINHA EM BRANCO>
-
-Principais dificuldades: descreva as principais dificuldades encontradas durante a realização do trabalho.
+Equipe: apresente o nome dos(as) integrantes da equipe.
 
 <LINHA EM BRANCO>
 

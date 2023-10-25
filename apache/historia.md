@@ -8,6 +8,11 @@ A ASF é uma comunidade descentralizada de desenvolvedores de software. Os softw
 Um dos objetivos da ASF é proteger legalmente os participantes dos seus projetos, e prevenir que o nome Apache seja utilizado por outras organizações sem a devida permissão.[¹]
 
 ## Como e quando surgiu?
+O surgimento da Apache Software Foundation (ASF) está fortemente relacionado ao servidor Apache, cujo projeto foi criado em 1995 com base no daemon NCSA HTTPd.
+
+Inicialmente, onze desenvolvedores contribuiram no projeto:  Brian Behlendorf , Roy Fielding , Rob Hartill , David Robinson, Cliff Skolnick , Randy Terbush , Robert S. Thau, Andrew Wilson, Eric Hagberg , Frank Peters e Nicolas Pioch. 
+
+Sua primeira versão foi liberada em Abril de 1995. E em junho de 1999, a ASF foi fundada com o objetivo de dar suporte ao projeto. [²]
 
 ## Quais as razões (motivações) levaram à sua existência?
 
@@ -24,3 +29,4 @@ Seus fundadores são Brian Behlendorf, Ken Coar, Mark Cox, Lars Eilebrecht, Ralf
 
 
 [^1]: https://pt.wikipedia.org/wiki/Apache_Software_Foundation
+[^2]: https://pt.frwiki.wiki/wiki/Apache_Software_Foundation

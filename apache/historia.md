@@ -26,7 +26,12 @@ Sua primeira versão foi liberada em Abril de 1995. E em junho de 1999, a ASF fo
 Seus fundadores são Brian Behlendorf, Ken Coar, Mark Cox, Lars Eilebrecht, Ralf S. Engelschall, Roy T. Fielding, Dean Gaudet, Ben Hyde, Jim Jagielski, Alexei Kosut, Martin Kraemer, Ben Laurie, Doug MacEachern, Aram Mirzadeh, Sameer Parekh, Cliff Skolnick, Marc Slemko, William (Bill) Stoddard, Paul Sutton, Randy Terbush e Dirk-Willem van Gulik.
 
 ## Por que esse nome Apache?
+O nome atribuído pela Apache Software Foundation tem diversas origens:
 
+1. Uma homenagem à nação Apache, uma tribo de nativos americanos conhecida por sua resistência e estratégias excepcionais em combate. Isso simboliza a determinação da comunidade de software livre em resistir aos ataques de interesses privados.
+2. Também é uma referência à estabilidade do servidor Apache e à sua ampla gama de ferramentas, capazes de lidar com qualquer tipo de solicitação na web.
+3. Uma explicação popular, embora negada pela Fundação, é que o nome deriva da expressão "a patchy server" em inglês, que significa um servidor com remendos ou melhorias no software. Isso se deve à origem do programa, que foi criado com base no código do servidor da NCSA, ao qual foram adicionados diversos patches. [³]
 
 [^1]: https://pt.wikipedia.org/wiki/Apache_Software_Foundation
 [^2]: https://pt.frwiki.wiki/wiki/Apache_Software_Foundation
+[^3]: https://pt.wikipedia.org/wiki/Servidor_Apache#:~:text=7%20Liga%C3%A7%C3%B5es%20externas-,Etimologia,grande%20resist%C3%AAncia%20e%20estrat%C3%A9gias%20superiores.

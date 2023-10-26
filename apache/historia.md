@@ -39,9 +39,14 @@ Excelência Técnica: A ASF busca manter altos padrões de qualidade técnica em
 Licenças Livres: A ASF está comprometida em promover o uso de licenças de software livre que permitam a colaboração global e o compartilhamento de código.
 
 
-## Como a fundação se mantinha financeiramente no início? É assim 
+## Como a fundação se mantinha financeiramente no início? É assim até os dias atuais?
+No início, a Apache Software Foundation (ASF) se mantinha financeiramente com doações de empresas e indivíduos. As doações eram usadas para pagar os custos operacionais da fundação, como hospedagem de sites, servidores e funcionários.
 
-## Até os dias atuais?
+Em 1999, a ASF começou a vender licenças comerciais para alguns de seus projetos, como o Apache Tomcat. As receitas das licenças comerciais foram usadas para aumentar o financiamento da fundação e apoiar o desenvolvimento de novos projetos.
+
+Em 2004, a ASF lançou o Apache Software Foundation Enterprise (ASFE), um programa de patrocínio que permite às empresas apoiar a fundação de forma contínua. As empresas que patrocinam a ASFE recebem benefícios, como acesso a recursos exclusivos e descontos em treinamento e suporte.
+
+Atualmente, a ASF se mantém financeiramente com uma combinação de doações, licenças comerciais e patrocínios.
 
 ## Quais foram os seus fundadores?
 Seus fundadores são Brian Behlendorf, Ken Coar, Mark Cox, Lars Eilebrecht, Ralf S. Engelschall, Roy T. Fielding, Dean Gaudet, Ben Hyde, Jim Jagielski, Alexei Kosut, Martin Kraemer, Ben Laurie, Doug MacEachern, Aram Mirzadeh, Sameer Parekh, Cliff Skolnick, Marc Slemko, William (Bill) Stoddard, Paul Sutton, Randy Terbush e Dirk-Willem van Gulik.

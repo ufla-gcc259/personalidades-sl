@@ -61,3 +61,4 @@ O nome atribuído pela Apache Software Foundation tem diversas origens:
 [^1]: https://pt.wikipedia.org/wiki/Apache_Software_Foundation
 [^2]: https://pt.frwiki.wiki/wiki/Apache_Software_Foundation
 [^3]: https://pt.wikipedia.org/wiki/Servidor_Apache#:~:text=7%20Liga%C3%A7%C3%B5es%20externas-,Etimologia,grande%20resist%C3%AAncia%20e%20estrat%C3%A9gias%20superiores.
+[^4]: https://www.apache.org/history/

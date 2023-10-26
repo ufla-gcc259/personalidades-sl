@@ -18,6 +18,27 @@ Sua primeira versão foi liberada em Abril de 1995. E em junho de 1999, a ASF fo
 
 ## Qual a missão, visão e valores da fundação?
 
+### Missão:
+A missão da Apache Software Foundation é fornecer software de código aberto para a comunidade global, estimular a colaboração e o desenvolvimento de projetos de software, fornecer uma plataforma neutra e independente para projetos de código aberto e promover os princípios de governança aberta. A ASF visa fornecer software de alta qualidade para uso geral e gratuito.
+
+### Visão:
+A visão da ASF é criar um ambiente onde a inovação de código aberto possa prosperar. A ASF busca ser uma organização líder no desenvolvimento de software de código aberto, onde a comunidade global possa colaborar de maneira eficaz para criar e manter projetos de software excepcionais.
+
+### Valores:
+
+Comunidade: A ASF acredita na importância das comunidades de código aberto, onde a colaboração e a diversidade são incentivadas. Ela promove um ambiente inclusivo e acolhedor para todos os participantes.
+
+Meritocracia: A ASF opera com base no mérito, reconhecendo e recompensando os contribuidores com base em suas habilidades e contribuições.
+
+Transparência: A ASF preza pela transparência em todos os seus processos de tomada de decisão e governança, garantindo que todas as partes interessadas tenham acesso às informações necessárias.
+
+Independência: A ASF mantém uma posição de neutralidade e independência, garantindo que os projetos de código aberto possam operar sem influências externas prejudiciais.
+
+Excelência Técnica: A ASF busca manter altos padrões de qualidade técnica em seus projetos de software, promovendo a excelência técnica como um objetivo fundamental.
+
+Licenças Livres: A ASF está comprometida em promover o uso de licenças de software livre que permitam a colaboração global e o compartilhamento de código.
+
+
 ## Como a fundação se mantinha financeiramente no início? É assim 
 
 ## Até os dias atuais?

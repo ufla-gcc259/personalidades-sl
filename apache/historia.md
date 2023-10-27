@@ -16,6 +16,10 @@ Sua primeira versão foi liberada em Abril de 1995. E em junho de 1999, a ASF fo
 
 ## Quais as razões (motivações) levaram à sua existência?
 
+- Proporcionar uma estrutura para o desenvolvimento colaborativo de software de código aberto. A ASF fornece um conjunto de ferramentas e recursos que permitem aos desenvolvedores de todo o mundo colaborarem para criar software de alta qualidade.
+- Proteger os desenvolvedores de software de código aberto de responsabilidades legais. A ASF fornece uma cobertura legal que protege os desenvolvedores de software de código aberto de ações judiciais resultantes do uso de seus projetos.
+- Promover o software de código aberto. A ASF trabalha para promover o software de código aberto e educar o público sobre seus benefícios.
+
 ## Qual a missão, visão e valores da fundação?
 
 ### Missão:

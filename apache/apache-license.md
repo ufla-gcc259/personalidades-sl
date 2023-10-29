@@ -23,7 +23,25 @@ Os objetivos da Licença Apache incluem [^4]:
 
 Esses objetivos visam facilitar o uso e a distribuição do software, promover a interoperabilidade entre diferentes projetos de software livre e fornecer proteção legal aos contribuidores. Além disso, eles ajudam a esclarecer questões relacionadas à propriedade intelectual e patentes de software.
 
+## Qual a importância desse projeto para a fundação Apache e para o Software Livre como um todo?
+
+**Para a Fundação Apache**:
+
+- A licença permite que todo software produzido pela ASF ou qualquer um dos seus projetos e subprojetos seja licenciado de acordo com os termos da Licença Apache[^1].
+- A licença ajuda a fornecer proteção legal aos voluntários que trabalham em projetos Apache[^4].
+- Ela também ajuda a evitar que o nome da marca Apache seja usado por outras organizações sem permissão[^4].
+
+**Para o Software Livre**:
+
+- A Licença Apache é considerada uma licença de software livre e é compatível com a GPL 3.0, permitindo uma maior interoperabilidade entre projetos [^1].
+- Ela permite o uso e distribuição do código fonte tanto no software open source como no software proprietário[^1].
+- A licença pode ser facilmente aplicada, sem modificações no seu texto, a qualquer projeto que deseje fazer uso de suas políticas de licenciamento [^5].
+- Ela também esclarece a questão das patentes de software, concedendo uma licença mundial e perpétua para uso de patentes necessárias para uso ou distribuição do código contribuído [^5].
+
+Portanto, a Licença Apache desempenha um papel crucial na promoção e proteção do software livre e open source.
+
 [^1]: https://pt.wikipedia.org/wiki/Licen%C3%A7a_Apache
 [^2]: https://atlaspi.com.br/saiba-o-que-e-copyleft-e-como-diferenciar-de-copyright/#:~:text=Em%20suma%3A,seus%20direitos%20livres%20sejam%20mantidos.
 [^3]: https://exame.com/invest/guia/o-que-e-disclaimer-saiba-como-escrever-atualizar-e-quais-informacoes-incluir/
 [^4]: https://imasters.com.br/devsecops/conhecendo-a-licenca-apache
+[^5]: https://academia-lab.com/enciclop%C3%A9dia/a-fundacao-de-software-apache/

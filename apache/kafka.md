@@ -6,6 +6,10 @@
 
 O projeto tem por objetivo o desenvolvimento, em Scala e Java, de uma plataforma para tratamento de dados em tempo real. Tem também por objetivo ser uma plataforma unificada, de alta capacidade e de baixa latência.[^1]
 
+## Importância
+
+O Apache Kafka é fundamental para a Fundação Apache e o movimento de software livre devido à sua arquitetura de streaming de dados distribuída de alto desempenho, seu status como projeto de código aberto, sua integração com o ecossistema Apache, suporte da comunidade e sua ampla gama de casos de uso. Ele promove a inovação e a colaboração, permitindo que organizações lidem com grandes volumes de dados em tempo real de maneira escalável e personalizada.
+
 ## Página Oficial do Projeto Apache Kafka
 
 A página oficial do projeto Apache Kafka é o ponto de partida para obter informações detalhadas, documentação, downloads e recursos adicionais relacionados ao Kafka. Através deste portal, você pode acessar todas as informações essenciais sobre o Kafka e acompanhar as atualizações mais recentes do projeto.

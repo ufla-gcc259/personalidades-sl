@@ -10,6 +10,12 @@ O projeto tem por objetivo o desenvolvimento, em Scala e Java, de uma plataforma
 
 O Apache Kafka é fundamental para a Fundação Apache e o movimento de software livre devido à sua arquitetura de streaming de dados distribuída de alto desempenho, seu status como projeto de código aberto, sua integração com o ecossistema Apache, suporte da comunidade e sua ampla gama de casos de uso. Ele promove a inovação e a colaboração, permitindo que organizações lidem com grandes volumes de dados em tempo real de maneira escalável e personalizada.
 
+## Status Atual 
+
+O Kafka atualmente é mantido pela Apache Software Foundation e continua a ser uma escolha popular para empresas e organizações que precisam lidar com fluxos de dados em tempo real, processamento de eventos e mensagens em grande escala.
+
+Muitas empresas de tecnologia líderes e organizações em todo o mundo usam o Apache Kafka para uma variedade de casos de uso, incluindo análise de dados em tempo real, integração de sistemas, monitoramento de aplicativos e muito mais. O projeto também continua a ser desenvolvido ativamente pela comunidade de código aberto, com atualizações e novos recursos sendo lançados regularmente.
+
 ## Página Oficial do Projeto Apache Kafka
 
 A página oficial do projeto Apache Kafka é o ponto de partida para obter informações detalhadas, documentação, downloads e recursos adicionais relacionados ao Kafka. Através deste portal, você pode acessar todas as informações essenciais sobre o Kafka e acompanhar as atualizações mais recentes do projeto.

@@ -2,6 +2,10 @@
 
 # Apache Kafka
 
+## Objetivos
+
+O projeto tem por objetivo o desenvolvimento, em Scala e Java, de uma plataforma para tratamento de dados em tempo real. Tem também por objetivo ser uma plataforma unificada, de alta capacidade e de baixa latência.[^1]
+
 ## Página Oficial do Projeto Apache Kafka
 
 A página oficial do projeto Apache Kafka é o ponto de partida para obter informações detalhadas, documentação, downloads e recursos adicionais relacionados ao Kafka. Através deste portal, você pode acessar todas as informações essenciais sobre o Kafka e acompanhar as atualizações mais recentes do projeto.
@@ -31,3 +35,5 @@ Lembre-se de que a página oficial é uma fonte confiável para obter informaç�
 
 ---
 Para obter mais detalhes e acesso à página oficial do Apache Kafka, visite [https://kafka.apache.org/](https://kafka.apache.org/).
+
+[^1]: https://pt.wikipedia.org/wiki/Apache_Kafka 

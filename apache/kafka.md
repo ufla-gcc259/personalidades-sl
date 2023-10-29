@@ -1,3 +1,33 @@
 [Voltar](intro.md)
 
 # Apache Kafka
+
+## Página Oficial do Projeto Apache Kafka
+
+A página oficial do projeto Apache Kafka é o ponto de partida para obter informações detalhadas, documentação, downloads e recursos adicionais relacionados ao Kafka. Através deste portal, você pode acessar todas as informações essenciais sobre o Kafka e acompanhar as atualizações mais recentes do projeto.
+
+**Nome do Projeto**: Apache Kafka
+
+**Descrição**: A página oficial do Apache Kafka é o recurso definitivo para informações detalhadas, documentação, downloads e recursos relacionados ao Kafka.
+
+### Conteúdo Disponível
+
+A página oficial do Apache Kafka oferece uma variedade de recursos, incluindo:
+
+- **Documentação Abrangente**: Encontre guias detalhados, tutoriais e referências para entender e usar o Apache Kafka.
+
+- **Downloads**: Baixe as versões mais recentes do Kafka e outros componentes relacionados.
+
+- **Notícias e Atualizações**: Mantenha-se informado sobre as últimas notícias, lançamentos e atualizações do projeto.
+
+- **Comunidade**: Acesse links para fóruns, listas de discussão e outras plataformas de interação com a comunidade Kafka.
+
+- **Casos de Uso**: Descubra como o Kafka é aplicado em vários setores e cenários.
+
+- **Contribuição**: Saiba como contribuir para o projeto Kafka, se você estiver interessado em participar do desenvolvimento.
+
+Exploração Adicional: A página oficial do projeto Apache Kafka é um ponto de partida excelente, mas há mais recursos disponíveis em toda a web. A página inclui links para a página no [GitHub](https://github.com/apache/kafka), onde você pode explorar o código-fonte, abrir problemas e contribuir para o projeto.
+Lembre-se de que a página oficial é uma fonte confiável para obter informações atualizadas e precisas sobre o projeto Kafka. Certifique-se de verificar periodicamente para se manter atualizado sobre as novidades.
+
+---
+Para obter mais detalhes e acesso à página oficial do Apache Kafka, visite [https://kafka.apache.org/](https://kafka.apache.org/).

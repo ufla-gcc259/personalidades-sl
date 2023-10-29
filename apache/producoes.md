@@ -10,6 +10,10 @@
 
 3. **"Spark: The Definitive Guide"** - [Link para o livro](https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/)
 
+4. **"Tomcat: The Definitive Guide"** - [Link para o livro](https://www.oreilly.com/library/view/tomcat-the-definitive/0596003188/)
+
+5. **"Kafka: The Definitive Guide"** - [Link para o livro](https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/)
+
 ## Artigos e Documentos Técnicos:
 
 1. **Apache Documentação Oficial** - [Link para a documentação oficial](https://www.apache.org/docs/)

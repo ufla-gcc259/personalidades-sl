@@ -48,9 +48,35 @@ A Licença Apache é frequentemente usada em muitos projetos de código aberto e
 
 Portanto, a Licença Apache mantém um status ativo e relevante na comunidade de software livre.
 
+## Qual a página oficial do projeto?
+
+- [Licenses - The Apache Software Foundation](https://apache.org/licenses/)
+
+## Como aplicar a Licença Apache ao seu trabalho
+
+Para aplicar a Licença Apache, anexe o seguinte aviso, com os campos entre colchetes "[]" substituídos por suas próprias informações de identificação. (Não inclua os colchetes!) O texto deve ser incluído na sintaxe de comentário apropriada para o formato de arquivo. Também recomendamos que um nome de arquivo ou classe e a descrição da finalidade sejam incluídos na mesma "página impressa" que o aviso de direitos autorais para facilitar a identificação em arquivos de terceiros [^7].
+
+
+```
+Copyright [yyyy] [name of copyright owner]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
+
 [^1]: https://pt.wikipedia.org/wiki/Licen%C3%A7a_Apache
 [^2]: https://atlaspi.com.br/saiba-o-que-e-copyleft-e-como-diferenciar-de-copyright/#:~:text=Em%20suma%3A,seus%20direitos%20livres%20sejam%20mantidos.
 [^3]: https://exame.com/invest/guia/o-que-e-disclaimer-saiba-como-escrever-atualizar-e-quais-informacoes-incluir/
 [^4]: https://imasters.com.br/devsecops/conhecendo-a-licenca-apache
 [^5]: https://academia-lab.com/enciclop%C3%A9dia/a-fundacao-de-software-apache/
 [^6]: https://qastack.com.br/software/297217/using-code-under-apache-2-0-license-in-my-program-using-mit-license
+[^7]: https://opensource.org/license/apache-2-0/

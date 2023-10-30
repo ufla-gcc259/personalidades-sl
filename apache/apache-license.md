@@ -40,8 +40,17 @@ Esses objetivos visam facilitar o uso e a distribuição do software, promover a
 
 Portanto, a Licença Apache desempenha um papel crucial na promoção e proteção do software livre e open source.
 
+## Qual o status do projeto atualmente?
+
+A Licença Apache 2.0 continua sendo uma licença de software livre muito popular e amplamente utilizada. Ela foi criada em 2004 e é uma evolução de versões anteriores lançadas entre 1995 e 2000. Em 2009, mais de 5000 projetos externos à Fundação Apache hospedados no repositório SourceForge adotaram a Licença Apache. Além disso, em 2008, o Google informou que 25% dos 100.000 projetos então hospedados no Google Code adotaram a Licença Apache [^4].
+
+A Licença Apache é frequentemente usada em muitos projetos de código aberto e também é compatível com outras licenças, como a licença MIT [^6]. Isso permite uma maior interoperabilidade entre diferentes projetos de software livre.
+
+Portanto, a Licença Apache mantém um status ativo e relevante na comunidade de software livre.
+
 [^1]: https://pt.wikipedia.org/wiki/Licen%C3%A7a_Apache
 [^2]: https://atlaspi.com.br/saiba-o-que-e-copyleft-e-como-diferenciar-de-copyright/#:~:text=Em%20suma%3A,seus%20direitos%20livres%20sejam%20mantidos.
 [^3]: https://exame.com/invest/guia/o-que-e-disclaimer-saiba-como-escrever-atualizar-e-quais-informacoes-incluir/
 [^4]: https://imasters.com.br/devsecops/conhecendo-a-licenca-apache
 [^5]: https://academia-lab.com/enciclop%C3%A9dia/a-fundacao-de-software-apache/
+[^6]: https://qastack.com.br/software/297217/using-code-under-apache-2-0-license-in-my-program-using-mit-license

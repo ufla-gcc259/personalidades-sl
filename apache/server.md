@@ -8,45 +8,26 @@ O projeto Apache HTTP Server é um esforço para desenvolver e manter um servido
 
 ## História
 
-O Apache HTTP Server ("httpd") foi lançado em 1995 e é o servidor web mais popular da Internet desde abril de 1996. Ele comemorou seu 25º aniversário como projeto em fevereiro de 2020. O Apache HTTP Server é um projeto da Apache Software Foundation.
+O Apache HTTP Server ("httpd") foi lançado em 1995 e é o servidor web mais popular da Internet desde abril de 1996. O projeto Apache HTTP Server começou em 1995, quando um pequeno grupo de desenvolvedores web percebeu a necessidade de um servidor web de código aberto e robusto. Eles criaram o Apache como um projeto de software livre, o que significava que o código-fonte estava disponível para qualquer pessoa. Ele comemorou seu 25º aniversário como projeto em fevereiro de 2020. O Apache HTTP Server é um projeto da Apache Software Foundation, uma organização sem fins lucrativos dedicada a apoiar uma ampla variedade de projetos de código aberto. A Apache Software Foundation fornece suporte e recursos para o desenvolvimento contínuo do Apache HTTP Server.
 
-## Características
+A história do Apache HTTP Server é uma história de sucesso no mundo do software livre e do desenvolvimento colaborativo. Seu legado como um servidor web confiável e robusto permanece forte até hoje.
 
-O Apache HTTP Server é um servidor web poderoso e flexível que pode ser usado para hospedar uma ampla gama de sites e aplicativos. Ele é usado por uma ampla gama de organizações, incluindo empresas, governos e organizações sem fins lucrativos.
 
-Algumas das principais características do Apache HTTP Server incluem:
+## Objetivos do Apache HTTP Server
 
-* Suporte a HTTP/2, o protocolo HTTP mais recente
-* Suporte a segurança SSL/TLS para proteger o tráfego HTTP
-* Suporte a módulos para estender a funcionalidade do servidor
-* Facilidade de configuração e uso
+O uso do Apache HTTP Server oferece diversos benefícios:
 
-## Benefícios
+- **Disponibilizar conteúdo web para os usuários da Internet.** O Apache é um servidor web, portanto, seu objetivo principal é disponibilizar conteúdo web para os usuários da Internet. Isso inclui páginas estáticas, páginas dinâmicas, arquivos de mídia e outros tipos de conteúdo.
+- **Ser um servidor web seguro e confiável.** O Apache é projetado para ser um servidor web seguro e confiável. Ele inclui uma variedade de recursos de segurança, como autenticação, autorização e criptografia.
+- **Ser um servidor web escalável e eficiente.** O Apache pode ser escalado para atender a grandes volumes de tráfego. Ele também é projetado para ser eficiente no uso de recursos.
 
-O Apache HTTP Server é um recurso valioso para qualquer pessoa que precise hospedar um site ou aplicativo na Internet. Ele é gratuito, de código aberto e oferece uma ampla gama de recursos e funcionalidades.
+Os objetivos do Apache HTTP Server são alcançados por meio de uma variedade de recursos e funcionalidades, incluindo:
 
-Aqui estão alguns dos principais benefícios do uso do Apache HTTP Server:
+- **Suporte a uma ampla gama de protocolos e tecnologias.** O Apache suporta uma ampla gama de protocolos e tecnologias, incluindo HTTP/2, HTTP/3, SSL/TLS, CGI, PHP, Python e Java.
 
-* Segurança: O Apache HTTP Server é um servidor web seguro que oferece suporte a SSL/TLS para proteger o tráfego HTTP.
-* Eficiência: O Apache HTTP Server é um servidor web eficiente que pode lidar com um grande volume de tráfego.
-* Extensibilidade: O Apache HTTP Server é um servidor web extensível que pode ser personalizado para atender às necessidades específicas de qualquer organização.
-* Facilidade de uso: O Apache HTTP Server é um servidor web fácil de usar que pode ser configurado e mantido por usuários de todos os níveis de experiência.
+- **Uma arquitetura modular.** O Apache é um servidor web modular, o que significa que pode ser personalizado para atender às necessidades específicas de cada site.
 
-## Objetivos
-
-O Apache HTTP Server, comumente conhecido como Apache, é um servidor web de código aberto amplamente utilizado para hospedar sites e aplicativos da web. Seus principais objetivos incluem [^1]:
-
-1. **Confiabilidade e Estabilidade**: O Apache é conhecido por sua confiabilidade e estabilidade, tornando-o uma escolha popular para empresas e desenvolvedores que precisam de um servidor web robusto.
-
-2. **Flexibilidade**: É altamente configurável e extensível por meio de módulos, permitindo que os usuários adaptem o servidor às suas necessidades específicas.
-
-3. **Desempenho**: O Apache é otimizado para fornecer um bom desempenho, mesmo sob cargas pesadas, tornando-o uma opção sólida para sites de alto tráfego.
-
-4. **Segurança**: Ele oferece recursos avançados de segurança, como autenticação, controle de acesso e suporte a SSL/TLS, ajudando a proteger os aplicativos web contra ameaças.
-
-5. **Comunidade Ativa**: O Apache HTTP Server é mantido por uma comunidade ativa de desenvolvedores, o que significa que ele está em constante evolução e suporte.
-
-6. **Gratuito e de Código Aberto**: O Apache é distribuído sob uma licença de código aberto, tornando-o acessível e gratuito para uso por qualquer pessoa.
+- **Uma comunidade ativa de desenvolvedores.** O Apache tem uma comunidade ativa de desenvolvedores que está constantemente contribuindo para o seu desenvolvimento.
 
 # Importância do projeto Apache HTTP Server
 
@@ -55,26 +36,15 @@ O projeto Apache HTTP Server é um projeto de extrema importância para a Funda�
 
 ## Para a Fundação Apache
 
-* O projeto é um dos mais importantes, pois é responsável por fornecer um servidor web de alta qualidade e gratuito para a comunidade.
-* O Apache HTTP Server é o servidor web mais popular do mundo, e é usado por uma ampla gama de organizações, desde pequenas empresas até grandes corporações.
-* O sucesso do projeto Apache HTTP Server ajudou a Fundação Apache a se tornar uma das organizações de software livre mais importantes do mundo.
+* **Reconhecimento:** O sucesso do projeto Apache HTTP Server ajudou a Fundação Apache a se tornar uma das organizações de software livre mais importantes do mundo.
+* **Dinheiro:** A Fundação Apache recebe doações de empresas e organizações que usam o Apache HTTP Server.
+* **Recursos:** A Fundação Apache usa os recursos gerados pelo projeto Apache HTTP Server para apoiar outros projetos de software livre.
 
 ## Para o Software Livre
 
-* O projeto Apache HTTP Server é um exemplo de como o software livre pode ser usado para fornecer soluções de qualidade para uma ampla gama de necessidades.
-* O Apache HTTP Server é um projeto colaborativo, que é desenvolvido por uma comunidade global de desenvolvedores voluntários.
-* O sucesso do projeto Apache HTTP Server demonstra que o software livre pode ser usado para criar produtos e serviços de alta qualidade que são usados por milhões de pessoas em todo o mundo.
-
-## Benefícios específicos
-
-* **Para a Fundação Apache:**
-    * **Reconhecimento:** O sucesso do projeto Apache HTTP Server ajudou a Fundação Apache a se tornar uma das organizações de software livre mais importantes do mundo.
-    * **Dinheiro:** A Fundação Apache recebe doações de empresas e organizações que usam o Apache HTTP Server.
-    * **Recursos:** A Fundação Apache usa os recursos gerados pelo projeto Apache HTTP Server para apoiar outros projetos de software livre.
-* **Para o Software Livre:**
-    * **Acessibilidade:** O Apache HTTP Server é um produto de software livre, o que significa que ele está disponível gratuitamente para todos.
-    * **Qualidade:** O Apache HTTP Server é um produto de alta qualidade, que é usado por uma ampla gama de organizações.
-    * **Eficiência:** O Apache HTTP Server é um produto eficiente, que pode lidar com um grande volume de tráfego.
+* **Acessibilidade:** O Apache HTTP Server é um produto de software livre, o que significa que ele está disponível gratuitamente para todos.
+* **Qualidade:** O Apache HTTP Server é um produto de alta qualidade, que é usado por uma ampla gama de organizações.
+* **Eficiência:** O Apache HTTP Server é um produto eficiente, que pode lidar com um grande volume de tráfego.
 
 ## Status
 

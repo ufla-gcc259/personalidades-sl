@@ -39,6 +39,6 @@
 
 ### Referências
 [^1]: https://httpd.apache.org/docs/2.4/misc/rewritehistory.html
-[^1]: https://www.apache.org/
-[^1]: https://www.apache.org/licenses/LICENSE-2.0
+[^2]: https://www.apache.org/
+[^3]: https://www.apache.org/licenses/LICENSE-2.0
 -

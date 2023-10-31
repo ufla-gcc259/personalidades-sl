@@ -4,7 +4,7 @@
 
 ## O que é o projeto?
 
-A Licença Apache é uma licença de software livre permissiva de autoria da Apache Software Foundation (ASF). Todo software produzido pela ASF ou qualquer um dos seus projetos e subprojetos é licenciado de acordo com os termos da licença Apache. Alguns projetos não pertencentes à ASF também utilizam esta licença. A licença Apache (versões 1.0, 1.1 e 2.0) exigem a inclusão do aviso de copyright e um disclaimer, ela permite o uso e distribuição do código fonte tanto no software open source como no software proprietário [^1].
+A Licença Apache é uma licença de software livre permissiva de autoria da Apache Software Foundation (ASF). Todo software produzido pela ASF ou qualquer um dos seus projetos e subprojetos é licenciado de acordo com os termos da licença Apache. Alguns projetos não pertencentes à ASF também utilizam esta licença. A licença Apache (versões 1.0, 1.1 e 2.0) exigem a inclusão do aviso de _copyright_ e um _disclaimer_, ela permite o uso e distribuição do código fonte tanto no software _open-source_ como no software proprietário [^1].
 
 > Termos:
 >
@@ -13,10 +13,10 @@ A Licença Apache é uma licença de software livre permissiva de autoria da Apa
 
 ## Qual é ou quais são seus objetivos?
 
-Os objetivos da Licença Apache incluem [^4]:
+Os objetivos da Licença Apache incluem [^4] :
 
 - Simplificar a adoção da licença para projetos de fora da ASF.
-- Aumentar a compatibilidade com a licença GPL (General Public License).
+- Aumentar a compatibilidade com a licença GPL (_General Public License_).
 - Permitir que a licença seja incluída por referência, ao invés da necessidade de incluí-la em cada arquivo.
 - Esclarecer a licença de contribuições.
 - Requisitar uma licença de patente para aquelas contribuições que necessariamente infringem as patentes do contribuidor.
@@ -27,18 +27,18 @@ Esses objetivos visam facilitar o uso e a distribuição do software, promover a
 
 **Para a Fundação Apache**:
 
-- A licença permite que todo software produzido pela ASF ou qualquer um dos seus projetos e subprojetos seja licenciado de acordo com os termos da Licença Apache[^1].
-- A licença ajuda a fornecer proteção legal aos voluntários que trabalham em projetos Apache[^4].
-- Ela também ajuda a evitar que o nome da marca Apache seja usado por outras organizações sem permissão[^4].
+- A licença permite que todo software produzido pela ASF ou qualquer um dos seus projetos e subprojetos seja licenciado de acordo com os termos da Licença Apache [^1].
+- A licença ajuda a fornecer proteção legal aos voluntários que trabalham em projetos Apache [^4].
+- Ela também ajuda a evitar que o nome da marca Apache seja usado por outras organizações sem permissão [^4].
 
 **Para o Software Livre**:
 
 - A Licença Apache é considerada uma licença de software livre e é compatível com a GPL 3.0, permitindo uma maior interoperabilidade entre projetos [^1].
-- Ela permite o uso e distribuição do código fonte tanto no software open source como no software proprietário[^1].
+- Ela permite o uso e distribuição do código fonte tanto no software _open-source_ como no software proprietário [^1].
 - A licença pode ser facilmente aplicada, sem modificações no seu texto, a qualquer projeto que deseje fazer uso de suas políticas de licenciamento [^5].
 - Ela também esclarece a questão das patentes de software, concedendo uma licença mundial e perpétua para uso de patentes necessárias para uso ou distribuição do código contribuído [^5].
 
-Portanto, a Licença Apache desempenha um papel crucial na promoção e proteção do software livre e open source.
+Portanto, a Licença Apache desempenha um papel crucial na promoção e proteção do software livre e _open-source_.
 
 ## Qual o status do projeto atualmente?
 
@@ -73,10 +73,10 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
-[^1]: https://pt.wikipedia.org/wiki/Licen%C3%A7a_Apache
-[^2]: https://atlaspi.com.br/saiba-o-que-e-copyleft-e-como-diferenciar-de-copyright/#:~:text=Em%20suma%3A,seus%20direitos%20livres%20sejam%20mantidos.
-[^3]: https://exame.com/invest/guia/o-que-e-disclaimer-saiba-como-escrever-atualizar-e-quais-informacoes-incluir/
-[^4]: https://imasters.com.br/devsecops/conhecendo-a-licenca-apache
-[^5]: https://academia-lab.com/enciclop%C3%A9dia/a-fundacao-de-software-apache/
-[^6]: https://qastack.com.br/software/297217/using-code-under-apache-2-0-license-in-my-program-using-mit-license
-[^7]: https://opensource.org/license/apache-2-0/
+[^1]:https://pt.wikipedia.org/wiki/Licen%C3%A7a_Apache
+[^2]:https://atlaspi.com.br/saiba-o-que-e-copyleft-e-como-diferenciar-de-copyright/#:~:text=Em%20suma%3A,seus%20direitos%20livres%20sejam%20mantidos.
+[^3]:https://exame.com/invest/guia/o-que-e-disclaimer-saiba-como-escrever-atualizar-e-quais-informacoes-incluir/
+[^4]:https://imasters.com.br/devsecops/conhecendo-a-licenca-apache
+[^5]:https://academia-lab.com/enciclop%C3%A9dia/a-fundacao-de-software-apache/
+[^6]:https://qastack.com.br/software/297217/using-code-under-apache-2-0-license-in-my-program-using-mit-license
+[^7]:https://opensource.org/license/apache-2-0/

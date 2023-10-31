@@ -29,7 +29,7 @@
 
 &nbsp;
 
-2. Em 2013, o Apache foi criticado por sua falta de diversidade, com apenas 10% de seus desenvolvedores sendo mulheres. No decorrer do tempo, a orgaização tomou medidas para aumentar a diversidade em seus projetos.
+2. Em 2013, o Apache foi criticado por sua falta de diversidade, com apenas 10% de seus desenvolvedores sendo mulheres. No decorrer do tempo, a orgaização tomou medidas para aumentar a diversidade em seus projetos. [^8]
 
 *A falta de diversidade no setor de tecnologia é um problema debatido há anos, o Apache não é a única organização que enfrenta esse desafio.*
 
@@ -46,7 +46,7 @@
 - Expansão Além do Servidor Web: O Projeto Apache cresceu para incluir uma variedade de outros projetos de software, como o Apache Tomcat (um servidor de aplicativos Java), o Apache Struts (um framework web para Java) e o Apache Hadoop (um framework para processamento de dados em cluster). Cada projeto segue os princípios de código aberto e é desenvolvido de forma colaborativa. [^5]
 - Impacto na Internet: O Apache teve um impacto significativo na infraestrutura da Internet. Muitos dos sites mais populares do mundo usam o Apache HTTP Server, demonstrando sua confiabilidade e capacidade de escala.
 - Licença Apache: O Projeto Apache usa a Licença Apache, uma licença de código aberto permissiva que permite que o software seja usado, modificado e distribuído de forma ampla, desde que os termos da licença sejam cumpridos.
-- Organização Apache: A Apache Software Foundation (ASF) é a organização sem fins lucrativos por trás do Projeto Apache. A ASF fornece suporte e recursos para os projetos, incluindo infraestrutura de hospedagem, governança e proteção legal.[^7]
+- Organização Apache: A Apache Software Foundation (ASF) é a organização sem fins lucrativos por trás do Projeto Apache. A ASF fornece suporte e recursos para os projetos, incluindo infraestrutura de hospedagem, governança e proteção legal.[^6]
 
 &nbsp;
 ---
@@ -58,4 +58,6 @@
 [^3]: https://httpd.apache.org/docs/2.4/mod/
 [^4]: https://httpd.apache.org/docs/history.html
 [^5]: https://projects.apache.org/
+[^6]: https://www.apache.org/foundation/
 [^7]: https://www.apache.org/foundation/
+[^8]: https://diversity.apache.org/

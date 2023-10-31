@@ -4,16 +4,16 @@
 
 ## Kafka
 
-O Apache Kafka é uma plataforma open-source de streaming de dados desenvolvido pela Apache Software Foundation, escrita em Scala e Java. A plataforma foi um sistema interno criado pelo LinkedIn e posteriormente doado à Apache para ser desenvolvido como projeto de codigo aberto.
-Sendo projetado para lidar com armazenamento, processamento e ingestão de fluxo de dados em tempo real, o Kafka é utilizado em casos que análise em tempo real é necessário, como em sistema de monitoramento, ingestão de dados de sensores e registro de atividades.
+O Apache Kafka é uma plataforma *open-source* de *streaming* de dados desenvolvido pela Apache Software Foundation, escrita em Scala e Java. A plataforma foi um sistema interno criado pelo LinkedIn e posteriormente doado à Apache para ser desenvolvido como projeto de codigo aberto.
+Sendo projetado para lidar com armazenamento, processamento e ingestão de fluxo de dados em tempo real, o Kafka é utilizado em casos que análise em tempo real é necessária, como em sistema de monitoramento, ingestão de dados de sensores e registro de atividades.
 
 ## Objetivos
 
-O projeto tem por objetivo o desenvolvimento, em Scala e Java, de uma plataforma para tratamento de dados em tempo real. Tem também por objetivo ser uma plataforma unificada, de alta capacidade e de baixa latência.[^1]
+O projeto tem por objetivo o desenvolvimento, em Scala e Java, de uma plataforma para tratamento de dados em tempo real. Tem também por objetivo ser uma plataforma unificada, de alta capacidade e de baixa latência. [^1]
 
 ## Importância
 
-O Apache Kafka é fundamental para a Fundação Apache e o movimento de software livre devido à sua arquitetura de streaming de dados distribuída de alto desempenho, seu status como projeto de código aberto, sua integração com o ecossistema Apache, suporte da comunidade e sua ampla gama de casos de uso. Ele promove a inovação e a colaboração, permitindo que organizações lidem com grandes volumes de dados em tempo real de maneira escalável e personalizada.
+O Apache Kafka é fundamental para a Fundação Apache e o movimento de software livre devido à sua arquitetura de *streaming* de dados distribuída de alto desempenho, seu status como projeto de código aberto, sua integração com o ecossistema Apache, suporte da comunidade e sua ampla gama de casos de uso. Ele promove a inovação e a colaboração, permitindo que organizações lidem com grandes volumes de dados em tempo real de maneira escalável e personalizada.
 
 ## Status Atual 
 

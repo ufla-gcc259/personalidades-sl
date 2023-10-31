@@ -29,7 +29,7 @@
 
 &nbsp;
 
-2. Em 2013, o Apache foi criticado por sua falta de diversidade, com apenas 10% de seus desenvolvedores sendo mulheres. No decorrer do tempo, a orgaização tomou medidas para aumentar a diversidade em seus projetos. [^8]
+2. Em 2013, o Apache foi criticado por sua falta de diversidade, com apenas 10% de seus desenvolvedores sendo mulheres. No decorrer do tempo, a orgaização tomou medidas para aumentar a diversidade em seus projetos. [^7]
 
 *A falta de diversidade no setor de tecnologia é um problema debatido há anos, o Apache não é a única organização que enfrenta esse desafio.*
 

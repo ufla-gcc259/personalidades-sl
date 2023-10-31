@@ -21,6 +21,10 @@ O Apache HTTP Server, comumente conhecido como Apache, é um servidor web de có
 Visite a [página oficial do Apache HTTP Server](https://httpd.apache.org/) para obter informações detalhadas, documentação e downloads.
 
 <!-- Referências: -->
-
 [^1]: [Página oficial do Apache HTTP Server](https://httpd.apache.org/)
 
+## Status
+
+Atualmente a Fundação Apache Software e o Projeto Apache HTTP Server esta na verção versão 2.4.58 do Apache HTTP Server ("httpd").
+
+Esta página fornece informações essenciais sobre o Apache HTTP Server e seus principais objetivos. Certifique-se de explorar a página oficial do projeto para obter informações atualizadas e recursos adicionais.

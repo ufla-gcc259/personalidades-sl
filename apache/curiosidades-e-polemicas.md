@@ -59,5 +59,4 @@
 [^4]: https://httpd.apache.org/docs/history.html
 [^5]: https://projects.apache.org/
 [^6]: https://www.apache.org/foundation/
-[^7]: https://www.apache.org/foundation/
-[^8]: https://diversity.apache.org/
+[^7]: https://diversity.apache.org/

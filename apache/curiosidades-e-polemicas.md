@@ -21,7 +21,7 @@
 ---
 &nbsp;
 
-<!-- <img src="" alt="Imagem" style="border: 2px solid white; border-radius: 50%; width: 100px;" /> -->
+<img src="https://schiller.edu/uploads/media/1-1-medium/08/928-Bs-Computer-Science-web.jpg?v=1-0" alt="Imagem" style="border: 2px solid white; border-radius: 50%; width: 100px;" />
 
 ### Aspectos históricos
 - O projeto começou como uma tentativa de criar um servidor web de código aberto que fosse mais eficiente e seguro do que os servidores web existentes na época.
@@ -31,3 +31,5 @@
 &nbsp;
 
 ### Referências
+
+-

@@ -1,8 +1,8 @@
 [Voltar](intro.md)
 
-# Pessoas envolvidas [^1] [^2]
+# Pessoas envolvidas [^1] [^2] [^3]
 
-## Brian Behlendorf [^3]
+## Brian Behlendorf 
 
 __Quando atuou na fundação:__  1995-presente
 

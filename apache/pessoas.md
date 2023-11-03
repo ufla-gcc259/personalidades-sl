@@ -1,6 +1,6 @@
 [Voltar](intro.md)
 
-# Pessoas envolvidas [^1] [^2] [^3]
+# Pessoas envolvidas  **[[1]](https://nn.wikipedia.org/wiki/Apache)** **[[2]](https://httpd.apache.org/ABOUT_APACHE.html)** **[[3]](https://awards.acm.org/award-recipients/behlendorf_0123052)**
 
 ## Brian Behlendorf 
 
@@ -190,7 +190,6 @@ __Importância para a história da fundação e para o mundo software livre como
 
 
 # Referências:
-
-[^1]: https://nn.wikipedia.org/wiki/Apache
-[^2]: https://httpd.apache.org/ABOUT_APACHE.html
-[^3]: https://awards.acm.org/award-recipients/behlendorf_0123052
+* [1: https://nn.wikipedia.org/wiki/Apache](https://nn.wikipedia.org/wiki/Apache)
+* [2: https://httpd.apache.org/ABOUT_APACHE.html](https://httpd.apache.org/ABOUT_APACHE.html)
+* [3: https://awards.acm.org/award-recipients/behlendorf_0123052](https://awards.acm.org/award-recipients/behlendorf_0123052)

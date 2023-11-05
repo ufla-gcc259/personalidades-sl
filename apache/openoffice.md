@@ -2,40 +2,40 @@
 
 # Apache Openoffice
 
-* O que é o Projeto?
+## O que é o Projeto?
 
 O Apache OpenOffice é uma suíte de aplicativos de código aberto para escritório que inclui processador de texto, planilha, programa de apresentação, editor de gráficos vetoriais e muito mais. Ele é uma alternativa de software livre ao Microsoft Office e ao LibreOffice, oferecendo uma ampla gama de recursos para criar e editar documentos, planilhas e apresentações[^1].
 
-* Quais são seus objetivos?
+## Quais são seus objetivos?
 
 O projeto Apache OpenOffice tem como principais objetivos oferecer um conjunto de aplicativos de escritório de código aberto de alta qualidade, manter a compatibilidade com formatos de arquivo populares, garantir a acessibilidade em diversas plataformas, permitir a extensibilidade e promover o desenvolvimento colaborativo de código aberto. Seu objetivo central é proporcionar uma alternativa gratuita ao software proprietário de suíte de escritório, atendendo às necessidades de uma ampla variedade de usuários em todo o mundo[^2].
 
-* Qual sua importância ?
+## Qual sua importância ?
 
 O projeto Apache OpenOffice é importante para a Apache Software Foundation e a comunidade de software livre como um todo, pois representa um esforço significativo de desenvolvimento de software de código aberto que oferece uma suíte de escritório completa e acessível, ajudando a promover a liberdade do software e a opção de escolha para os usuários, reduzindo a dependência de soluções de software proprietário. Além disso, ele demonstra o compromisso contínuo da comunidade de código aberto com a manutenção e aprimoramento de alternativas de software de alta qualidade e de código aberto[^3].
 
-* Status do projeto atualmente
+## Status do projeto atualmente
 
 O Apache OpenOffice foi descontinuado devido a uma combinação de fatores, incluindo um estado de desenvolvimento lento e a falta de contribuições regulares por parte da comunidade de desenvolvedores. Isso resultou em um progresso limitado na melhoria do software e na resolução de problemas. Além disso, a disponibilidade de alternativas de suíte de escritório de código aberto, como o LibreOffice, que viu um desenvolvimento mais ativo e maior apoio da comunidade, acabou reduzindo a demanda pelo Apache OpenOffice. Como resultado, a Apache Software Foundation anunciou que não tinha recursos para manter o projeto de forma eficaz, levando à sua descontinuação[^4].
 
-* Página Oficial do Projeto
+## Página Oficial do Projeto
 
 [Site Oficial Apache OpenOffice](https://www.openoffice.org/ "Site Oficial")
 
+<br/><br/>
 
+# Aqui estão alguns dos principais componentes do Apache OpenOffice:
 
-## Aqui estão alguns dos principais componentes do Apache OpenOffice:
-
- Writer
- =====
+Writer
+====
 
  <img src="https://www.openoffice.org/product/pix/writer-big.png" alt="Exemplo do writer" width="400"/> <br />
 
 O Writer é o processador de texto da suíte OpenOffice, que oferece recursos completos para criação e formatação de documentos. Ele inclui assistentes para tarefas padrão, suporte a estilos e formatação avançados, correção automática, conclusão automática e a capacidade de trabalhar com múltiplas línguas. Além disso, permite a criação de documentos complexos, como boletins informativos, e oferece recursos como tabelas de conteúdo, notas avançadas e exportação para diversos formatos, incluindo PDF e HTML. O Writer é compatível com formatos Microsoft Word e OpenDocument, proporcionando flexibilidade na troca de documentos[^5].
 
  
- Cal
- ====
+Cal
+====
 
  <img src="https://www.openoffice.org/product/pix/calc-big.png" alt="Exemplo do Cal" width="400"/> <br />
 

@@ -2,17 +2,19 @@
 
 # Apache Maven
 
+Esse texto foi escrito com base na documentação oficial do Apache Maven (3.9.5, 2023), na seção *"What is Maven?"*.[^1]
+
 ## O que é o Maven
 
-O nome Maven vem de uma língua germânica e significa acumulador de conhecimento. Trata-se de uma ferramenta para gerenciar e construir projetos baseados em Java.[^1]
+O nome Maven vem de uma língua germânica e significa acumulador de conhecimento. Trata-se de uma ferramenta para gerenciar e construir projetos baseados em Java.
 
 ## Origem
 
-O Maven surgiu como uma tentativa de facilitar o processo de construção do [Turbine](https://turbine.apache.org/), um framework de desenvolvimento web rápido, dentro do projeto Jakarta.[^1]
+O Maven surgiu como uma tentativa de facilitar o processo de construção do [Turbine](https://turbine.apache.org/), um framework de desenvolvimento web rápido, dentro do projeto Jakarta.
 
-O projeto Jakarta foi um guarda-chuva de vários projetos, sendo alguns dos mais famosos o próprio Maven, Tomcat e Ant.[^1]
+O projeto Jakarta foi um guarda-chuva de vários projetos, sendo alguns dos mais famosos o próprio Maven, Tomcat e Ant.
 
-O Maven surgiu devido à dificuldade em gerenciar e construir os projetos usando Ant, uma vez que cada processo tinha seus arquivos JAR de uma maneira diferente, tornando difícil o compartilhamento entre projetos e a possibilidade de reuso. O Maven surgiu com o objetivo de permitir um gerenciamento, compartilhamento e publicação fáceis de projetos Java.[^1]
+O Maven surgiu devido à dificuldade em gerenciar e construir os projetos usando Ant, uma vez que cada processo tinha seus arquivos JAR de uma maneira diferente, tornando difícil o compartilhamento entre projetos e a possibilidade de reuso. O Maven surgiu com o objetivo de permitir um gerenciamento, compartilhamento e publicação fáceis de projetos Java.
 
 ## Importância
 
@@ -24,15 +26,15 @@ Atualmente, é extremamente necessário o uso de algum gerenciador de projeto pa
 
 ### Facilitar o processo de construção
 
-O Maven permite que o desenvolvedor não precise entender profundamente o processo de construção de um projeto, porém não elimina a necessidade de saber como funciona.[^1]
+O Maven permite que o desenvolvedor não precise entender profundamente o processo de construção de um projeto, porém não elimina a necessidade de saber como funciona.
 
 ### Criar um sistema de construção padronizado
 
-O Maven utiliza seu modelo de objeto de projeto (POM) e seus plugins. Quando o usuário compreende como funciona um projeto Maven, ele compreende vários, facilitando a navegação entre diversos projetos.[^1]
+O Maven utiliza seu modelo de objeto de projeto (POM) e seus plugins. Quando o usuário compreende como funciona um projeto Maven, ele compreende vários, facilitando a navegação entre diversos projetos.
 
 ### Prover informações sobre o projeto com qualidade
 
-O Maven fornece informações úteis com base no POM, incluindo:[^1]
+O Maven fornece informações úteis com base no POM, incluindo:
 
 * Changelog criado diretamente da fonte do projeto
 * Referência a fontes externas
@@ -44,7 +46,7 @@ Além disso, por meio de plugins, é possível estender as informações geradas
 
 ### Prover diretrizes e boas práticas de desenvolvimento
 
-O Maven fornece boas práticas e as práticas mais atuais de várias maneiras:[^1]
+O Maven fornece boas práticas e as práticas mais atuais de várias maneiras:
 
 * Separa em árvores diferentes o código fonte dos testes de unidade
 * Cria um padrão de nomenclatura para os testes de unidade, facilitando a localização e execução dos testes
@@ -53,7 +55,7 @@ O Maven fornece boas práticas e as práticas mais atuais de várias maneiras:[^
 
 ## Status atual do projeto
 
-O Maven continua sendo mantido pela Apache Foundation e recebe novas versões frequentemente.[^1]
+O Maven continua sendo mantido pela Apache Foundation e recebe novas versões frequentemente.
 
 ## Página oficial do projeto
 

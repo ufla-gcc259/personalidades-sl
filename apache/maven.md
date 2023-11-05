@@ -14,6 +14,12 @@ O projeto Jakarta foi um guarda-chuva de vários projetos, sendo alguns dos mais
 
 O Maven surgiu devido à dificuldade em gerenciar e construir os projetos usando Ant, uma vez que cada processo tinha seus arquivos JAR de uma maneira diferente, tornando difícil o compartilhamento entre projetos e a possibilidade de reuso. O Maven surgiu com o objetivo de permitir um gerenciamento, compartilhamento e publicação fáceis de projetos Java.[^1]
 
+## Importância
+
+O Maven surgiu para resolver problemas internos no desenvolvimento dos projetos da própria Apache Foundation, sendo atualmente utilizado globalmente por desenvolvedores Java para auxiliar no desenvolvimento. Segundo análise entre julho de 2022 e junho de 2023, ocorreram mais de 105 milhões de downloads.[^2]
+
+Atualmente, é extremamente necessário o uso de algum gerenciador de projeto para o desenvolvimento, e o Maven se mostra uma opção extremamente interessante como gerenciador de projeto.
+
 ## Objetivos
 
 ### Facilitar o processo de construção
@@ -48,12 +54,6 @@ O Maven fornece boas práticas e as práticas mais atuais de várias maneiras:[^
 ## Status atual do projeto
 
 O Maven continua sendo mantido pela Apache Foundation e recebe novas versões frequentemente.[^1]
-
-## Importância
-
-O Maven surgiu para resolver problemas internos no desenvolvimento dos projetos da própria Apache Foundation, sendo atualmente utilizado globalmente por desenvolvedores Java para auxiliar no desenvolvimento. Segundo análise entre julho de 2022 e junho de 2023, ocorreram mais de 105 milhões de downloads.[^2]
-
-Atualmente, é extremamente necessário o uso de algum gerenciador de projeto para o desenvolvimento, e o Maven se mostra uma opção extremamente interessante como gerenciador de projeto.
 
 ## Página oficial do projeto
 

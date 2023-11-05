@@ -4,21 +4,21 @@
 
 ## Livros:
 
-1. **"Hadoop: The Definitive Guide"** - [Link para o livro](https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/)
+1. [**"Hadoop: The Definitive Guide"**](https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/), por Tom White, editado por "O'Reilly Media, Inc" e publicado em Abril de 2015. 754 páginas. 
 
-2. **"Cassandra: The Definitive Guide"** - [Link para o livro](https://www.oreilly.com/library/view/cassandra-the-definitive/9781491933657/)
+2. [**"Cassandra: The Definitive Guide"**](https://www.oreilly.com/library/view/cassandra-the-definitive/9781491933657/), por Jeff Carpenter e Eben Hewitt, editado por "O'Reilly Media, Inc" e publicado em Julho de 2016. 328 páginas. 
 
-3. **"Spark: The Definitive Guide"** - [Link para o livro](https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/)
+3.  [**"Spark: The Definitive Guide"**](https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/), por Bill Chambers e Matei Zaharia, editado por "O'Reilly Media, Inc" e publicado em Fevereiro de 2018. 603 páginas.
 
-4. **"Tomcat: The Definitive Guide"** - [Link para o livro](https://www.oreilly.com/library/view/tomcat-the-definitive/0596003188/)
+4.  [**"Tomcat: The Definitive Guide"**](https://www.oreilly.com/library/view/tomcat-the-definitive/0596003188/), por Jason Brittain e Ian F. Darwin, editado por "O'Reilly Media, Inc" e publicado em Junho de 2003. 494 páginas.
 
-5. **"Kafka: The Definitive Guide"** - [Link para o livro](https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/)
+5. [**"Kafka: The Definitive Guide"**](https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/), por Neha Narkhede, Gwen Shapira e Todd Palino, editado por "O'Reilly Media, Inc" e publicado em Setembro de 2017. 322 páginas.
 
 ## Artigos e Documentos Técnicos:
 
-1. **Apache Documentação Oficial** - [Link para a documentação oficial](https://www.apache.org/docs/)
+1. [**Apache Documentação Oficial**](https://www.apache.org/docs/)
 
-2. **Apache Blog** - [Link para o blog](https://blogs.apache.org/)
+2. [**Apache Blog**](https://blogs.apache.org/)
 
 
 # Projetos da Apache

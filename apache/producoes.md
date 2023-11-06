@@ -30,6 +30,7 @@ Embora haja inúmeros projetos sob o guarda-chuva da Apache, alguns se destacam 
 ## 1. [Apache HTTP Server](https://projects.apache.org/project.html?httpd-http_server)
 
 O Apache HTTP Server é o servidor HTTP mais popular do mundo e é utilizado por cerca de 60% de todos os sites da internet. Ele oferece confiabilidade e flexibilidade para hospedar sites e aplicativos da web.
+Podemos ver mais sobre este projeto [neste arquivo](server.md).
 
 ## 2. [Apache Tomcat](https://projects.apache.org/project.html?tomcat)
 
@@ -37,8 +38,7 @@ O Apache Tomcat é um servidor web Java que é amplamente utilizado para hospeda
 
 ## 3. [Apache Maven](https://projects.apache.org/project.html?maven)
 
-O Apache Maven é um poderoso gerenciador de projetos de software que automatiza tarefas como compilação, teste e implantação. Ele simplifica o ciclo de vida do desenvolvimento de software.
-
+O Apache Maven é um poderoso gerenciador de projetos de software que automatiza tarefas como compilação, teste e implantação. Ele simplifica o ciclo de vida do desenvolvimento de software. Podemos ver mais sobre esse projeto [neste arquivo](maven.md).
 ## 4. [Apache Hadoop](https://projects.apache.org/project.html?hadoop)
 
 O Apache Hadoop é uma plataforma de código aberto que possibilita o armazenamento e processamento de grandes volumes de dados, sendo fundamental para soluções de big data.
@@ -50,7 +50,7 @@ O Apache Spark é uma plataforma de análise de dados em tempo real que permite 
 ## 6. [Apache Kafka](https://projects.apache.org/project.html?kafka)
 
 O Apache Kafka é uma plataforma de streaming de dados que permite o armazenamento e processamento de dados em tempo real, sendo crucial para aplicações de dados em tempo real.
-
+Podemos ver mais sobre este projeto [neste arquivo](kafka.md).
 ## 7. [Apache Cassandra](https://projects.apache.org/project.html?cassandra)
 
 O Apache Cassandra é um sistema de gerenciamento de banco de dados NoSQL distribuído amplamente utilizado para armazenar grandes volumes de dados de maneira escalável e confiável.
@@ -58,5 +58,7 @@ O Apache Cassandra é um sistema de gerenciamento de banco de dados NoSQL distri
 ## 8. [Apache OpenOffice](https://projects.apache.org/project.html?openoffice)
 
 O Apache OpenOffice é um pacote de produtividade de escritório gratuito e de código aberto que oferece alternativas ao Microsoft Office. Ele é usado por muitos para criar documentos, planilhas e apresentações.
+Podemos ver mais sobre este projeto [neste arquivo](openoffice.md).
+
 
 Esses projetos Apache são amplamente adotados por uma variedade de empresas e organizações, desde pequenas startups até grandes corporações. Eles desempenham papéis críticos em várias áreas, como hospedagem de sites, processamento de dados, análise de dados, armazenamento de dados e muito mais. Sinta-se à vontade para explorar esses projetos e descobrir como eles podem ser relevantes para seus próprios objetivos e necessidades de tecnologia.
